@@ -1,0 +1,4018 @@
+--- 2001 2000389
+
+
+Answer: 6
+--- 2002 3000389
+
+
+Answer: 16
+--- 2003 4000389
+
+
+3
+--- 2004 5000389
+
+
+3
+--- 2005 390
+
+
+Answer: 3
+--- 2006 1000390
+
+
+Answer: 20
+--- 2007 2000390
+
+
+Matthew got 45 cents for shining shoes.
+--- 2008 3000390
+
+
+3
+--- 2009 4000390
+
+
+3
+--- 2010 5000390
+
+
+Answer: 3
+--- 2011 6000390
+
+
+3
+--- 2012 7000390
+
+
+3
+--- 2013 8000390
+
+
+Tim got $14.06 in total from his tips.
+--- 2014 9000390
+
+
+Answer: 20
+--- 2015 10000390
+
+
+3 nickels and 13 dimes were given to Tim, and
+--- 2016 11000390
+
+
+Answer: 15
+--- 2017 12000390
+
+
+Answer: 15
+--- 2018 13000390
+
+
+Answer: 3
+--- 2019 14000390
+
+
+Answer: $14.06
+--- 2020 15000390
+
+
+Answer: 3
+--- 2021 16000390
+
+
+3
+--- 2022 391
+
+
+Adam will get $ 8.28 change.
+--- 2023 1000391
+
+
+$4.28 - $5.00 = $2.68
+--- 2024 2000391
+
+
+Answer: $0.68
+--- 2025 3000391
+
+
+Adam's change will be $4.28.
+--- 2026 4000391
+
+
+Adam expects to earn $4.28 from his $5.00
+--- 2027 5000391
+
+
+Adam will be given $4.28 in change.
+--- 2028 392
+
+
+3
+--- 2029 1000392
+
+
+Answer: 3
+--- 2030 2000392
+
+
+3
+--- 2031 3000392
+
+
+There are 16 students in each group.
+--- 2032 4000392
+
+
+Answer: 3
+--- 2033 5000392
+
+
+1. Group 1 has 8 members.
+2. Group 2 has
+--- 2034 393
+
+
+Answer: 12
+--- 2035 1000393
+
+
+Answer: 12
+--- 2036 2000393
+
+
+There were 79 customers at 'The Greasy Spoon' restaurant during lunch
+--- 2037 3000393
+
+
+The number of customers who didn't leave a tip was 49.
+--- 2038 4000393
+
+
+There were 97 customers who gave the waiter a tip.
+--- 2039 5000393
+
+
+There were 36 customers that needed service during lunch rush at 'The Gre
+--- 2040 394
+
+
+Answer: 36
+--- 2041 1000394
+
+
+Answer: 36
+--- 2042 2000394
+
+
+Answer: 36
+--- 2043 3000394
+
+
+Answer: 36
+--- 2044 4000394
+
+
+36
+--- 2045 5000394
+
+
+Answer: 36
+--- 2046 395
+
+
+Answer: 12
+--- 2047 1000395
+
+
+Answer: 6
+--- 2048 2000395
+
+
+Answer: 12
+--- 2049 3000395
+
+
+Answer: 6
+--- 2050 4000395
+
+
+Answer: 6
+--- 2051 5000395
+
+
+Answer: 12
+--- 2052 396
+
+
+Answer: 810
+--- 2053 1000396
+
+
+It will take John and Bob about 45 minutes to rinse the dishes together
+--- 2054 2000396
+
+
+It will take them both 3 hours and 45 minutes to rinse 810
+--- 2055 3000396
+
+
+John and Bob will take 3 hours and 45 minutes to rinse 810
+--- 2056 4000396
+
+
+Answer: 810
+--- 2057 5000396
+
+
+Answer: 5
+--- 2058 397
+
+
+The answer to the problem is $8.93.
+--- 2059 1000397
+
+
+The answer to the math problem is 8.9%.
+--- 2060 2000397
+
+
+The answer to the math problem is 8.9%.
+--- 2061 3000397
+
+
+The answer to the math problem is 8.9%.
+--- 2062 4000397
+
+
+The answer to the math problem is 8.9%.
+--- 2063 5000397
+
+
+The answer to the math problem is 8.9%.
+--- 2064 6000397
+
+
+You can spend up to $8.94 on food with the certificate
+--- 2065 7000397
+
+
+If I have a gift certificate and have to pay 8.9%
+--- 2066 8000397
+
+
+You can spend up to $8.94 on food with your gift
+--- 2067 9000397
+
+
+The answer to the math problem is 8.9%.
+--- 2068 10000397
+
+
+If I want to use the entire gift certificate, I could spend up
+--- 2069 11000397
+
+
+The answer to the problem is 10.
+--- 2070 12000397
+
+
+The answer to the problem is 3.14.
+--- 2071 13000397
+
+
+The answer to the problem is 20.
+--- 2072 14000397
+
+
+The answer to the problem is 25.
+--- 2073 15000397
+
+
+The answer to the problem is 30.
+--- 2074 16000397
+
+
+The total value of the gift certificate is $287.15.
+--- 2075 398
+
+
+Answer: 8.8
+--- 2076 1000398
+
+
+Answer: 128
+--- 2077 2000398
+
+
+Answer: 10
+--- 2078 3000398
+
+
+Answer: 128
+--- 2079 4000398
+
+
+Answer: 10
+--- 2080 5000398
+
+
+3
+--- 2081 399
+
+
+Answer: 3
+--- 2082 1000399
+
+
+Answer: 8
+--- 2083 2000399
+
+
+Answer: 10
+--- 2084 3000399
+
+
+3
+--- 2085 4000399
+
+
+Answer: 2
+--- 2086 5000399
+
+
+Answer: 22
+--- 2087 400
+
+
+3
+--- 2088 1000400
+
+
+Answer: 3
+--- 2089 2000400
+
+
+Harry removes 5 eggs from the box and the number of eggs left in
+--- 2090 3000400
+
+
+3
+--- 2091 4000400
+
+
+3
+--- 2092 5000400
+
+
+Answer: 3
+--- 2093 401
+
+
+Answer: 3
+--- 2094 1000401
+
+
+Answer: 3
+--- 2095 2000401
+
+
+Answer: Fred has now that he gave 25 of the 47 seashell
+--- 2096 3000401
+
+
+Answer: 16
+--- 2097 4000401
+
+
+Answer: 3
+--- 2098 5000401
+
+
+Answer: 16
+--- 2099 402
+
+
+Jason has 8 Pokemon cards.
+--- 2100 1000402
+
+
+Jason has 8 Pokemon cards left.
+--- 2101 2000402
+
+
+3
+--- 2102 3000402
+
+
+Jason has 8 Pokemon cards.
+--- 2103 4000402
+
+
+3
+--- 2104 5000402
+
+
+Jason has 8 Pokemon cards. Benny has 2.
+--- 2105 403
+
+
+Jason has 8 Pokemon cards.
+--- 2106 1000403
+
+
+3
+--- 2107 2000403
+
+
+3
+--- 2108 3000403
+
+
+3
+--- 2109 4000403
+
+
+Answer: 3
+--- 2110 5000403
+
+
+3
+--- 2111 404
+
+
+3
+--- 2112 1000404
+
+
+ Lawrence's average speed during the journey was 6 hours.
+--- 2113 2000404
+
+
+3
+--- 2114 3000404
+
+
+Answer: 3
+--- 2115 4000404
+
+
+Martin would have to move at a rate of 6 hours per mile to
+--- 2116 5000404
+
+
+Answer: 3
+--- 2117 405
+
+
+Answer: 16
+--- 2118 1000405
+
+
+Answer: 3
+--- 2119 2000405
+
+
+Answer: 12
+--- 2120 3000405
+
+
+Answer: 12
+--- 2121 4000405
+
+
+The answer is 3.14.
+--- 2122 5000405
+
+
+Answer: 16
+--- 2123 406
+
+
+Alyssa spent $ 18.12 on grapes and $ 12.
+--- 2124 1000406
+
+
+Answer: $12.08
+--- 2125 2000406
+
+
+The total amount spent was $27.12.
+--- 2126 3000406
+
+
+Answer: $12.08
+--- 2127 4000406
+
+
+The total amount spent on cherries and grapes is $14.12
+--- 2128 5000406
+
+
+The total amount Alyssa spent on the two types of fruits was
+--- 2129 407
+
+
+3
+--- 2130 1000407
+
+
+3
+--- 2131 2000407
+
+
+3
+--- 2132 3000407
+
+
+3
+--- 2133 4000407
+
+
+3
+--- 2134 5000407
+
+
+3
+--- 2135 408
+
+
+Answer: 12
+--- 2136 1000408
+
+
+Answer: 12
+--- 2137 2000408
+
+
+Answer: 16
+--- 2138 3000408
+
+
+Answer: 12
+--- 2139 4000408
+
+
+Answer: 8
+--- 2140 5000408
+
+
+Answer: 16
+--- 2141 409
+
+
+Answer: 24
+--- 2142 1000409
+
+
+Answer: 24
+--- 2143 2000409
+
+
+Answer: 24
+--- 2144 3000409
+
+
+Answer: 24
+--- 2145 4000409
+
+
+There are 84 oranges left in the bin.
+--- 2146 5000409
+
+
+Answer: 24
+--- 2147 410
+
+
+It will take him 4 hours to install the rest of the windows.
+--- 2148 1000410
+
+
+Answer: 14
+--- 2149 2000410
+
+
+3
+--- 2150 3000410
+
+
+The total time required for the remaining installation is 16 hours.
+--- 2151 4000410
+
+
+Answer: 3
+--- 2152 5000410
+
+
+It will take him 4 hours to finish installing the remaining windows.
+--- 2153 411
+
+
+Answer: 8
+--- 2154 1000411
+
+
+It will take him about 8 hours to complete the job.
+--- 2155 2000411
+
+
+Answer: 8
+--- 2156 3000411
+
+
+3 hours
+--- 2157 4000411
+
+
+Answer: 8 hours
+--- 2158 5000411
+
+
+The duration required by a painter to complete the remaining task is 12 hours
+--- 2159 412
+
+
+Answer: 7
+--- 2160 1000412
+
+
+Answer: 16
+--- 2161 2000412
+
+
+Answer: 3
+--- 2162 3000412
+
+
+There were 57 apples in a jar but after Debra took out 22
+--- 2163 4000412
+
+
+Answer: 22
+--- 2164 5000412
+
+
+Answer: 6
+--- 2165 413
+
+
+Answer: 9
+--- 2166 1000413
+
+
+3
+--- 2167 2000413
+
+
+Answer: 9
+--- 2168 3000413
+
+
+Answer: 9
+--- 2169 4000413
+
+
+Answer: 12
+--- 2170 5000413
+
+
+3
+--- 2171 414
+
+
+Mrs. Hilt needs to share $ 3.75 equally among 3
+--- 2172 1000414
+
+
+Each person will receive $2.12.
+--- 2173 2000414
+
+
+Each person gets $3.75. Mrs. Hilt will give
+--- 2174 3000414
+
+
+Mrs. Hilt will give each person $3.75.
+--- 2175 4000414
+
+
+Each person will receive $3.75.
+--- 2176 5000414
+
+
+3.75
+--- 2177 415
+
+
+3
+--- 2178 1000415
+
+
+3
+--- 2179 2000415
+
+
+ Joan has 8 blue balloons left.
+--- 2180 3000415
+
+
+Answer: 3
+--- 2181 4000415
+
+
+3
+--- 2182 5000415
+
+
+ Joan has 11 blue balloons now.
+--- 2183 416
+
+
+Answer: 3
+--- 2184 1000416
+
+
+Answer: 3
+--- 2185 2000416
+
+
+Answer: Sean has 47 whistles
+--- 2186 3000416
+
+
+Answer: 3
+--- 2187 4000416
+
+
+Answer: 45
+--- 2188 5000416
+
+
+x = 45
+--- 2189 417
+
+
+Answer: 9
+--- 2190 1000417
+
+
+Answer: 76
+--- 2191 2000417
+
+
+Answer: 9
+--- 2192 3000417
+
+
+Answer: 79
+--- 2193 4000417
+
+
+Answer: 7
+--- 2194 5000417
+
+
+Answer: 78
+--- 2195 418
+
+
+3
+--- 2196 1000418
+
+
+Answer: 3
+--- 2197 2000418
+
+
+3
+--- 2198 3000418
+
+
+The difference between the two groups is that the bees have more flowers than
+--- 2199 4000418
+
+
+Answer: 3
+--- 2200 5000418
+
+
+There are 5 blooms and only 3 bees. There are 16 flowers
+--- 2201 419
+
+
+3
+--- 2202 1000419
+
+
+Dan has $3 left. He spends $1 on a candy bar
+--- 2203 2000419
+
+
+2
+--- 2204 3000419
+
+
+Answer: 2
+--- 2205 4000419
+
+
+2
+--- 2206 5000419
+
+
+Dan has $3 left after spending $1 on candy. His remaining
+--- 2207 420
+
+
+Answer: 16
+--- 2208 1000420
+
+
+Answer: 6
+--- 2209 2000420
+
+
+Jack has 36 classic books in total.
+--- 2210 3000420
+
+
+Jack has a total of 36 classic books.
+--- 2211 4000420
+
+
+Jack has 8 classic books.
+--- 2212 5000420
+
+
+Answer: 6
+--- 2213 421
+
+
+Answer: 3
+--- 2214 1000421
+
+
+3
+--- 2215 2000421
+
+
+Answer: 3
+--- 2216 3000421
+
+
+Answer: 16
+--- 2217 4000421
+
+
+Answer: 16
+--- 2218 5000421
+
+
+Answer: 3
+--- 2219 422
+
+
+ Donna would have paid $217.95 without the coupon.
+--- 2220 1000422
+
+
+Tom's total would have been $217.95 without the coupon.
+--- 2221 2000422
+
+
+Answer: $217.95
+--- 2222 3000422
+
+
+$217.95
+--- 2223 4000422
+
+
+Answer: $217.95
+--- 2224 5000422
+
+
+Answer: $217.95
+--- 2225 6000422
+
+
+Answer: $217.95
+--- 2226 7000422
+
+
+Answer: $236.95
+--- 2227 8000422
+
+
+Donna would have paid $217.95 for her purchase of az
+--- 2228 9000422
+
+
+Answer: $236.95
+--- 2229 10000422
+
+
+Answer: $217.95
+--- 2230 423
+
+
+3
+--- 2231 1000423
+
+
+Answer: 3
+--- 2232 2000423
+
+
+Answer: 17
+--- 2233 3000423
+
+
+3
+--- 2234 4000423
+
+
+Answer: 3
+--- 2235 5000423
+
+
+Ernest has 8 crayons left.
+--- 2236 424
+
+
+ Joan received $ 16.47
+--- 2237 1000424
+
+
+ Joan would get back $16.47
+--- 2238 2000424
+
+
+ Joan received $22.77 in change.
+--- 2239 3000424
+
+
+8.77
+--- 2240 4000424
+
+
+ Joan got back $8.77
+--- 2241 5000424
+
+
+$8.77
+--- 2242 425
+
+
+Answer: 24
+--- 2243 1000425
+
+
+3
+--- 2244 2000425
+
+
+3
+--- 2245 3000425
+
+
+3
+--- 2246 4000425
+
+
+3
+--- 2247 5000425
+
+
+Answer: 16
+--- 2248 426
+
+
+3
+--- 2249 1000426
+
+
+Answer: 10
+--- 2250 2000426
+
+
+3
+--- 2251 3000426
+
+
+3
+--- 2252 4000426
+
+
+Answer: 10
+--- 2253 5000426
+
+
+3
+--- 2254 427
+
+
+3
+--- 2255 1000427
+
+
+The difference between the two lines is 3.3333333333333335
+--- 2256 2000427
+
+
+Answer: 3
+--- 2257 3000427
+
+
+The length difference between a white line and a blue line that Ezra drew
+--- 2258 4000427
+
+
+The difference in lengths is 3.3333333333333335 inches.
+--- 2259 5000427
+
+
+Answer: 3.33333333333333
+--- 2260 428
+
+
+3
+--- 2261 1000428
+
+
+Answer: 16
+--- 2262 2000428
+
+
+Answer: 128
+--- 2263 3000428
+
+
+Answer: 3
+--- 2264 4000428
+
+
+Answer: 8
+--- 2265 5000428
+
+
+Answer: 16
+--- 2266 429
+
+
+2 sheets weigh 7.4 pounds.
+--- 2267 1000429
+
+
+2 sheets of paper weigh 10 pounds.
+--- 2268 2000429
+
+
+2 sheets of paper weigh 7 pounds.
+--- 2269 3000429
+
+
+Answer: 7.5
+--- 2270 4000429
+
+
+2 paper sheets weigh 7 pounds.
+--- 2271 5000429
+
+
+2 sheets of paper weigh 7 pounds.
+--- 2272 430
+
+
+3
+--- 2273 1000430
+
+
+3
+--- 2274 2000430
+
+
+Each friend got 3 wings.
+--- 2275 3000430
+
+
+3
+--- 2276 4000430
+
+
+3
+--- 2277 5000430
+
+
+3
+--- 2278 431
+
+
+ Melanie missed   4 soccer games this year.
+--- 2279 1000431
+
+
+Answer: 6
+--- 2280 2000431
+
+
+Answer: 3
+--- 2281 3000431
+
+
+Answer: 16
+--- 2282 4000431
+
+
+Answer: 3
+--- 2283 5000431
+
+
+Answer: 16
+--- 2284 432
+
+
+3
+--- 2285 1000432
+
+
+Answer: 3
+--- 2286 2000432
+
+
+Answer: 3
+--- 2287 3000432
+
+
+3
+--- 2288 4000432
+
+
+3
+--- 2289 5000432
+
+
+Answer: 3
+--- 2290 433
+
+
+Answer: 25
+--- 2291 1000433
+
+
+Answer: 16
+--- 2292 2000433
+
+
+Answer: 25
+--- 2293 3000433
+
+
+Answer: 25
+--- 2294 4000433
+
+
+Answer: 375
+--- 2295 5000433
+
+
+Answer: 25
+--- 2296 434
+
+
+Answer: 7
+--- 2297 1000434
+
+
+Answer: 8
+--- 2298 2000434
+
+
+Answer: 42
+--- 2299 3000434
+
+
+Answer: 7
+--- 2300 4000434
+
+
+Answer: 42
+--- 2301 5000434
+
+
+Answer: 7
+--- 2302 435
+
+
+Answer: 3
+--- 2303 1000435
+
+
+3
+--- 2304 2000435
+
+
+Answer: 3
+--- 2305 3000435
+
+
+Answer: 3
+--- 2306 4000435
+
+
+Answer: 3
+--- 2307 5000435
+
+
+Answer: 3
+--- 2308 436
+
+
+3
+--- 2309 1000436
+
+
+3
+--- 2310 2000436
+
+
+3
+--- 2311 3000436
+
+
+3
+--- 2312 4000436
+
+
+3
+--- 2313 5000436
+
+
+3
+--- 2314 437
+
+
+Answer: 6
+--- 2315 1000437
+
+
+Answer: 6
+--- 2316 2000437
+
+
+Answer: 16
+--- 2317 3000437
+
+
+Answer: 16
+--- 2318 4000437
+
+
+Answer: 16
+--- 2319 5000437
+
+
+Answer: 12
+--- 2320 438
+
+
+3
+--- 2321 1000438
+
+
+Answer: 287
+--- 2322 2000438
+
+
+Answer: 287
+--- 2323 3000438
+
+
+Answer: 287
+--- 2324 4000438
+
+
+Answer: 83
+--- 2325 5000438
+
+
+3
+--- 2326 439
+
+
+Answer: 10
+--- 2327 1000439
+
+
+Answer: 10
+--- 2328 2000439
+
+
+Answer: 10
+--- 2329 3000439
+
+
+There will be an increase of 3 short trees in the park.
+--- 2330 4000439
+
+
+There are already 112 short trees and 119 tall trees in the park.
+--- 2331 5000439
+
+
+Answer: 10
+--- 2332 440
+
+
+Answer: 16
+--- 2333 1000440
+
+
+Answer: 16
+--- 2334 2000440
+
+
+Answer: 16
+--- 2335 3000440
+
+
+Answer: 3
+--- 2336 4000440
+
+
+2.5
+
+3
+--- 2337 5000440
+
+
+Answer: 16
+--- 2338 441
+
+
+90171 people were born in a country in 2016, and 16320
+--- 2339 1000441
+
+
+The total number of new residents was 90171.
+--- 2340 2000441
+
+
+The total number of newcomers in the past year was 16320.
+--- 2341 3000441
+
+
+There are 16320 new residents in the country.
+--- 2342 4000441
+
+
+Answer: 90171
+--- 2343 5000441
+
+
+There are more than 100,000 people who have joined the population of
+--- 2344 442
+
+
+Oliver rode the ferris wheel 5 times and the bumper cars 4
+--- 2345 1000442
+
+
+Oliver spent 7 tickets for each of the 9 rides he took at
+--- 2346 2000442
+
+
+Oliver spent 45 tickets on rides in total.
+--- 2347 3000442
+
+
+Oliver spent 8 tickets on rides in total.
+--- 2348 4000442
+
+
+Oliver rode the ferris wheel 5 times and the bumper cars 4
+--- 2349 5000442
+
+
+Oliver spent 45 tokens on the ferris wheel, the bumper cars
+--- 2350 443
+
+
+Answer: 3
+--- 2351 1000443
+
+
+Answer: 3
+--- 2352 2000443
+
+
+Answer: 16
+--- 2353 3000443
+
+
+Answer: 16
+--- 2354 4000443
+
+
+Answer: 3
+--- 2355 5000443
+
+
+Answer: 16
+--- 2356 6000443
+
+
+Answer: 3
+--- 2357 7000443
+
+
+3
+--- 2358 8000443
+
+
+Answer: 3
+--- 2359 9000443
+
+
+Answer: 8
+--- 2360 10000443
+
+
+Answer: 17
+--- 2361 444
+
+
+The value of a sport utility vehicle this year is 16000 dollars.
+--- 2362 1000444
+
+
+Answer: 2
+--- 2363 2000444
+
+
+The current value of a sedan is $27,000.
+--- 2364 3000444
+
+
+The cost of a bicycle in 2020 is $269.
+--- 2365 4000444
+
+
+Answer: 10
+--- 2366 5000444
+
+
+Answer: 10,000
+--- 2367 445
+
+
+There were 28 children on the playground at recess. There were 35 children
+--- 2368 1000445
+
+
+3
+--- 2369 2000445
+
+
+Answer: 3
+--- 2370 3000445
+
+
+Answer: 3
+--- 2371 4000445
+
+
+There were 43 children on the playground during recess.
+--- 2372 5000445
+
+
+3
+--- 2373 446
+
+
+Answer: -2
+--- 2374 1000446
+
+
+Answer: -2
+--- 2375 2000446
+
+
+Answer: -2
+--- 2376 3000446
+
+
+Answer: -2
+--- 2377 4000446
+
+
+Answer: -2
+--- 2378 5000446
+
+
+Answer: -2
+--- 2379 6000446
+
+
+-2 multiplied by -15 equals -30
+-4 multiplied by
+--- 2380 7000446
+
+
+Answer: 16
+--- 2381 8000446
+
+
+Answer: -2
+--- 2382 9000446
+
+
+-2
+-15
+-4
+-1
+--- 2383 10000446
+
+
+Answer: -2
+--- 2384 11000446
+
+
+Answer: -120
+--- 2385 12000446
+
+
+Answer: -120
+--- 2386 13000446
+
+
+Answer: -120
+--- 2387 14000446
+
+
+Answer: -120
+--- 2388 15000446
+
+
+Answer: -120
+--- 2389 16000446
+
+
+Answer: -120
+--- 2390 447
+
+
+3
+--- 2391 1000447
+
+
+3
+--- 2392 2000447
+
+
+3
+--- 2393 3000447
+
+
+3
+--- 2394 4000447
+
+
+3
+--- 2395 5000447
+
+
+Answer: 3
+--- 2396 448
+
+
+Answer: 16
+--- 2397 1000448
+
+
+ Carol has 54 blocks left.
+--- 2398 2000448
+
+
+ Carol has 84 blocks left.
+--- 2399 3000448
+
+
+Answer: 16
+--- 2400 4000448
+
+
+There are remaining blocks of 25.
+--- 2401 5000448
+
+
+Answer: 42
+--- 2402 449
+
+
+13 people came in and 9 were kids, so the group would cost
+--- 2403 1000449
+
+
+3
+--- 2404 2000449
+
+
+Answer: $128.00
+--- 2405 3000449
+
+
+13
+--- 2406 4000449
+
+
+13 + 9 =
+
+17
+--- 2407 5000449
+
+
+13 people would need to pay $87.
+--- 2408 450
+
+
+8.50
+--- 2409 1000450
+
+
+$8.50
+--- 2410 2000450
+
+
+8.50
+--- 2411 3000450
+
+
+The selling price of a pizza with a production cost of $8.
+--- 2412 4000450
+
+
+8.50
+--- 2413 5000450
+
+
+8.50
+--- 2414 451
+
+
+3
+--- 2415 1000451
+
+
+Answer: 26
+--- 2416 2000451
+
+
+Answer: 3
+--- 2417 3000451
+
+
+Answer: 26
+--- 2418 4000451
+
+
+Answer: 3
+--- 2419 5000451
+
+
+Answer: 33
+--- 2420 452
+
+
+Answer: $ 25
+--- 2421 1000452
+
+
+David needs to finish his toy car collection for a total of $87
+--- 2422 2000452
+
+
+The total cost of the remaining shoes that she needs to complete her collection
+--- 2423 3000452
+
+
+Answer: $236
+--- 2424 4000452
+
+
+Answer: $236
+--- 2425 5000452
+
+
+ Jeremy needs to complete his collection of 9 basketballs to have a complete
+--- 2426 453
+
+
+There are 5256 people in Milburg.
+--- 2427 1000453
+
+
+There are 5256 adults and 2987 minors in Milburg.
+--- 2428 2000453
+
+
+Milburg has 5256 adults and 2987 children.
+--- 2429 3000453
+
+
+The total population of Milburg is 8,844.
+--- 2430 4000453
+
+
+The total number of people residing in Milburg is 5256.
+--- 2431 5000453
+
+
+There are 5256 adults and 2987 children in the town of Mil
+--- 2432 454
+
+
+3
+--- 2433 1000454
+
+
+3
+--- 2434 2000454
+
+
+3
+--- 2435 3000454
+
+
+Answer: 3
+--- 2436 4000454
+
+
+Answer: 3
+--- 2437 5000454
+
+
+Answer: 3
+--- 2438 455
+
+
+The waiter had 10 customers total.
+--- 2439 1000455
+
+
+The waiter was serving 25 customers.
+--- 2440 2000455
+
+
+There were 10 patrons at the table, and the waiter attended to 7
+--- 2441 3000455
+
+
+The waiter attended to 21 customers.
+--- 2442 4000455
+
+
+There were 20 patrons in total. The waiter served 11 patrons.
+--- 2443 5000455
+
+
+The waiter served 25 patrons.
+--- 2444 456
+
+
+3
+--- 2445 1000456
+
+
+3
+--- 2446 2000456
+
+
+3
+--- 2447 3000456
+
+
+3
+--- 2448 4000456
+
+
+3
+--- 2449 5000456
+
+
+3
+--- 2450 457
+
+
+There are 397 butterflies. Each butterfly has 12 black dots and 17
+--- 2451 1000457
+
+
+397
+--- 2452 2000457
+
+
+Answer: 377
+--- 2453 3000457
+
+
+Answer: 17
+--- 2454 4000457
+
+
+There are 36 butterflies, each having 18 black dots and 24 yellow dots
+--- 2455 5000457
+
+
+Answer: 17
+--- 2456 458
+
+
+The piece of iron weighed 11.166666666666666 pounds and the
+--- 2457 1000458
+
+
+The difference in weights was 0.8333333333333334 pounds.
+--- 2458 2000458
+
+
+The iron piece was heavier than the aluminum piece by 0.83333
+--- 2459 3000458
+
+
+The weight difference between the two metals was 0.8333333333333
+--- 2460 4000458
+
+
+The weight of the iron piece was 11.166666666666666 pounds
+--- 2461 5000458
+
+
+11.166666666666666 pounds vs 0.8333333333333
+--- 2462 459
+
+
+Jesse has 78 pencils. He gives 44 to Joshua. Joshua
+--- 2463 1000459
+
+
+Answer: 3
+--- 2464 2000459
+
+
+Answer: 3
+--- 2465 3000459
+
+
+Answer: 16
+--- 2466 4000459
+
+
+Answer: 3
+--- 2467 5000459
+
+
+Answer: 3
+--- 2468 460
+
+
+Answer: Faye has 78 pieces of candy.
+--- 2469 1000460
+
+
+Answer: Faye has 84 pieces of candy.
+--- 2470 2000460
+
+
+Faye has now eaten 71 candy pieces.
+--- 2471 3000460
+
+
+Answer: 47
+--- 2472 4000460
+
+
+Answer: Faye has now 86 candy.
+--- 2473 5000460
+
+
+Answer: Faye has 84 pieces of candy.
+--- 2474 461
+
+
+2
+--- 2475 1000461
+
+
+2
+--- 2476 2000461
+
+
+The total amount of food that the two dogs consume is 12.5
+--- 2477 3000461
+
+
+The total amount of food they both eat every day is 4.5
+--- 2478 4000461
+
+
+Answer: 3
+--- 2479 5000461
+
+
+The total daily consumption of dog food for these two dogs would be:
+--- 2480 462
+
+
+ Keith spent $ 36.06 on cards.
+--- 2481 1000462
+
+
+ Keith spends $48.06 on trading cards in total.
+--- 2482 2000462
+
+
+ Keith spends $8.06 on collectible cards.
+--- 2483 3000462
+
+
+$16.06
+--- 2484 4000462
+
+
+Keith spends $8.06 on her trading card hobby.
+--- 2485 5000462
+
+
+Keith spent $36.06 on cards.
+--- 2486 463
+
+
+3
+--- 2487 1000463
+
+
+3
+--- 2488 2000463
+
+
+There will be 83 orchid bushes in the park.
+--- 2489 3000463
+
+
+Answer: 3
+--- 2490 4000463
+
+
+Answer: 36
+--- 2491 5000463
+
+
+3
+--- 2492 464
+
+
+Answer: 2
+--- 2493 1000464
+
+
+The distance between their two houses is 8.6 miles.
+--- 2494 2000464
+
+
+The total distance between their houses is 8.3 miles.
+--- 2495 3000464
+
+
+Answer: 3
+--- 2496 4000464
+
+
+Answer: 10.0
+--- 2497 5000464
+
+
+The length of the path from Amanda's house to Kimberly's house is
+--- 2498 465
+
+
+Answer: 3
+--- 2499 1000465
+
+
+Answer: 3
+--- 2500 2000465
+
+
+Answer: 3
+--- 2501 3000465
+
+
+Will can buy 9 games with the money he gets after he earns 104
+--- 2502 4000465
+
+
+Answer: 3
+--- 2503 5000465
+
+
+Answer: 3
+--- 2504 466
+
+
+The bill was $8.
+--- 2505 1000466
+
+
+The total cost of their bill was $14.
+--- 2506 2000466
+
+
+The final check for the party was $8.
+--- 2507 3000466
+
+
+Answer: $24.06
+--- 2508 4000466
+
+
+The total bill would be $14.
+--- 2509 5000466
+
+
+Answer: 20
+--- 2510 467
+
+
+Answer: 3
+--- 2511 1000467
+
+
+You would need to spend at least $175.
+--- 2512 2000467
+
+
+Answer: 10
+--- 2513 3000467
+
+
+The smallest amount of money that must be spent to recover the cost of
+--- 2514 4000467
+
+
+Answer: 3
+--- 2515 5000467
+
+
+The amount of spending required to pay for a 175.00 dollars membership
+--- 2516 468
+
+
+3
+--- 2517 1000468
+
+
+Oliver would need to store the 20 cards in a binder with
+--- 2518 2000468
+
+
+Oliver would need to use 16 pages for his 15 new cards and
+--- 2519 3000468
+
+
+3
+--- 2520 4000468
+
+
+3
+--- 2521 5000468
+
+
+Oliver needs to store 8 more baseball cards in a binder with
+--- 2522 469
+
+
+Answer: 3
+--- 2523 1000469
+
+
+Peter has 18 erasers.
+--- 2524 2000469
+
+
+Answer: 8
+--- 2525 3000469
+
+
+Answer: 8
+--- 2526 4000469
+
+
+Answer: 3
+--- 2527 5000469
+
+
+8
+--- 2528 470
+
+
+Answer: 6
+--- 2529 1000470
+
+
+There will be 10 trees in the park after the workers are done.
+--- 2530 2000470
+
+
+Answer: 16
+--- 2531 3000470
+
+
+The total number of walnut trees in the park is 24.
+--- 2532 4000470
+
+
+Answer: 10
+--- 2533 5000470
+
+
+Answer: 6
+--- 2534 471
+
+
+3
+--- 2535 1000471
+
+
+Emily earned $32.
+--- 2536 2000471
+
+
+Answer: $24
+--- 2537 3000471
+
+
+3
+--- 2538 4000471
+
+
+Emily made $8.
+--- 2539 5000471
+
+
+Answer: $8
+--- 2540 472
+
+
+Bruce has 3 eggs. Kimberly has 5 eggs. He loses 1 egg
+--- 2541 1000472
+
+
+Bruce has 8 eggs left.
+--- 2542 2000472
+
+
+Bruce has an egg count of 76.
+--- 2543 3000472
+
+
+Bruce has lost 7 eggs from the original 75 he possessed. His remaining
+--- 2544 4000472
+
+
+Bruce has 8 more eggs than Kimberly.
+--- 2545 5000472
+
+
+Answer: 3
+--- 2546 473
+
+
+Answer: 8
+--- 2547 1000473
+
+
+Keith has 24 books and Jason has 25.
+--- 2548 2000473
+
+
+Answer: 3
+--- 2549 3000473
+
+
+There are 18 books between Jason and Keith.
+--- 2550 4000473
+
+
+ Keith and Jason have 18 books.
+--- 2551 5000473
+
+
+Keith has 18 books and Jason has 19 books.
+--- 2552 474
+
+
+There are 31 new players and 4 returning players on the baseball team.
+--- 2553 1000474
+
+
+There were 27 groups formed.
+--- 2554 2000474
+
+
+There are a total of 77 groups.
+--- 2555 3000474
+
+
+7
+--- 2556 4000474
+
+
+There would be 3 groups.
+--- 2557 5000474
+
+
+There are 7 groups of players on a baseball team. There are 31
+--- 2558 475
+
+
+3
+--- 2559 1000475
+
+
+3
+--- 2560 2000475
+
+
+3
+--- 2561 3000475
+
+
+Answer: 3
+--- 2562 4000475
+
+
+Answer: 16
+--- 2563 5000475
+
+
+3
+--- 2564 476
+
+
+Tom has 38 books. Joan has 10 books. They have 38 books
+--- 2565 1000476
+
+
+Answer: 38
+--- 2566 2000476
+
+
+Tom has 38 books and Joan has 10 books.
+--- 2567 3000476
+
+
+Answer: 38
+--- 2568 4000476
+
+
+Answer: 38
+--- 2569 5000476
+
+
+Tom has 38 books, while Joan has 10 books.
+--- 2570 477
+
+
+The farmer harvested 684 bushels of wheat.
+--- 2571 1000477
+
+
+Answer: 684
+--- 2572 2000477
+
+
+Answer: 8
+--- 2573 3000477
+
+
+The farmer harvested a total of 10,000 bushels of wheat
+--- 2574 4000477
+
+
+Answer: 487
+--- 2575 5000477
+
+
+Answer: 684
+--- 2576 478
+
+
+3
+--- 2577 1000478
+
+
+3
+--- 2578 2000478
+
+
+Answer: 7
+--- 2579 3000478
+
+
+
+The total number of peanuts that Kimberly bought would be 45.
+--- 2580 4000478
+
+
+Answer: 3
+--- 2581 5000478
+
+
+Answer: 3
+--- 2582 479
+
+
+Answer: $6
+--- 2583 1000479
+
+
+3
+--- 2584 2000479
+
+
+3
+--- 2585 3000479
+
+
+Answer: $6
+--- 2586 4000479
+
+
+$6
+--- 2587 5000479
+
+
+Answer: $6
+--- 2588 480
+
+
+Answer: 88
+--- 2589 1000480
+
+
+Answer: 88
+--- 2590 2000480
+
+
+Answer: 88
+--- 2591 3000480
+
+
+Answer: 88
+--- 2592 4000480
+
+
+Answer: 88
+--- 2593 5000480
+
+
+Answer: 88
+--- 2594 6000480
+
+
+The maximum mileage for a car rental for 50 dollars a day plus 20
+--- 2595 7000480
+
+
+The answer is 12 miles.
+--- 2596 8000480
+
+
+Answer: 8
+--- 2597 9000480
+
+
+The maximum mileage that can be achieved through the rental of a car at
+--- 2598 10000480
+
+
+Answer: 10
+--- 2599 11000480
+
+
+Answer: 3
+--- 2600 12000480
+
+
+Answer: 8
+--- 2601 13000480
+
+
+Answer: 8
+--- 2602 14000480
+
+
+Answer: 8
+--- 2603 15000480
+
+
+Answer: 8
+--- 2604 16000480
+
+
+The cost of a car rental for 190 miles is $8.10
+--- 2605 481
+
+
+There are 16 groups of 8 players each.
+--- 2606 1000481
+
+
+There are a total of 29 groups of 9 players.
+--- 2607 2000481
+
+
+There were 67 dancers in total.
+--- 2608 3000481
+
+
+There will be 10 classes in this case.
+--- 2609 4000481
+
+
+3
+--- 2610 5000481
+
+
+Answer: 16
+--- 2611 482
+
+
+3
+--- 2612 1000482
+
+
+8
+--- 2613 2000482
+
+
+8
+--- 2614 3000482
+
+
+3
+--- 2615 4000482
+
+
+8
+--- 2616 5000482
+
+
+Answer: 3
+--- 2617 483
+
+
+Answer: 10
+--- 2618 1000483
+
+
+Answer: 128
+--- 2619 2000483
+
+
+Answer: 16
+--- 2620 3000483
+
+
+Answer: 16
+--- 2621 4000483
+
+
+Answer: 6
+--- 2622 5000483
+
+
+Answer: 16
+--- 2623 484
+
+
+Answer: 16
+--- 2624 1000484
+
+
+Answer: 9
+--- 2625 2000484
+
+
+Answer: 79
+--- 2626 3000484
+
+
+Answer: $9
+--- 2627 4000484
+
+
+Answer: 16
+--- 2628 5000484
+
+
+The cost of each book is $9.
+--- 2629 485
+
+
+3
+--- 2630 1000485
+
+
+3
+--- 2631 2000485
+
+
+3
+--- 2632 3000485
+
+
+3
+--- 2633 4000485
+
+
+ Vanessa spent $8.06 at April's discount flowers.
+--- 2634 5000485
+
+
+Answer: 24
+--- 2635 486
+
+
+Answer: 3
+--- 2636 1000486
+
+
+Answer: 34
+--- 2637 2000486
+
+
+Answer: 24
+--- 2638 3000486
+
+
+Answer: 3
+--- 2639 4000486
+
+
+Answer: 24
+--- 2640 5000486
+
+
+Answer: 34
+--- 2641 487
+
+
+Answer: 10
+--- 2642 1000487
+
+
+Answer: 116
+--- 2643 2000487
+
+
+Answer: 116
+--- 2644 3000487
+
+
+Answer: 116
+--- 2645 4000487
+
+
+Answer: 116
+--- 2646 5000487
+
+
+Answer: 116
+--- 2647 488
+
+
+3
+--- 2648 1000488
+
+
+Answer: 3
+--- 2649 2000488
+
+
+0.25
+--- 2650 3000488
+
+
+3
+--- 2651 4000488
+
+
+3
+--- 2652 5000488
+
+
+0.4166666666666667
+--- 2653 489
+
+
+Answer: 8
+--- 2654 1000489
+
+
+Answer: 12
+--- 2655 2000489
+
+
+Answer: 12
+--- 2656 3000489
+
+
+Answer: 8
+--- 2657 4000489
+
+
+3
+--- 2658 5000489
+
+
+Answer: 10.2
+--- 2659 490
+
+
+Answer: 3
+--- 2660 1000490
+
+
+Answer: 3
+--- 2661 2000490
+
+
+Kaleb can buy 4 toys for his allowance.
+--- 2662 3000490
+
+
+Kaleb can buy 6-dollar toys with his 21 dollars.
+--- 2663 4000490
+
+
+3
+--- 2664 5000490
+
+
+Answer: 6
+--- 2665 491
+
+
+3
+--- 2666 1000491
+
+
+3
+--- 2667 2000491
+
+
+3
+--- 2668 3000491
+
+
+Answer: 3
+--- 2669 4000491
+
+
+3
+--- 2670 5000491
+
+
+3
+--- 2671 492
+
+
+Answer: 3
+--- 2672 1000492
+
+
+Answer: 131
+--- 2673 2000492
+
+
+Answer: 131
+--- 2674 3000492
+
+
+Answer: 139
+--- 2675 4000492
+
+
+Answer: 3
+--- 2676 5000492
+
+
+Answer: 131
+--- 2677 493
+
+
+Answer: 5 pencils weigh 28.3 grams.
+--- 2678 1000493
+
+
+Answer: 28.3
+--- 2679 2000493
+
+
+Answer: 28.3
+--- 2680 3000493
+
+
+Answer: 16
+--- 2681 4000493
+
+
+Answer: 56.6 grams
+--- 2682 5000493
+
+
+Answer: 28.3
+--- 2683 494
+
+
+Answer: 3
+--- 2684 1000494
+
+
+Sara has a dozen quarters. She has saved $8.
+--- 2685 2000494
+
+
+Answer: 3
+--- 2686 3000494
+
+
+Answer: 16
+--- 2687 4000494
+
+
+3
+--- 2688 5000494
+
+
+Sara has 24 quarters. She can buy 12 cars with them.
+--- 2689 495
+
+
+3
+--- 2690 1000495
+
+
+There were 18 items in total.
+--- 2691 2000495
+
+
+8
+--- 2692 3000495
+
+
+3
+--- 2693 4000495
+
+
+Answer: 8
+--- 2694 5000495
+
+
+8
+--- 2695 496
+
+
+3
+--- 2696 1000496
+
+
+Answer: 3
+--- 2697 2000496
+
+
+Answer: 20
+--- 2698 3000496
+
+
+Answer: 20
+--- 2699 4000496
+
+
+Answer: 20
+--- 2700 5000496
+
+
+Answer: 20
+--- 2701 497
+
+
+The speed of the current of the river is 8.4 kilometers per
+--- 2702 1000497
+
+
+Answer: 3
+--- 2703 2000497
+
+
+The boat's average speed in still water is 10.0 kilometers per
+--- 2704 3000497
+
+
+The speed of the boat in still water is 8.5 kilometers per
+--- 2705 4000497
+
+
+The speed of the current is 8.4 kilometers per hour.
+--- 2706 5000497
+
+
+Answer: 3 hours
+--- 2707 498
+
+
+Answer: 12
+--- 2708 1000498
+
+
+Answer: 16
+--- 2709 2000498
+
+
+Answer: 12
+--- 2710 3000498
+
+
+Answer: 16
+--- 2711 4000498
+
+
+Answer: 18
+--- 2712 5000498
+
+
+Answer: 12
+--- 2713 499
+
+
+Answer: 3
+--- 2714 1000499
+
+
+Answer: 16
+--- 2715 2000499
+
+
+Answer: 24
+--- 2716 3000499
+
+
+Answer: 13
+--- 2717 4000499
+
+
+Answer: 13
+--- 2718 5000499
+
+
+Answer: 16
+--- 2719 500
+
+
+3
+9
+--- 2720 1000500
+
+
+3
+--- 2721 2000500
+
+
+Answer: 3
+--- 2722 3000500
+
+
+3
+9
+--- 2723 4000500
+
+
+3
+9
+--- 2724 5000500
+
+
+Answer: 3
+--- 2725 501
+
+
+3
+--- 2726 1000501
+
+
+7.666666666666667 inches
+3.3333333333333335
+--- 2727 2000501
+
+
+The difference between the lengths of the white and blue lines is 3.
+--- 2728 3000501
+
+
+The length of the white line is 7.666666666666667 inches and
+--- 2729 4000501
+
+
+3.3333333333333335 inches
+--- 2730 5000501
+
+
+The difference in length between the lines drawn is 9.5 inches.
+--- 2731 502
+
+
+Answer: 5
+--- 2732 1000502
+
+
+Answer: 3
+--- 2733 2000502
+
+
+Answer: 3
+--- 2734 3000502
+
+
+3
+--- 2735 4000502
+
+
+Answer: 3
+--- 2736 5000502
+
+
+Answer: 3
+--- 2737 503
+
+
+Answer: 256
+--- 2738 1000503
+
+
+Answer: 3 hours and 56 minutes
+--- 2739 2000503
+
+
+It took Lisa about 10 minutes to fly when she traveled 256 miles with
+--- 2740 3000503
+
+
+Answer: 10 hours and 56 minutes
+--- 2741 4000503
+
+
+The duration of Lisa's flight in the air was 8 hours and 56
+--- 2742 5000503
+
+
+Lisa spent 8 hours flying when she covered a distance of 256 miles at
+--- 2743 504
+
+
+3
+--- 2744 1000504
+
+
+3
+--- 2745 2000504
+
+
+8
+--- 2746 3000504
+
+
+3
+--- 2747 4000504
+
+
+Answer: 128
+--- 2748 5000504
+
+
+The group had 16 lives.
+--- 2749 505
+
+
+3
+--- 2750 1000505
+
+
+8
+--- 2751 2000505
+
+
+3
+--- 2752 3000505
+
+
+3
+--- 2753 4000505
+
+
+Jerry would need to make 3 trips to pick up 9 trays from
+--- 2754 5000505
+
+
+3
+--- 2755 506
+
+
+3
+--- 2756 1000506
+
+
+Kaleb picked up 18 cans in total.
+--- 2757 2000506
+
+
+Kaleb collected 24 cans.
+--- 2758 3000506
+
+
+3
+--- 2759 4000506
+
+
+Answer: 10
+--- 2760 5000506
+
+
+Answer: 8
+--- 2761 507
+
+
+Answer: 36
+--- 2762 1000507
+
+
+Answer: 36
+--- 2763 2000507
+
+
+Answer: 36
+--- 2764 3000507
+
+
+Answer: 36
+--- 2765 4000507
+
+
+Answer: 36
+--- 2766 5000507
+
+
+Answer: 36
+--- 2767 6000507
+
+
+Answer: 36
+--- 2768 7000507
+
+
+Answer: 36
+--- 2769 8000507
+
+
+Answer: 3
+--- 2770 9000507
+
+
+36
+--- 2771 10000507
+
+
+36
+--- 2772 11000507
+
+
+Answer: 36
+--- 2773 12000507
+
+
+Answer: 36
+--- 2774 13000507
+
+
+Answer: 36
+--- 2775 14000507
+
+
+Answer: 36
+--- 2776 15000507
+
+
+Answer: 36
+--- 2777 16000507
+
+
+Answer: 36
+--- 2778 508
+
+
+Answer: -60
+--- 2779 1000508
+
+
+3
+--- 2780 2000508
+
+
+The answer is -60.
+--- 2781 3000508
+
+
+The value of -60 is -10.
+--- 2782 4000508
+
+
+The answer is -60.
+--- 2783 5000508
+
+
+2
+--- 2784 6000508
+
+
+Answer: -60
+--- 2785 7000508
+
+
+Answer: -60
+--- 2786 8000508
+
+
+The answer is 3.
+--- 2787 9000508
+
+
+Answer: 3
+--- 2788 10000508
+
+
+Answer: -60
+--- 2789 509
+
+
+The shortest player on the basketball team is 6'1''.
+--- 2790 1000509
+
+
+Answer: 3
+--- 2791 2000509
+
+
+The smallest tree in the park is 3.14 feet tall.
+--- 2792 3000509
+
+
+The answer is 9.3 meters.
+--- 2793 4000509
+
+
+Answer: 3
+--- 2794 5000509
+
+
+The shortest snake is 3.14 feet long.
+--- 2795 6000509
+
+
+The height, in inches, of the shortest player on the basketball team
+--- 2796 7000509
+
+
+The height of the shortest player is 6'1''.
+--- 2797 8000509
+
+
+The height of the shortest player on the basketball team is 7.5
+--- 2798 9000509
+
+
+The height of the shortest player in inches is 0.
+--- 2799 10000509
+
+
+The shortest player on the basketball team is 7.25 inches shorter than
+--- 2800 510
+
+
+3
+--- 2801 1000510
+
+
+3
+--- 2802 2000510
+
+
+3
+--- 2803 3000510
+
+
+Answer: 6
+--- 2804 4000510
+
+
+3
+--- 2805 5000510
+
+
+3
+--- 2806 6000510
+
+
+3
+--- 2807 7000510
+
+
+3
+--- 2808 8000510
+
+
+Answer: 3
+--- 2809 9000510
+
+
+3
+--- 2810 10000510
+
+
+3
+--- 2811 511
+
+
+3
+--- 2812 1000511
+
+
+The green caterpillar was 3.14141414141414
+--- 2813 2000511
+
+
+3
+--- 2814 3000511
+
+
+3
+--- 2815 4000511
+
+
+The length difference between the two caterpillars is 1.1666666666
+--- 2816 5000511
+
+
+3
+--- 2817 512
+
+
+Answer: 3
+--- 2818 1000512
+
+
+Answer: 10
+--- 2819 2000512
+
+
+Answer: 12
+--- 2820 3000512
+
+
+Answer: 20
+--- 2821 4000512
+
+
+Answer: 18
+--- 2822 5000512
+
+
+Answer: 9
+--- 2823 513
+
+
+Answer: 3
+--- 2824 1000513
+
+
+Answer: 3
+--- 2825 2000513
+
+
+Answer: 3
+--- 2826 3000513
+
+
+Answer: 3
+--- 2827 4000513
+
+
+Answer: 3
+--- 2828 5000513
+
+
+Answer: 3
+--- 2829 514
+
+
+Answer: 3
+--- 2830 1000514
+
+
+Answer: 3
+--- 2831 2000514
+
+
+Answer: 3
+--- 2832 3000514
+
+
+Answer: 3
+--- 2833 4000514
+
+
+Answer: 3
+--- 2834 5000514
+
+
+3
+--- 2835 515
+
+
+The sisters drove 78 miles and then stopped for gas. Their sister put
+--- 2836 1000515
+
+
+Answer: 78
+--- 2837 2000515
+
+
+The sisters needed to drive an additional 82 miles to reach the concert venue
+--- 2838 3000515
+
+
+The distance that remained for them to reach their destination was 116 miles.
+--- 2839 4000515
+
+
+Mrs. Hilt and her sister drove to attend a concert that was
+--- 2840 5000515
+
+
+Answer: 78
+--- 2841 516
+
+
+Answer: 3
+--- 2842 1000516
+
+
+Answer: 3
+--- 2843 2000516
+
+
+John can survive for 3 weeks on 24 dollars earned from mowing lawn
+--- 2844 3000516
+
+
+Answer: 3
+--- 2845 4000516
+
+
+Answer: 18
+--- 2846 5000516
+
+
+Answer: 12 weeks
+--- 2847 517
+
+
+Answer: 3
+--- 2848 1000517
+
+
+Answer: 3
+--- 2849 2000517
+
+
+Answer: 3
+--- 2850 3000517
+
+
+Answer: 3
+--- 2851 4000517
+
+
+Answer: 16
+--- 2852 5000517
+
+
+Answer: 3
+--- 2853 518
+
+
+3
+--- 2854 1000518
+
+
+0.1111111111111111 miles
+--- 2855 2000518
+
+
+Trisha walked 0.1111111111111111 miles from her hotel to
+--- 2856 3000518
+
+
+The total distance Trisha covered during her vacation was 0.866666666
+--- 2857 4000518
+
+
+Trisha walked 0.1111111111111111 miles on her vacation.
+--- 2858 5000518
+
+
+0.6666666666666666 miles
+--- 2859 519
+
+
+3
+--- 2860 1000519
+
+
+3
+--- 2861 2000519
+
+
+0.5
+--- 2862 3000519
+
+
+0.5
+--- 2863 4000519
+
+
+0.5
+--- 2864 5000519
+
+
+0.375
+--- 2865 520
+
+
+There are 3 seats in the theater.
+--- 2866 1000520
+
+
+Answer: 3
+--- 2867 2000520
+
+
+There are an estimated 375 empty seats in the theater when 532 movie
+--- 2868 3000520
+
+
+There are still available seats in the theater for 750 people.
+--- 2869 4000520
+
+
+Answer: 32
+--- 2870 5000520
+
+
+There are still unoccupied seats in the theater for a total of 8
+--- 2871 521
+
+
+3
+--- 2872 1000521
+
+
+7
+--- 2873 2000521
+
+
+Answer: 2
+--- 2874 3000521
+
+
+3
+--- 2875 4000521
+
+
+3
+--- 2876 5000521
+
+
+Answer: 15
+--- 2877 522
+
+
+3
+--- 2878 1000522
+
+
+3
+--- 2879 2000522
+
+
+The total revenue from both days' sales was $27.
+--- 2880 3000522
+
+
+3
+--- 2881 4000522
+
+
+On Saturday, Sandy made 17 half-dollar sales. On Sunday,
+--- 2882 5000522
+
+
+Answer: $6
+--- 2883 523
+
+
+Answer: 16
+--- 2884 1000523
+
+
+8
+--- 2885 2000523
+
+
+Answer: 16
+--- 2886 3000523
+
+
+Answer: 16
+--- 2887 4000523
+
+
+Answer: 16
+--- 2888 5000523
+
+
+Answer: 16
+--- 2889 524
+
+
+3
+--- 2890 1000524
+
+
+3
+--- 2891 2000524
+
+
+3
+--- 2892 3000524
+
+
+Answer: 24
+--- 2893 4000524
+
+
+3
+--- 2894 5000524
+
+
+Answer: 3
+--- 2895 525
+
+
+3
+--- 2896 1000525
+
+
+3
+--- 2897 2000525
+
+
+3
+--- 2898 3000525
+
+
+Answer: 3
+--- 2899 4000525
+
+
+Alyssa has 3 blue balloons. Sandy has 6 blue balloons.
+--- 2900 5000525
+
+
+Answer: 3
+--- 2901 526
+
+
+Answer: 3
+--- 2902 1000526
+
+
+Answer: 3
+--- 2903 2000526
+
+
+Answer: 3
+--- 2904 3000526
+
+
+Answer: 3
+--- 2905 4000526
+
+
+Answer: 16
+--- 2906 5000526
+
+
+Answer: 3
+--- 2907 527
+
+
+Answer: 22
+--- 2908 1000527
+
+
+Answer: Fred has 54 baseball cards left.
+--- 2909 2000527
+
+
+Answer: 22
+--- 2910 3000527
+
+
+Answer: Fred has now 86 baseball cards.
+--- 2911 4000527
+
+
+Answer: 16
+--- 2912 5000527
+
+
+Answer: 22
+--- 2913 528
+
+
+Answer: 10
+--- 2914 1000528
+
+
+Answer: 18
+--- 2915 2000528
+
+
+Answer: 10
+--- 2916 3000528
+
+
+Answer: 20
+--- 2917 4000528
+
+
+Answer: 16
+--- 2918 5000528
+
+
+Answer: 16
+--- 2919 529
+
+
+Answer: 16
+--- 2920 1000529
+
+
+Answer: $4
+--- 2921 2000529
+
+
+Answer: $14.06
+--- 2922 3000529
+
+
+The total revenue generated from the sale was $14.
+--- 2923 4000529
+
+
+4
+--- 2924 5000529
+
+
+The total earnings from the sale would be $14.
+--- 2925 530
+
+
+There are 16 plants in all.
+--- 2926 1000530
+
+
+There are 152 plants in a garden.
+--- 2927 2000530
+
+
+There are 52 plants in the garden. The total count is 256.
+--- 2928 3000530
+
+
+Answer: 16
+--- 2929 4000530
+
+
+There are 16 plants in the garden.
+--- 2930 5000530
+
+
+Answer: 16
+--- 2931 531
+
+
+Answer: 292
+--- 2932 1000531
+
+
+Answer: 292
+--- 2933 2000531
+
+
+Answer: 292
+--- 2934 3000531
+
+
+292
+--- 2935 4000531
+
+
+Answer: 292
+--- 2936 5000531
+
+
+Answer: 292
+--- 2937 532
+
+
+3
+--- 2938 1000532
+
+
+Answer: 21
+--- 2939 2000532
+
+
+There were 31 birds in total.
+--- 2940 3000532
+
+
+Answer: 14
+--- 2941 4000532
+
+
+Answer: 16
+--- 2942 5000532
+
+
+Answer: 21
+--- 2943 533
+
+
+3
+--- 2944 1000533
+
+
+Answer: 20
+--- 2945 2000533
+
+
+Zach scored a total of 63 points in the football game.
+--- 2946 3000533
+
+
+Answer: 18
+--- 2947 4000533
+
+
+Answer: 10
+--- 2948 5000533
+
+
+Answer: 10
+--- 2949 534
+
+
+There were 26 students in the lunchroom.
+--- 2950 1000534
+
+
+There were 34 tables and 6 students at each table. There were therefore
+--- 2951 2000534
+
+
+
+Answer: 3
+--- 2952 3000534
+
+
+There are 36 students in the lunchroom.
+--- 2953 4000534
+
+
+There were 36 students in the lunchroom.
+--- 2954 5000534
+
+
+Answer: 36
+--- 2955 535
+
+
+The bill was $24.
+--- 2956 1000535
+
+
+Answer: 8
+--- 2957 2000535
+
+
+The total bill for a group consisting of 2 adults and 5 children would
+--- 2958 3000535
+
+
+The cost of the meal in total was $14.
+--- 2959 4000535
+
+
+3
+--- 2960 5000535
+
+
+The total cost of a meal for a party of 2 adults and 5
+--- 2961 536
+
+
+Answer: 7
+--- 2962 1000536
+
+
+2
+7
+--- 2963 2000536
+
+
+Answer: 7
+--- 2964 3000536
+
+
+3
+
+7
+--- 2965 4000536
+
+
+3
+--- 2966 5000536
+
+
+Answer: 16
+--- 2967 537
+
+
+3
+--- 2968 1000537
+
+
+3
+--- 2969 2000537
+
+
+Answer: 3
+--- 2970 3000537
+
+
+3
+--- 2971 4000537
+
+
+3
+--- 2972 5000537
+
+
+3
+--- 2973 538
+
+
+x = 16000
+--- 2974 1000538
+
+
+Answer: 3
+--- 2975 2000538
+
+
+Answer: 16000
+--- 2976 3000538
+
+
+The value of x is 8.
+--- 2977 4000538
+
+
+There are x sold-out performances necessary for Steve to break even.
+--- 2978 5000538
+
+
+x = 16000
+--- 2979 539
+
+
+3
+--- 2980 1000539
+
+
+3
+--- 2981 2000539
+
+
+3
+--- 2982 3000539
+
+
+3
+--- 2983 4000539
+
+
+3
+--- 2984 5000539
+
+
+3
+--- 2985 540
+
+
+Answer: 8
+--- 2986 1000540
+
+
+Answer: 8
+--- 2987 2000540
+
+
+Answer: 8
+--- 2988 3000540
+
+
+The total number of students that went to the concert was 45.
+--- 2989 4000540
+
+
+Answer: 8
+--- 2990 5000540
+
+
+3
+--- 2991 541
+
+
+Answer: 8
+--- 2992 1000541
+
+
+Answer: 36
+--- 2993 2000541
+
+
+36
+--- 2994 3000541
+
+
+Nancy has 84 books.
+--- 2995 4000541
+
+
+Answer: 8
+--- 2996 5000541
+
+
+Answer: 8
+--- 2997 542
+
+
+3
+--- 2998 1000542
+
+
+Answer: 16
+--- 2999 2000542
+
+
+3
+--- 3000 3000542
+
+
+3

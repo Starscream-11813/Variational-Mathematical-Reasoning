@@ -1,0 +1,4054 @@
+--- 7001 30002012
+
+
+Answer: 3
+--- 7002 40002012
+
+
+Answer: 3
+--- 7003 50002012
+
+
+Answer: 3
+--- 7004 2013
+
+
+Answer: 16
+--- 7005 10002013
+
+
+Answer: 23
+--- 7006 20002013
+
+
+Answer: 18
+--- 7007 30002013
+
+
+Answer: 23
+--- 7008 40002013
+
+
+Answer: 23
+--- 7009 50002013
+
+
+Answer: 23
+--- 7010 2014
+
+
+There are 16 groups of 8 players each.
+--- 7011 10002014
+
+
+Answer: 8
+--- 7012 20002014
+
+
+There will be 8 groups of 8 players.
+--- 7013 30002014
+
+
+There are 16 groups of 8 players each. The coach can divide them
+--- 7014 40002014
+
+
+Answer: 16
+--- 7015 50002014
+
+
+Answer: 16
+--- 7016 2015
+
+
+Answer: 3
+--- 7017 10002015
+
+
+Answer: 8
+--- 7018 20002015
+
+
+Answer: 8
+--- 7019 30002015
+
+
+Answer: 8
+--- 7020 40002015
+
+
+Answer: 3
+--- 7021 50002015
+
+
+Answer: 8
+--- 7022 2016
+
+
+Tom spent $ 18.06 on video games.
+--- 7023 10002016
+
+
+Answer: 8
+--- 7024 20002016
+
+
+3
+--- 7025 30002016
+
+
+Answer: $ 36.80
+--- 7026 40002016
+
+
+Alex spent $ 18.30 on plush toys.
+--- 7027 50002016
+
+
+Answer: $ 97.12
+--- 7028 2017
+
+
+0.16666666666666666
+--- 7029 10002017
+
+
+Answer: 16.67%
+--- 7030 20002017
+
+
+Answer: 3
+--- 7031 30002017
+
+
+16.67%
+--- 7032 40002017
+
+
+Answer: 0.
+--- 7033 50002017
+
+
+0.1667
+--- 7034 2018
+
+
+Answer: 3
+--- 7035 10002018
+
+
+Answer: 3
+--- 7036 20002018
+
+
+Answer: 3
+--- 7037 30002018
+
+
+The world grain demand is such that it exceeds the world grain supply that
+--- 7038 40002018
+
+
+The demand for grains in the world is expected to exceed the supply by
+--- 7039 50002018
+
+
+Answer: 3
+--- 7040 2019
+
+
+Kaleb made 20 dollars mowing lawns.
+--- 7041 10002019
+
+
+Answer: 20
+--- 7042 20002019
+
+
+Kaleb made 45 dollars in profit in the summer.
+--- 7043 30002019
+
+
+Answer: $4
+--- 7044 40002019
+
+
+Answer: $4
+--- 7045 50002019
+
+
+Answer: 20
+--- 7046 2020
+
+
+Answer: 42
+--- 7047 10002020
+
+
+There were 96 students in the fourth grade.
+--- 7048 20002020
+
+
+Answer: 42
+--- 7049 30002020
+
+
+Answer: 42
+--- 7050 40002020
+
+
+Answer: 42
+--- 7051 50002020
+
+
+Answer: 42
+--- 7052 2021
+
+
+Answer: 27
+--- 7053 10002021
+
+
+Answer: 78
+--- 7054 20002021
+
+
+Answer: 45
+--- 7055 30002021
+
+
+Answer: 56
+--- 7056 40002021
+
+
+Answer: 97
+--- 7057 50002021
+
+
+Answer: 78
+--- 7058 2022
+
+
+2 - 8 = -12
+--- 7059 10002022
+
+
+Answer: -8
+--- 7060 20002022
+
+
+Answer: -12
+--- 7061 30002022
+
+
+Answer: -12
+--- 7062 40002022
+
+
+-8
+
+-6
+--- 7063 50002022
+
+
+Answer: -12
+--- 7064 2023
+
+
+3
+--- 7065 10002023
+
+
+3
+--- 7066 20002023
+
+
+Answer: 8
+--- 7067 30002023
+
+
+3
+--- 7068 40002023
+
+
+3
+--- 7069 50002023
+
+
+3
+--- 7070 2024
+
+
+Answer: 3
+--- 7071 10002024
+
+
+Answer: 3
+--- 7072 20002024
+
+
+Answer: 6
+--- 7073 30002024
+
+
+Will can purchase up to 12 toys with the 27 dollars.
+--- 7074 40002024
+
+
+3
+--- 7075 50002024
+
+
+Answer: 3
+--- 7076 2025
+
+
+Answer: 3
+--- 7077 10002025
+
+
+Dave failed to wash 29 shirts and 11 long sleeve shirts. He would
+--- 7078 20002025
+
+
+Answer: 3
+--- 7079 30002025
+
+
+Answer: 3
+--- 7080 40002025
+
+
+Answer: 36
+--- 7081 50002025
+
+
+Answer: 3
+--- 7082 2026
+
+
+Answer: 3600
+--- 7083 10002026
+
+
+Answer: 3600
+--- 7084 20002026
+
+
+Answer: 3600
+--- 7085 30002026
+
+
+Alex lost 20% of the purchase price.
+--- 7086 40002026
+
+
+3
+--- 7087 50002026
+
+
+3
+--- 7088 60002026
+
+
+The percentage of loss Kyle incurred when he sold the boat for 3600
+--- 7089 70002026
+
+
+Answer: 3600
+--- 7090 80002026
+
+
+Answer: 3600
+--- 7091 90002026
+
+
+3
+--- 7092 100002026
+
+
+Answer: 3600
+--- 7093 2027
+
+
+Answer: Vince's bus ride is 0.625 mile longer than Zach
+--- 7094 10002027
+
+
+Answer: 1.5
+--- 7095 20002027
+
+
+Answer: 0.625
+--- 7096 30002027
+
+
+0.625
+--- 7097 40002027
+
+
+Answer: Vince's bus ride is 0.625 mile while Zachary
+--- 7098 50002027
+
+
+The difference in the length of Zachary's and Vince's bus rides
+--- 7099 2028
+
+
+Answer: 3
+--- 7100 10002028
+
+
+Answer: 36
+--- 7101 20002028
+
+
+Answer: 34
+--- 7102 30002028
+
+
+Answer: 28
+--- 7103 40002028
+
+
+Answer: 36
+--- 7104 50002028
+
+
+Answer: 34
+--- 7105 2029
+
+
+Answer: 3
+--- 7106 10002029
+
+
+Oliver managed to launder 20 of his clothes, but he would
+--- 7107 20002029
+
+
+Answer: 3
+--- 7108 30002029
+
+
+Answer: 3
+--- 7109 40002029
+
+
+Oliver had to wash a total of 36 shirts where 21 of them
+--- 7110 50002029
+
+
+Oliver would have 3 shirts left to wash.
+--- 7111 2030
+
+
+There are 16 oranges in a box. Jonathan takes 8 oranges. How
+--- 7112 10002030
+
+
+There are 24 oranges left inside the box.
+--- 7113 20002030
+
+
+There are 16 oranges in the box.
+--- 7114 30002030
+
+
+There are 18 oranges left in the box.
+--- 7115 40002030
+
+
+There are 24 pieces of fruit remaining inside the orange box.
+--- 7116 50002030
+
+
+Answer: 3
+--- 7117 2031
+
+
+3
+--- 7118 10002031
+
+
+3
+--- 7119 20002031
+
+
+3
+--- 7120 30002031
+
+
+3
+--- 7121 40002031
+
+
+3
+--- 7122 50002031
+
+
+3
+--- 7123 2032
+
+
+Answer: 3
+--- 7124 10002032
+
+
+Louis has 8 Lemon Heads left.
+--- 7125 20002032
+
+
+Louis consumed 54 pieces of Lemon Head candy, where each package contains 6
+--- 7126 30002032
+
+
+Answer: 54
+--- 7127 40002032
+
+
+Louis consumed 54 Lemon Head candies and each package has 6 of those
+--- 7128 50002032
+
+
+Answer: 3
+--- 7129 2033
+
+
+3
+--- 7130 10002033
+
+
+3
+--- 7131 20002033
+
+
+9 + 3 =
+13
+--- 7132 30002033
+
+
+Answer: 3
+--- 7133 40002033
+
+
+3
+--- 7134 50002033
+
+
+ Joan has 18 yellow marbles and Mary has 31 yellow marbles.
+--- 7135 2034
+
+
+3
+--- 7136 10002034
+
+
+3
+--- 7137 20002034
+
+
+Answer: 29
+--- 7138 30002034
+
+
+Answer: 79
+--- 7139 40002034
+
+
+3
+--- 7140 50002034
+
+
+Answer: 3
+--- 7141 2035
+
+
+3.25
+--- 7142 10002035
+
+
+3.25
+--- 7143 20002035
+
+
+3.5
+--- 7144 30002035
+
+
+3.5
+
+3.25
+--- 7145 40002035
+
+
+3.25
+--- 7146 50002035
+
+
+3.5
+--- 7147 2036
+
+
+1. What is 9?
+
+2. What is 12?
+--- 7148 10002036
+
+
+3
+--- 7149 20002036
+
+
+13 + 2 =
+
+17
+--- 7150 30002036
+
+
+3
+
+Answer: 13
+--- 7151 40002036
+
+
+3
+
+Faye needs to complete 13 math problems and 2 spelling
+--- 7152 50002036
+
+
+3
+--- 7153 2037
+
+
+Answer: 3
+--- 7154 10002037
+
+
+Answer: 3
+--- 7155 20002037
+
+
+Answer: 3
+--- 7156 30002037
+
+
+Answer: 3
+--- 7157 40002037
+
+
+Answer: 3
+--- 7158 50002037
+
+
+3
+--- 7159 2038
+
+
+Answer: 3
+--- 7160 10002038
+
+
+Answer: 10
+--- 7161 20002038
+
+
+Answer: 20
+--- 7162 30002038
+
+
+Answer: 78
+--- 7163 40002038
+
+
+Answer: 20
+--- 7164 50002038
+
+
+Sally's total card count is now: 78.
+--- 7165 2039
+
+
+Ruby would have 8 apples.
+--- 7166 10002039
+
+
+Answer: 3
+--- 7167 20002039
+
+
+Answer: 3
+--- 7168 30002039
+
+
+Answer: 6
+--- 7169 40002039
+
+
+Answer: 3
+--- 7170 50002039
+
+
+Answer: 6
+--- 7171 2040
+
+
+3
+--- 7172 10002040
+
+
+3
+--- 7173 20002040
+
+
+There are 18 people that can ride the Ferris wheel at Paradise Park
+--- 7174 30002040
+
+
+There are 14 seats on the Ferris wheel in Paradise Park, and
+--- 7175 40002040
+
+
+There are 18 people allowed to ride the Ferris wheel at the same
+--- 7176 50002040
+
+
+There are 18 people who can experience the Ferris wheel ride at once
+--- 7177 2041
+
+
+8
+--- 7178 10002041
+
+
+Answer: $128.00
+--- 7179 20002041
+
+
+John lost $8.
+--- 7180 30002041
+
+
+John earned $8 for each of his 15 lawns mowed.
+--- 7181 40002041
+
+
+Answer: 3
+--- 7182 50002041
+
+
+John earned 16 dollars for mowing 7 lawns.
+--- 7183 2042
+
+
+Answer: 3
+--- 7184 10002042
+
+
+Answer: 3
+--- 7185 20002042
+
+
+3
+--- 7186 30002042
+
+
+Answer: 3
+--- 7187 40002042
+
+
+Answer: 3
+--- 7188 50002042
+
+
+Answer: 3
+--- 7189 2043
+
+
+Answer: 3
+--- 7190 10002043
+
+
+1) What is 5?
+2) What is the value of
+--- 7191 20002043
+
+
+Answer: 16
+--- 7192 30002043
+
+
+Answer: 16
+--- 7193 40002043
+
+
+2
+--- 7194 50002043
+
+
+1
+--- 7195 2044
+
+
+3
+--- 7196 10002044
+
+
+Answer: 36
+--- 7197 20002044
+
+
+Answer: 3
+--- 7198 30002044
+
+
+Answer: 38
+--- 7199 40002044
+
+
+Answer: 38
+--- 7200 50002044
+
+
+Answer: 38
+--- 7201 2045
+
+
+3
+--- 7202 10002045
+
+
+Answer: 16
+--- 7203 20002045
+
+
+3
+--- 7204 30002045
+
+
+ Maria could make 45 cookies with 5 chocolate chip and 19 oatmeal cookies
+--- 7205 40002045
+
+
+Answer: 8
+--- 7206 50002045
+
+
+3
+--- 7207 2046
+
+
+Answer: 3
+--- 7208 10002046
+
+
+Answer: 17
+--- 7209 20002046
+
+
+Answer: 24
+--- 7210 30002046
+
+
+Answer: 20
+--- 7211 40002046
+
+
+Answer: 24
+--- 7212 50002046
+
+
+Answer: 3
+--- 7213 2047
+
+
+3
+--- 7214 10002047
+
+
+3
+--- 7215 20002047
+
+
+3
+--- 7216 30002047
+
+
+There are 29 trays on one table and 52 on another. Henry
+--- 7217 40002047
+
+
+There are 29 trips Henry would have to make if there were 29 tr
+--- 7218 50002047
+
+
+3
+--- 7219 2048
+
+
+Answer: 9
+--- 7220 10002048
+
+
+Answer: 9
+--- 7221 20002048
+
+
+Each of the small loads would contain: 
+
+9 pieces of
+--- 7222 30002048
+
+
+Answer: 3
+--- 7223 40002048
+
+
+3
+--- 7224 50002048
+
+
+Answer: 3
+--- 7225 2049
+
+
+Answer: 6
+--- 7226 10002049
+
+
+ Karen has now $16.25 in her wallet.
+--- 7227 20002049
+
+
+Answer: 3
+--- 7228 30002049
+
+
+Answer: 56
+--- 7229 40002049
+
+
+Answer: 56
+--- 7230 50002049
+
+
+3
+--- 7231 2050
+
+
+Answer: 28
+--- 7232 10002050
+
+
+Answer: 3
+--- 7233 20002050
+
+
+There are 20 students in the class. Of these, 15 passed.
+--- 7234 30002050
+
+
+Answer: 20
+--- 7235 40002050
+
+
+Answer: 3
+--- 7236 50002050
+
+
+There are 30 students in a class of 40.
+--- 7237 2051
+
+
+3
+--- 7238 10002051
+
+
+ Joan bought 72 eggs from the grocery store. She got 24 dozen eggs
+--- 7239 20002051
+
+
+Answer: 3
+--- 7240 30002051
+
+
+ Joan would need to buy 6 sets of 12 eggs from the grocery store
+--- 7241 40002051
+
+
+ Joan bought eggs by the dozen. If she bought enough eggs to make
+--- 7242 50002051
+
+
+ Joan bought 6 eggs and got 12 eggs.
+--- 7243 2052
+
+
+Anne has 18 bottle caps.
+--- 7244 10002052
+
+
+Albert has 18 bottle caps and Anne has 24 bottle caps.
+--- 7245 20002052
+
+
+Answer: 3
+--- 7246 30002052
+
+
+Answer: 3
+--- 7247 40002052
+
+
+Answer: 11
+--- 7248 50002052
+
+
+Answer: 3
+--- 7249 2053
+
+
+Answer: 8917
+--- 7250 10002053
+
+
+Answer: 917
+--- 7251 20002053
+
+
+Answer: 8917
+--- 7252 30002053
+
+
+Answer: 917
+--- 7253 40002053
+
+
+The rise in bacterial numbers is due to the increase in the number of
+--- 7254 50002053
+
+
+Answer: 917
+--- 7255 2054
+
+
+7 cm
+--- 7256 10002054
+
+
+7 cm on the map represents 25 kilometers.
+--- 7257 20002054
+
+
+7 cm
+--- 7258 30002054
+
+
+The actual distance and the distance measured on a map have a direct variation
+--- 7259 40002054
+
+
+7 cm on the map represents 25 kilometers.
+--- 7260 50002054
+
+
+7 cm on a map corresponds to 25 kilometers of actual distance.
+--- 7261 2055
+
+
+Answer: 3
+--- 7262 10002055
+
+
+Answer: 3
+--- 7263 20002055
+
+
+Answer: 88
+--- 7264 30002055
+
+
+The total number of bottle caps Nancy has after finding 88 more to already
+--- 7265 40002055
+
+
+Answer: 3
+--- 7266 50002055
+
+
+Answer: 91
+--- 7267 2056
+
+
+3
+--- 7268 10002056
+
+
+3
+--- 7269 20002056
+
+
+There are three beavers left working on their home.
+--- 7270 30002056
+
+
+3
+--- 7271 40002056
+
+
+There are six beavers remaining focused on constructing their home.
+--- 7272 50002056
+
+
+3
+--- 7273 2057
+
+
+Answer: 3
+--- 7274 10002057
+
+
+The difference between the amount of flour, 0.625 cups, and
+--- 7275 20002057
+
+
+Answer: 3
+--- 7276 30002057
+
+
+Answer: 3
+--- 7277 40002057
+
+
+3.5
+
+0.25
+--- 7278 50002057
+
+
+Answer: 3
+--- 7279 2058
+
+
+Answer: 3513
+--- 7280 10002058
+
+
+Answer: 3513
+--- 7281 20002058
+
+
+Answer: 9792
+--- 7282 30002058
+
+
+Answer: 9792
+--- 7283 40002058
+
+
+Answer: 3
+--- 7284 50002058
+
+
+9792 
+3513
+--- 7285 2059
+
+
+Alyssa spent $ 18.12 on grapes and $ 12.
+--- 7286 10002059
+
+
+$9.85 + $12.08 = $18.12
+--- 7287 20002059
+
+
+Answer: $12.08
+--- 7288 30002059
+
+
+Answer: $128.08
+--- 7289 40002059
+
+
+Alyssa spends $24.12 on grapes and $15.
+--- 7290 50002059
+
+
+Answer: $128.12
+--- 7291 2060
+
+
+3
+--- 7292 10002060
+
+
+Hayley had 3 meatballs left. Kirsten had 8 meatballs
+--- 7293 20002060
+
+
+3
+--- 7294 30002060
+
+
+3
+--- 7295 40002060
+
+
+Hayley had 25 meatballs to begin with, but when each person
+--- 7296 50002060
+
+
+3
+--- 7297 2061
+
+
+Answer: 934
+--- 7298 10002061
+
+
+Answer: 934
+--- 7299 20002061
+
+
+Answer: 934
+--- 7300 30002061
+
+
+Answer: 34
+--- 7301 40002061
+
+
+Answer: 3
+--- 7302 50002061
+
+
+Answer: 3
+--- 7303 2062
+
+
+220 - 510 = 0.6667
+--- 7304 10002062
+
+
+220 - 510 = 0.6667
+--- 7305 20002062
+
+
+2
+--- 7306 30002062
+
+
+The number of barrels must be moved from the second shed to the first
+--- 7307 40002062
+
+
+3
+--- 7308 50002062
+
+
+3
+--- 7309 2063
+
+
+Answer: 10
+--- 7310 10002063
+
+
+Answer: 10
+--- 7311 20002063
+
+
+Answer: 73
+--- 7312 30002063
+
+
+There will be 73 popular trees in the park once the workers complete the
+--- 7313 40002063
+
+
+Answer: 97
+--- 7314 50002063
+
+
+Answer: 73
+--- 7315 2064
+
+
+Answer: 26
+--- 7316 10002064
+
+
+There were 56 students in fourth grade at the end of the year.
+--- 7317 20002064
+
+
+Answer: 26
+--- 7318 30002064
+
+
+There were 38 students in fourth grade.
+--- 7319 40002064
+
+
+There were 26 students in fourth grade when the academic year ended.
+--- 7320 50002064
+
+
+There were 30 fourth-grade students when the school year concluded.
+--- 7321 2065
+
+
+ Connie has 2315 red markers and 1028 blue markers . Connie has
+--- 7322 10002065
+
+
+3
+--- 7323 20002065
+
+
+ Connie has 24 markers.
+--- 7324 30002065
+
+
+ Connie has 2315 red markers and 1028 blue markers. She has
+--- 7325 40002065
+
+
+ Connie has 2315 markers.
+--- 7326 50002065
+
+
+ Connie has 3294 red markers and 10368 blue markers in total.
+--- 7327 2066
+
+
+There are now 20817 houses in Lincoln County.
+--- 7328 10002066
+
+
+The total number of houses in Lincoln County is now 97,741
+--- 7329 20002066
+
+
+Answer: 97,741
+--- 7330 30002066
+
+
+Answer: 97,741
+--- 7331 40002066
+
+
+The total number of new houses built during the housing boom in Lincoln County
+--- 7332 50002066
+
+
+Answer: 97,741
+--- 7333 2067
+
+
+3
+--- 7334 10002067
+
+
+Answer: 16
+--- 7335 20002067
+
+
+3
+--- 7336 30002067
+
+
+3
+--- 7337 40002067
+
+
+1
+2
+3
+4
+5
+6
+7
+
+--- 7338 50002067
+
+
+3
+--- 7339 2068
+
+
+3
+--- 7340 10002068
+
+
+Answer: 18
+--- 7341 20002068
+
+
+Answer: 10
+--- 7342 30002068
+
+
+Answer: 16
+--- 7343 40002068
+
+
+Answer: 6
+--- 7344 50002068
+
+
+Answer: 3
+--- 7345 2069
+
+
+Answer: 6
+--- 7346 10002069
+
+
+Answer: 10
+--- 7347 20002069
+
+
+Answer: 16
+--- 7348 30002069
+
+
+2
+3
+5
+7
+--- 7349 40002069
+
+
+Answer: 7
+--- 7350 50002069
+
+
+Answer: 7
+--- 7351 2070
+
+
+3
+--- 7352 10002070
+
+
+Answer: 96
+--- 7353 20002070
+
+
+Answer: 6
+--- 7354 30002070
+
+
+Answer: 97
+--- 7355 40002070
+
+
+Answer: 96
+--- 7356 50002070
+
+
+Answer: 96
+--- 7357 2071
+
+
+Answer: 20
+--- 7358 10002071
+
+
+Answer: 13
+--- 7359 20002071
+
+
+There are 31 ducks in a lake when a group of 20 is joined
+--- 7360 30002071
+
+
+There are now 30 ducks in the lake.
+--- 7361 40002071
+
+
+There are 31 ducks in total.
+--- 7362 50002071
+
+
+There are 18 ducks swimming in a lake.
+--- 7363 2072
+
+
+3
+--- 7364 10002072
+
+
+Answer: 3
+--- 7365 20002072
+
+
+Answer: 3
+--- 7366 30002072
+
+
+Answer: 3
+--- 7367 40002072
+
+
+Answer: 3
+--- 7368 50002072
+
+
+3
+--- 7369 2073
+
+
+Answer: 3
+--- 7370 10002073
+
+
+On Monday, the class observed 0.16666666666666666 of a
+--- 7371 20002073
+
+
+ Bonnie's science class observed 0.4166666666666667 of a cent
+--- 7372 30002073
+
+
+On Monday, 0.16666666666666666 of a centimeter of
+--- 7373 40002073
+
+
+Answer: 3
+--- 7374 50002073
+
+
+Answer: 0.16666666666666666
+--- 7375 2074
+
+
+3
+--- 7376 10002074
+
+
+Tom has 8 tickets left.
+--- 7377 20002074
+
+
+Tom won 36 tickets playing 'whack a mole' and spent 7
+--- 7378 30002074
+
+
+3
+--- 7379 40002074
+
+
+Tom can use 18 tickets to play games.
+--- 7380 50002074
+
+
+Tom has 18 tickets left.
+--- 7381 2075
+
+
+3
+--- 7382 10002075
+
+
+3
+--- 7383 20002075
+
+
+3
+--- 7384 30002075
+
+
+3
+--- 7385 40002075
+
+
+3
+--- 7386 50002075
+
+
+3
+--- 7387 2076
+
+
+3
+--- 7388 10002076
+
+
+3
+--- 7389 20002076
+
+
+3
+--- 7390 30002076
+
+
+3
+--- 7391 40002076
+
+
+Answer: 11
+--- 7392 50002076
+
+
+3
+--- 7393 2077
+
+
+ Jacques should receive $128.10 per week
+--- 7394 10002077
+
+
+The extra pay he gets for every hour that he works over 40 hours
+--- 7395 20002077
+
+
+ Jacques makes $8.60 per hour and he earns an annual salary
+--- 7396 30002077
+
+
+ Jacques' overtime pay for the hours that he works over 40 would be
+--- 7397 40002077
+
+
+ Jacques earns an extra 12.90 dollars per hour if he works 55
+--- 7398 50002077
+
+
+ Jacques should be paid 45.12 dollars in total for this week's
+--- 7399 2078
+
+
+Dan has 36 green and 42 violet marbles. Mike took 25 of
+--- 7400 10002078
+
+
+Answer: 3
+--- 7401 20002078
+
+
+Answer: 3
+--- 7402 30002078
+
+
+3
+--- 7403 40002078
+
+
+Answer: 38
+--- 7404 50002078
+
+
+There are <number> green marbles left in Dan's possession.
+--- 7405 2079
+
+
+Answer: 6
+--- 7406 10002079
+
+
+Answer: 3
+--- 7407 20002079
+
+
+1
+2
+3
+4
+5
+6
+
+1
+--- 7408 30002079
+
+
+Answer: 3
+--- 7409 40002079
+
+
+1, 2, 3, 4, 5, 6
+
+1
+--- 7410 50002079
+
+
+2
+3
+4
+5
+6
+--- 7411 2080
+
+
+Answer: 5
+--- 7412 10002080
+
+
+Answer: 3
+--- 7413 20002080
+
+
+9
+--- 7414 30002080
+
+
+Answer: 3
+--- 7415 40002080
+
+
+There are six cows in the field. Three-quarters of the remaining
+--- 7416 50002080
+
+
+9 cows drink water from the pond.
+--- 7417 2081
+
+
+5.91
+8.11
+--- 7418 10002081
+
+
+3
+--- 7419 20002081
+
+
+5.91
+8.11
+--- 7420 30002081
+
+
+14.02 = 5.91
+
+--- 7421 40002081
+
+
+The total weight of the materials they acquired was 8.11 tons.
+--- 7422 50002081
+
+
+Answer: 5.91 tons
+--- 7423 2082
+
+
+3
+--- 7424 10002082
+
+
+3
+--- 7425 20002082
+
+
+3
+--- 7426 30002082
+
+
+The total number of green marbles in Tom's marble collection is 8
+--- 7427 40002082
+
+
+3
+--- 7428 50002082
+
+
+Tom has 8 green marbles.
+--- 7429 2083
+
+
+3
+--- 7430 10002083
+
+
+3
+--- 7431 20002083
+
+
+Sara has 18 marbles.
+--- 7432 30002083
+
+
+Sara has now 18 marbles.
+--- 7433 40002083
+
+
+3
+--- 7434 50002083
+
+
+Sara has 3 marbles left.
+--- 7435 2084
+
+
+Answer: 3
+--- 7436 10002084
+
+
+Answer: 17
+--- 7437 20002084
+
+
+Answer: 3
+--- 7438 30002084
+
+
+Answer: 3
+--- 7439 40002084
+
+
+Answer: 16
+--- 7440 50002084
+
+
+Answer: 3
+--- 7441 2085
+
+
+There are a total of 79 basketballs.
+--- 7442 10002085
+
+
+The Spurs basketball team has 24 basketballs.
+--- 7443 20002085
+
+
+The total number of basketballs owned by the Spurs team is 21.
+--- 7444 30002085
+
+
+8
+--- 7445 40002085
+
+
+The team's total number of basketballs is 24.
+--- 7446 50002085
+
+
+There are a total of 18 basketballs on the Spurs team. There
+--- 7447 2086
+
+
+3
+--- 7448 10002086
+
+
+3
+--- 7449 20002086
+
+
+3
+--- 7450 30002086
+
+
+3
+--- 7451 40002086
+
+
+3
+--- 7452 50002086
+
+
+3
+--- 7453 2087
+
+
+3
+--- 7454 10002087
+
+
+2
+--- 7455 20002087
+
+
+2
+--- 7456 30002087
+
+
+2
+--- 7457 40002087
+
+
+2
+--- 7458 50002087
+
+
+2000
+--- 7459 2088
+
+
+$ 20
+--- 7460 10002088
+
+
+Mary received $ 20.
+--- 7461 20002088
+
+
+John received $ 20.
+--- 7462 30002088
+
+
+Rachel received $ 20.
+--- 7463 40002088
+
+
+$ 20
+--- 7464 50002088
+
+
+Fred received $ 20.
+--- 7465 60002088
+
+
+Fred received $ 20.
+--- 7466 70002088
+
+
+Fred received $ 20.92 in change.
+--- 7467 80002088
+
+
+$ 20
+--- 7468 90002088
+
+
+Fred received $ 20.92
+--- 7469 100002088
+
+
+Answer: $ 20
+--- 7470 110002088
+
+
+Fred received $ 20.
+--- 7471 120002088
+
+
+Fred received $ 20.
+--- 7472 130002088
+
+
+Fred received $ 20.
+--- 7473 140002088
+
+
+Fred received $ 20.
+--- 7474 150002088
+
+
+Fred received $ 20.
+--- 7475 160002088
+
+
+$7.06
+--- 7476 2089
+
+
+3
+--- 7477 10002089
+
+
+Answer: 16
+--- 7478 20002089
+
+
+3
+--- 7479 30002089
+
+
+Answer: 3
+--- 7480 40002089
+
+
+3
+--- 7481 50002089
+
+
+3
+--- 7482 2090
+
+
+2.33333333333333
+--- 7483 10002090
+
+
+Answer: 1.5
+--- 7484 20002090
+
+
+The difference in height between the new refrigerator and the old refrigerator is 6
+--- 7485 30002090
+
+
+The new chair has an additional height of 4.5 feet, which
+--- 7486 40002090
+
+
+The new building is 20 feet taller than the old building. The difference
+--- 7487 50002090
+
+
+Answer: 2
+--- 7488 2091
+
+
+Hayley will use 3 boxes to store her 63 magazines.
+--- 7489 10002091
+
+
+Hayley will need to use 3 boxes to recycle her 63 magazines.
+--- 7490 20002091
+
+
+3
+--- 7491 30002091
+
+
+3
+--- 7492 40002091
+
+
+Hayley needs to pack 63 magazines in boxes. She will need to
+--- 7493 50002091
+
+
+3
+--- 7494 2092
+
+
+Answer: 3
+--- 7495 10002092
+
+
+Answer: 18
+--- 7496 20002092
+
+
+Answer: 23
+--- 7497 30002092
+
+
+Answer: 3
+--- 7498 40002092
+
+
+Answer: 3
+--- 7499 50002092
+
+
+Answer: 3
+--- 7500 2093
+
+
+3
+--- 7501 10002093
+
+
+Answer: 16
+--- 7502 20002093
+
+
+6
+--- 7503 30002093
+
+
+3
+--- 7504 40002093
+
+
+Answer: 16
+--- 7505 50002093
+
+
+The cumulative number of pencils in two children's possession when they each
+--- 7506 2094
+
+
+3
+--- 7507 10002094
+
+
+Josh lost 7 marbles.
+--- 7508 20002094
+
+
+Answer: 3
+--- 7509 30002094
+
+
+Josh has 8 marbles left in his 16 marble collection.
+--- 7510 40002094
+
+
+Josh has 8 marbles in total.
+--- 7511 50002094
+
+
+3
+--- 7512 2095
+
+
+There are 16 crayons in the drawer and 15 crayons
+--- 7513 10002095
+
+
+Answer: 8
+--- 7514 20002095
+
+
+8
+--- 7515 30002095
+
+
+Answer: 8
+--- 7516 40002095
+
+
+Answer: 8
+--- 7517 50002095
+
+
+Answer: 16
+--- 7518 2096
+
+
+3
+--- 7519 10002096
+
+
+3
+--- 7520 20002096
+
+
+Answer: 8
+--- 7521 30002096
+
+
+Answer: 6
+--- 7522 40002096
+
+
+3
+--- 7523 50002096
+
+
+3
+--- 7524 2097
+
+
+Answer: 16
+--- 7525 10002097
+
+
+Answer: 15
+--- 7526 20002097
+
+
+Answer: 16
+--- 7527 30002097
+
+
+Answer: 15
+--- 7528 40002097
+
+
+Answer: 16
+--- 7529 50002097
+
+
+Answer: 16
+--- 7530 2098
+
+
+Answer: 3
+--- 7531 10002098
+
+
+Answer: 3
+--- 7532 20002098
+
+
+Answer: 24
+--- 7533 30002098
+
+
+Answer: 2
+--- 7534 40002098
+
+
+Mike grew 3 pumpkins.
+--- 7535 50002098
+
+
+Answer: 3
+--- 7536 2099
+
+
+3
+--- 7537 10002099
+
+
+3
+--- 7538 20002099
+
+
+3
+--- 7539 30002099
+
+
+3
+--- 7540 40002099
+
+
+3
+--- 7541 50002099
+
+
+Answer: 2
+--- 7542 2100
+
+
+Answer: 12
+--- 7543 10002100
+
+
+3
+--- 7544 20002100
+
+
+Mark has 18 pennies and 3 quarters.
+--- 7545 30002100
+
+
+2
+--- 7546 40002100
+
+
+3
+--- 7547 50002100
+
+
+Samantha has 18 pennies and 3 quarters in her drawer.
+--- 7548 60002100
+
+
+Answer: 12
+--- 7549 70002100
+
+
+Alyssa has 8 pennies and 18 quarters.
+--- 7550 80002100
+
+
+Alyssa has 8 pennies and 18 quarters.
+--- 7551 90002100
+
+
+Alyssa has 18 pennies and 12 quarters.
+--- 7552 100002100
+
+
+Alyssa has 18 pennies and 12 quarters.
+--- 7553 110002100
+
+
+Alyssa has 18 pennies and 12 quarters.
+--- 7554 120002100
+
+
+3
+--- 7555 130002100
+
+
+Answer: 12
+--- 7556 140002100
+
+
+Answer: 12
+--- 7557 150002100
+
+
+Answer: 12
+--- 7558 160002100
+
+
+3
+--- 7559 2101
+
+
+3
+--- 7560 10002101
+
+
+8
+--- 7561 20002101
+
+
+Answer: 7
+--- 7562 30002101
+
+
+Answer: 10
+--- 7563 40002101
+
+
+3
+--- 7564 50002101
+
+
+Answer: 16
+--- 7565 2102
+
+
+Answer: Seth spent $ 12.06 on ice cream and $ 1
+--- 7566 10002102
+
+
+Emily spent $14 on ice cream and $8 on yogurt.
+--- 7567 20002102
+
+
+Mark spent $14 on ice cream and $8 on yogurt.
+--- 7568 30002102
+
+
+Answer: Sarah spent $8 on ice cream and $2 on yogurt
+--- 7569 40002102
+
+
+Rachel spent $8 on ice cream and $2 on yogurt.
+--- 7570 50002102
+
+
+Answer: Seth spent $14 on ice cream and $8 on yogurt
+--- 7571 60002102
+
+
+Answer: 3
+--- 7572 70002102
+
+
+Answer: Seth spent $14.06 more on ice cream than on
+--- 7573 80002102
+
+
+Seth spent $8 on ice cream, which is $2 more
+--- 7574 90002102
+
+
+Answer: Seth spent $14 on ice cream and $8 on yogurt
+--- 7575 100002102
+
+
+3
+--- 7576 110002102
+
+
+Answer: Seth spent $14.06 on ice cream and $8
+--- 7577 120002102
+
+
+Seth spent $14 on ice cream and $8 on yogurt.
+--- 7578 130002102
+
+
+Answer: Seth spent $14 more on ice cream than on yogurt.
+--- 7579 140002102
+
+
+Answer: Seth spent $14.06 on ice cream and $8
+--- 7580 150002102
+
+
+Seth spent $8 on ice cream and $2 on yogurt.
+--- 7581 160002102
+
+
+Seth spent $118 more on ice cream than on yogurt. Seth
+--- 7582 2103
+
+
+Oscar's bus ride is 0.75 of a mile and Charlie
+--- 7583 10002103
+
+
+The difference in the length of their bus rides is 0.75 miles
+--- 7584 20002103
+
+
+Oscar's ride is lengthier than Charlie's by .75 miles
+--- 7585 30002103
+
+
+The difference in the length of their bus trips is 0.75 miles
+--- 7586 40002103
+
+
+Answer: 3
+--- 7587 50002103
+
+
+The distance of 1.25 miles is covered by Oscar when he travels
+--- 7588 2104
+
+
+8
+--- 7589 10002104
+
+
+8
+--- 7590 20002104
+
+
+8
+--- 7591 30002104
+
+
+Answer: 8
+--- 7592 40002104
+
+
+Answer: 16
+--- 7593 50002104
+
+
+The total distance will be 8.6 miles.
+--- 7594 2105
+
+
+$ 14.28
+--- 7595 10002105
+
+
+Jason spent $28.14 on clothing at the mall.
+--- 7596 20002105
+
+
+14.28
+--- 7597 30002105
+
+
+Jason spent $14.28 on clothes and $4.74 on
+--- 7598 40002105
+
+
+Jason spent $14.28 on shorts and $4.74 on
+--- 7599 50002105
+
+
+14.28
+--- 7600 2106
+
+
+There are 5256 people in Milburg.
+--- 7601 10002106
+
+
+There are 3 people living in Milburg.
+--- 7602 20002106
+
+
+The total number of people living in the town is 8,812
+--- 7603 30002106
+
+
+There are 8 individuals in Milburg.
+--- 7604 40002106
+
+
+The total population of Milburg is 5256.
+--- 7605 50002106
+
+
+2987 + 5256 =
+--- 7606 2107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7607 10002107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7608 20002107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7609 30002107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7610 40002107
+
+
+Answer: 0.75
+--- 7611 50002107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7612 60002107
+
+
+The second jet will take 0.75 hours to overtake the first jet
+--- 7613 70002107
+
+
+It will take the second jet, which is traveling at 800 kilometers per
+--- 7614 80002107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7615 90002107
+
+
+It will take the second jet, traveling at 800 kilometers per hour and
+--- 7616 100002107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7617 110002107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7618 120002107
+
+
+The second jet will take 3 hours and 45 minutes to overtake the first
+--- 7619 130002107
+
+
+Answer: 0.75
+--- 7620 140002107
+
+
+It will take the second jet 0.75 hours to overtake the first
+--- 7621 150002107
+
+
+The second jet will take 3 hours and 45 minutes to overtake the first
+--- 7622 160002107
+
+
+2.25 hours
+--- 7623 2108
+
+
+Answer: 24
+--- 7624 10002108
+
+
+x = 1140
+--- 7625 20002108
+
+
+y = 1440
+
+--- 7626 30002108
+
+
+Leah worked an additional hour for overtime on top of her regular work
+--- 7627 40002108
+
+
+ Leah worked 8 hours last week and earned 840 dollars. Her regular rate
+--- 7628 50002108
+
+
+Leah worked 8 hours last week, which would give her an answer
+--- 7629 2109
+
+
+Answer: 3
+--- 7630 10002109
+
+
+Adam had 8 candy pieces after purchasing 2 boxes of chocolate candy and 5
+--- 7631 20002109
+
+
+Answer: 16
+--- 7632 30002109
+
+
+Adam purchased 24 pieces of candy in total.
+--- 7633 40002109
+
+
+Adam had 8 candy pieces.
+--- 7634 50002109
+
+
+Adam had 18 candy pieces in total.
+--- 7635 2110
+
+
+Answer: 648
+--- 7636 10002110
+
+
+Answer: 16
+--- 7637 20002110
+
+
+Answer: 16
+--- 7638 30002110
+
+
+Answer: 24
+--- 7639 40002110
+
+
+There are 16 pencil boxes required.
+--- 7640 50002110
+
+
+There are 16 pencil boxes.
+--- 7641 2111
+
+
+You would have to drive 9.25 miles to get to the first
+--- 7642 10002111
+
+
+You need to travel 8.25 miles to get the first rental agency
+--- 7643 20002111
+
+
+Answer: 16
+--- 7644 30002111
+
+
+Answer: 18.25
+--- 7645 40002111
+
+
+Answer: 2
+--- 7646 50002111
+
+
+The minimum distance you need to drive so that the first rental agency is
+--- 7647 2112
+
+
+Answer: 3
+--- 7648 10002112
+
+
+Answer: 6
+--- 7649 20002112
+
+
+Answer: 44
+--- 7650 30002112
+
+
+Answer: 6
+--- 7651 40002112
+
+
+Answer: 38
+--- 7652 50002112
+
+
+Answer: 6
+--- 7653 2113
+
+
+Kyoko must pay for 3 balls cost $ 1.54.
+--- 7654 10002113
+
+
+The total cost of the balls is $14.54.
+--- 7655 20002113
+
+
+Kyoko will spend $14.54 on 3 balls.
+--- 7656 30002113
+
+
+Kyoko should prepare to spend $14.06 if she wants to
+--- 7657 40002113
+
+
+Answer: $14.54
+--- 7658 50002113
+
+
+3
+--- 7659 2114
+
+
+3
+--- 7660 10002114
+
+
+Answer: 16
+--- 7661 20002114
+
+
+3
+--- 7662 30002114
+
+
+3
+--- 7663 40002114
+
+
+Answer: 16
+--- 7664 50002114
+
+
+Answer: 3
+--- 7665 2115
+
+
+Answer: 23
+--- 7666 10002115
+
+
+Answer: 45
+--- 7667 20002115
+
+
+Answer: 1035
+--- 7668 30002115
+
+
+Answer: 45
+--- 7669 40002115
+
+
+There are 24 bags, each containing 23 pounds of oranges, needed to
+--- 7670 50002115
+
+
+Answer: 45
+--- 7671 2116
+
+
+Answer: 12
+--- 7672 10002116
+
+
+Answer: 12
+--- 7673 20002116
+
+
+Answer: 3
+--- 7674 30002116
+
+
+Answer: 12
+--- 7675 40002116
+
+
+The total number of cats left in the store was 24.
+--- 7676 50002116
+
+
+Answer: 20
+--- 7677 2117
+
+
+3
+--- 7678 10002117
+
+
+3
+--- 7679 20002117
+
+
+The car has to be driven 9,000 miles in a day to
+--- 7680 30002117
+
+
+The cost of renting a car from two rental agencies is $27.
+--- 7681 40002117
+
+
+3
+--- 7682 50002117
+
+
+The rental cost of the first agency would be $27.
+--- 7683 2118
+
+
+Answer: 8
+--- 7684 10002118
+
+
+It will take him an additional hour to complete the task.
+--- 7685 20002118
+
+
+Answer: 16
+--- 7686 30002118
+
+
+Answer: 8
+--- 7687 40002118
+
+
+Answer: 8
+--- 7688 50002118
+
+
+3
+--- 7689 2119
+
+
+Answer: 3
+--- 7690 10002119
+
+
+If Edward had to mow six lawns and was paid $9
+--- 7691 20002119
+
+
+Answer: $24
+--- 7692 30002119
+
+
+Answer: 3
+--- 7693 40002119
+
+
+Answer: $9
+--- 7694 50002119
+
+
+Answer: $128
+--- 7695 2120
+
+
+3
+--- 7696 10002120
+
+
+Answer: 16
+--- 7697 20002120
+
+
+Answer: 16
+--- 7698 30002120
+
+
+Answer: 16
+--- 7699 40002120
+
+
+Answer: 8
+--- 7700 50002120
+
+
+Answer: 16
+--- 7701 2121
+
+
+3
+--- 7702 10002121
+
+
+0.4166666666666667
+--- 7703 20002121
+
+
+0.4166666666666667
+--- 7704 30002121
+
+
+0.4166666666666667
+--- 7705 40002121
+
+
+3
+--- 7706 50002121
+
+
+0.4166666666666667
+--- 7707 2122
+
+
+Rose walked for 4 hours at 2 miles per hour.
+--- 7708 10002122
+
+
+Answer: 16
+--- 7709 20002122
+
+
+Rose covered a total of 18 miles after walking for 4 hours.
+--- 7710 30002122
+
+
+Rose has traveled 8.4 miles.
+--- 7711 40002122
+
+
+Rose walked for 4 hours at a speed of 2 miles per hour.
+--- 7712 50002122
+
+
+Answer: 2
+--- 7713 2123
+
+
+3
+--- 7714 10002123
+
+
+Answer: 3
+--- 7715 20002123
+
+
+3
+--- 7716 30002123
+
+
+Answer: 3
+--- 7717 40002123
+
+
+Answer: 3
+--- 7718 50002123
+
+
+3
+--- 7719 2124
+
+
+9 groups
+--- 7720 10002124
+
+
+Answer: 16
+--- 7721 20002124
+
+
+Answer: 26
+--- 7722 30002124
+
+
+9 groups can be formed.
+--- 7723 40002124
+
+
+Answer: 16
+--- 7724 50002124
+
+
+Answer: 16
+--- 7725 2125
+
+
+Answer: 153
+--- 7726 10002125
+
+
+Answer: 552
+--- 7727 20002125
+
+
+Answer: 552
+--- 7728 30002125
+
+
+Answer: 15
+--- 7729 40002125
+
+
+Answer: 15
+--- 7730 50002125
+
+
+Answer: 552
+--- 7731 2126
+
+
+She can buy 4 pencils with the money she has.
+--- 7732 10002126
+
+
+Mrs. Hilt can purchase a total of 18 pencils.
+--- 7733 20002126
+
+
+Answer: 3
+--- 7734 30002126
+
+
+Mrs. Hilt has a total of seventy-five cents. If
+--- 7735 40002126
+
+
+There are an infinite number of pencils that can be bought for 5
+--- 7736 50002126
+
+
+3
+--- 7737 2127
+
+
+Answer: 3
+--- 7738 10002127
+
+
+3
+--- 7739 20002127
+
+
+3
+--- 7740 30002127
+
+
+Answer: 3
+--- 7741 40002127
+
+
+Answer: 3
+--- 7742 50002127
+
+
+3
+--- 7743 2128
+
+
+Answer: 10
+--- 7744 10002128
+
+
+ Megan has now: 109
+--- 7745 20002128
+
+
+ Megan has 471 markers.
+--- 7746 30002128
+
+
+Answer: 217
+--- 7747 40002128
+
+
+Answer: 3
+--- 7748 50002128
+
+
+Answer: 20
+--- 7749 2129
+
+
+Answer: 8
+--- 7750 10002129
+
+
+Answer: 12
+--- 7751 20002129
+
+
+7
+--- 7752 30002129
+
+
+Answer: 7
+--- 7753 40002129
+
+
+7
+--- 7754 50002129
+
+
+7
+--- 7755 2130
+
+
+3
+--- 7756 10002130
+
+
+3
+--- 7757 20002130
+
+
+3
+--- 7758 30002130
+
+
+3
+--- 7759 40002130
+
+
+3
+--- 7760 50002130
+
+
+3
+--- 7761 2131
+
+
+Jason gets 3 crayons. Benny gets 2 crayons.
+--- 7762 10002131
+
+
+3
+--- 7763 20002131
+
+
+3
+--- 7764 30002131
+
+
+Fred will get 24 crayons, Benny will get 18 cray
+--- 7765 40002131
+
+
+3
+--- 7766 50002131
+
+
+Fred will have 8 crayons, Benny will have 12 cray
+--- 7767 2132
+
+
+3
+--- 7768 10002132
+
+
+3
+--- 7769 20002132
+
+
+3
+--- 7770 30002132
+
+
+3
+--- 7771 40002132
+
+
+3
+--- 7772 50002132
+
+
+3
+--- 7773 2133
+
+
+3
+--- 7774 10002133
+
+
+3
+--- 7775 20002133
+
+
+There are 20 bicycles and 50 wheels in the store. There are therefore
+--- 7776 30002133
+
+
+3
+--- 7777 40002133
+
+
+There are 30 bicycles for sale.
+--- 7778 50002133
+
+
+Answer: 20
+--- 7779 2134
+
+
+2
+--- 7780 10002134
+
+
+Answer: 12
+--- 7781 20002134
+
+
+Answer: 12
+--- 7782 30002134
+
+
+2 times 6 is 12
+--- 7783 40002134
+
+
+Answer: 12
+--- 7784 50002134
+
+
+6 - 3 =
+
+2
+--- 7785 2135
+
+
+3
+--- 7786 10002135
+
+
+Answer: 16
+--- 7787 20002135
+
+
+Answer: 3
+--- 7788 30002135
+
+
+Answer: 7
+--- 7789 40002135
+
+
+Answer: 7
+--- 7790 50002135
+
+
+Answer: 3
+--- 7791 2136
+
+
+Answer: 3
+--- 7792 10002136
+
+
+Answer: 8
+--- 7793 20002136
+
+
+Answer: 86
+--- 7794 30002136
+
+
+Kenya has x more peanuts than Jose.
+--- 7795 40002136
+
+
+Answer: 104
+--- 7796 50002136
+
+
+Answer: 3
+--- 7797 2137
+
+
+Answer: 3
+--- 7798 10002137
+
+
+Answer: 3
+--- 7799 20002137
+
+
+Answer: 3
+--- 7800 30002137
+
+
+3
+--- 7801 40002137
+
+
+Answer: 3
+--- 7802 50002137
+
+
+3
+--- 7803 2138
+
+
+Answer: 3
+--- 7804 10002138
+
+
+3
+-2
+-5
+-7
+--- 7805 20002138
+
+
+Answer: 3
+--- 7806 30002138
+
+
+Answer: 3
+--- 7807 40002138
+
+
+3 times 25 is 75.
+--- 7808 50002138
+
+
+Answer: 2
+--- 7809 2139
+
+
+3
+--- 7810 10002139
+
+
+Answer: 3
+--- 7811 20002139
+
+
+Answer: 10
+--- 7812 30002139
+
+
+Answer: 3
+--- 7813 40002139
+
+
+3
+--- 7814 50002139
+
+
+3
+--- 7815 2140
+
+
+Answer: 16
+--- 7816 10002140
+
+
+Answer: 16
+--- 7817 20002140
+
+
+Answer: 3
+--- 7818 30002140
+
+
+Answer: 16
+--- 7819 40002140
+
+
+Answer: -16
+--- 7820 50002140
+
+
+Answer: 36
+--- 7821 2141
+
+
+Answer: 6
+--- 7822 10002141
+
+
+Answer: 3
+--- 7823 20002141
+
+
+Answer: 3
+--- 7824 30002141
+
+
+Answer: 3
+--- 7825 40002141
+
+
+Answer: 3
+--- 7826 50002141
+
+
+Answer: 3
+--- 7827 2142
+
+
+3
+--- 7828 10002142
+
+
+3
+--- 7829 20002142
+
+
+3
+--- 7830 30002142
+
+
+3
+--- 7831 40002142
+
+
+3
+--- 7832 50002142
+
+
+3
+--- 7833 2143
+
+
+It will take the painter 10 hours to paint the room and the artist
+--- 7834 10002143
+
+
+The two painters will need an equal amount of time to complete the
+--- 7835 20002143
+
+
+The amount of time it will take the two painters to complete the
+--- 7836 30002143
+
+
+It will take the two painters an hour and a half to complete
+--- 7837 40002143
+
+
+The timeframe for both painters to finish the job is 12 hours.
+--- 7838 50002143
+
+
+It takes 10 hours for both painters to complete the task if they
+--- 7839 2144
+
+
+0.8
+--- 7840 10002144
+
+
+0.8
+
+0.1
+--- 7841 20002144
+
+
+Answer: 0.1
+--- 7842 30002144
+
+
+Answer: 0.8
+--- 7843 40002144
+
+
+Answer: 0.8
+--- 7844 50002144
+
+
+Answer: 0.8
+--- 7845 2145
+
+
+3
+--- 7846 10002145
+
+
+Answer: 18
+--- 7847 20002145
+
+
+There are 18 candies in total.
+--- 7848 30002145
+
+
+Answer: 9
+--- 7849 40002145
+
+
+There are 18 candy bars in total.
+--- 7850 50002145
+
+
+Answer: 12
+--- 7851 2146
+
+
+The number that represents the total net yardage is 37.
+--- 7852 10002146
+
+
+Answer: 9
+--- 7853 20002146
+
+
+Answer: -25
+--- 7854 30002146
+
+
+3
+--- 7855 40002146
+
+
+The team's total net yardage would be: (9-21
+--- 7856 50002146
+
+
+The original yardage before the losses and gains was 36 yards.
+--- 7857 2147
+
+
+Answer: 3
+--- 7858 10002147
+
+
+Answer: 36
+--- 7859 20002147
+
+
+36 + 3 = 48
+--- 7860 30002147
+
+
+Answer: 48
+--- 7861 40002147
+
+
+Answer: 36
+--- 7862 50002147
+
+
+Answer: 5
+--- 7863 2148
+
+
+Answer: 3
+--- 7864 10002148
+
+
+Answer: 3
+--- 7865 20002148
+
+
+Answer: 3
+--- 7866 30002148
+
+
+Answer: 3
+--- 7867 40002148
+
+
+Answer: 3
+--- 7868 50002148
+
+
+Answer: 3
+--- 7869 2149
+
+
+Answer: 3
+--- 7870 10002149
+
+
+Answer: 6
+--- 7871 20002149
+
+
+Answer: 65
+--- 7872 30002149
+
+
+Answer: 6
+--- 7873 40002149
+
+
+Answer: 16
+--- 7874 50002149
+
+
+Answer: 66
+--- 7875 2150
+
+
+The percent of sales tax for a MP3 player is 8.65
+--- 7876 10002150
+
+
+Answer: 18
+--- 7877 20002150
+
+
+The sales tax on a 20 dollar backpack is 1.20 dollars.
+--- 7878 30002150
+
+
+Answer: 3
+--- 7879 40002150
+
+
+Answer: 20
+--- 7880 50002150
+
+
+Answer: 18
+--- 7881 2151
+
+
+3
+--- 7882 10002151
+
+
+Answer: 17
+--- 7883 20002151
+
+
+Answer: 10
+--- 7884 30002151
+
+
+Answer: 10
+--- 7885 40002151
+
+
+Answer: 17
+--- 7886 50002151
+
+
+Answer: 17
+--- 7887 2152
+
+
+3
+--- 7888 10002152
+
+
+$142.46
+--- 7889 20002152
+
+
+Jason paid $158.35 for the items mentioned.
+--- 7890 30002152
+
+
+$142.46
+--- 7891 40002152
+
+
+$142.46
+--- 7892 50002152
+
+
+Answer: $142.46
+--- 7893 2153
+
+
+3
+--- 7894 10002153
+
+
+Robin's brother gave her 3 pieces of gum.
+--- 7895 20002153
+
+
+3
+--- 7896 30002153
+
+
+3
+--- 7897 40002153
+
+
+3
+--- 7898 50002153
+
+
+Robin's brother gave her 44 pieces of gum.
+--- 7899 2154
+
+
+Answer: 8
+--- 7900 10002154
+
+
+Answer: 76
+--- 7901 20002154
+
+
+Jason has 8 cards left.
+--- 7902 30002154
+
+
+Answer: 24
+--- 7903 40002154
+
+
+Answer: 20
+--- 7904 50002154
+
+
+Answer: 16
+--- 7905 2155
+
+
+Answer: 4
+--- 7906 10002155
+
+
+There will be an answer of 4 in the park.
+--- 7907 20002155
+
+
+Answer: 8
+--- 7908 30002155
+
+
+Answer: 10
+--- 7909 40002155
+
+
+Answer: 6
+--- 7910 50002155
+
+
+Answer: 8
+--- 7911 2156
+
+
+3
+--- 7912 10002156
+
+
+3
+--- 7913 20002156
+
+
+3
+--- 7914 30002156
+
+
+3
+--- 7915 40002156
+
+
+3
+--- 7916 50002156
+
+
+3
+--- 7917 2157
+
+
+Answer: 3
+--- 7918 10002157
+
+
+Answer: 3
+--- 7919 20002157
+
+
+Answer: 3
+--- 7920 30002157
+
+
+Charles has 95 fewer whistles than Sean. Sean has a total of
+--- 7921 40002157
+
+
+Answer: 3
+--- 7922 50002157
+
+
+Answer: 3
+--- 7923 2158
+
+
+Answer: 3
+--- 7924 10002158
+
+
+Answer: 27
+--- 7925 20002158
+
+
+28 + 27 =
+--- 7926 30002158
+
+
+Answer: 3
+--- 7927 40002158
+
+
+28 sheets of brown and 27 sheets of yellow
+--- 7928 50002158
+
+
+Answer: 28
+--- 7929 2159
+
+
+3
+--- 7930 10002159
+
+
+Answer: 3
+--- 7931 20002159
+
+
+Steve has 8 oranges.
+--- 7932 30002159
+
+
+3
+--- 7933 40002159
+
+
+3
+--- 7934 50002159
+
+
+3
+--- 7935 2160
+
+
+Answer: $ 25
+--- 7936 10002160
+
+
+$48
+--- 7937 20002160
+
+
+ Tanner had $49 left after buying the video game.
+--- 7938 30002160
+
+
+$17 + $48 = $57
+--- 7939 40002160
+
+
+$17 - $48 = $13
+$25 - $49
+--- 7940 50002160
+
+
+ Tanner had $17 in September, $48 in October, and $
+--- 7941 2161
+
+
+3
+--- 7942 10002161
+
+
+Answer: 10
+--- 7943 20002161
+
+
+Answer: 6
+--- 7944 30002161
+
+
+Answer: 3
+--- 7945 40002161
+
+
+Answer: 3
+--- 7946 50002161
+
+
+Answer: 3
+--- 7947 2162
+
+
+The speed of the airplane in still air is 350 kilometers per hour.
+--- 7948 10002162
+
+
+The airplane's speed in still air is 0.
+--- 7949 20002162
+
+
+Answer: 3
+--- 7950 30002162
+
+
+The airplane's speed in still air is 8.3 kilometers per hour
+--- 7951 40002162
+
+
+The speed of the airplane in still air is 0.
+--- 7952 50002162
+
+
+The speed of the airplane in still air is 8 kilometers per hour.
+--- 7953 2163
+
+
+Adam spent 45 dollars on the ferris wheel.
+--- 7954 10002163
+
+
+Answer: $9
+--- 7955 20002163
+
+
+Adam spent $9.00 on tickets.
+--- 7956 30002163
+
+
+Adam spent 45 dollars on the ride.
+--- 7957 40002163
+
+
+Adam spent $9.06 on his ferris wheel ride.
+--- 7958 50002163
+
+
+Adam spent 45.06 on the ferris wheel ride.
+--- 7959 2164
+
+
+3
+--- 7960 10002164
+
+
+Answer: 3
+--- 7961 20002164
+
+
+3
+--- 7962 30002164
+
+
+Answer: 3
+--- 7963 40002164
+
+
+Tessa has 3 crayons.
+--- 7964 50002164
+
+
+3
+--- 7965 2165
+
+
+Answer: 18
+--- 7966 10002165
+
+
+Answer: 37
+--- 7967 20002165
+
+
+Answer: 36
+--- 7968 30002165
+
+
+There are 37 bags of cookies, and in each bag, there are
+--- 7969 40002165
+
+
+There are 18 cookies in each of the 37 bags of cookies.
+--- 7970 50002165
+
+
+Answer: 19
+--- 7971 2166
+
+
+3
+--- 7972 10002166
+
+
+3
+--- 7973 20002166
+
+
+Answer: 16
+--- 7974 30002166
+
+
+3
+--- 7975 40002166
+
+
+3
+--- 7976 50002166
+
+
+3
+--- 7977 2167
+
+
+Answer: 97
+--- 7978 10002167
+
+
+Answer: 97
+--- 7979 20002167
+
+
+Answer: 9
+--- 7980 30002167
+
+
+Answer: 97
+--- 7981 40002167
+
+
+Answer: 128
+--- 7982 50002167
+
+
+Answer: 9
+--- 7983 2168
+
+
+3
+--- 7984 10002168
+
+
+Answer: 8
+--- 7985 20002168
+
+
+Answer: 28
+--- 7986 30002168
+
+
+There would be an extra 3 oranges in the bin if 28 new ones
+--- 7987 40002168
+
+
+Answer: 28
+--- 7988 50002168
+
+
+There are 18 balls in the bin.
+--- 7989 2169
+
+
+Answer: 2
+--- 7990 10002169
+
+
+The minimum number of minutes so that the cost of both plans will be
+--- 7991 20002169
+
+
+Answer: 8
+--- 7992 30002169
+
+
+Answer: 22
+--- 7993 40002169
+
+
+Answer: 8
+--- 7994 50002169
+
+
+The minimum duration of calls needed to make the two plans cost the same
+--- 7995 2170
+
+
+3
+--- 7996 10002170
+
+
+3
+--- 7997 20002170
+
+
+3
+--- 7998 30002170
+
+
+Answer: 3
+--- 7999 40002170
+
+
+3
+--- 8000 50002170
+
+
+3

@@ -1,0 +1,1126 @@
+--- 8001 40002331
+
+
+Harry gets 12 cookies. His three buddies get 8, 4, and
+--- 8002 50002331
+
+
+3
+--- 8003 2332
+
+
+ Ellen has 380 legos. She has lost 57 of them.
+--- 8004 10002332
+
+
+ Ellen had originally 340 legos.
+--- 8005 20002332
+
+
+ Ellen currently has 323 legos. She had 257 before she lost 57
+--- 8006 30002332
+
+
+ Ellen has a total of 380 legos. After losing 57, she
+--- 8007 40002332
+
+
+ Ellen's original number of legos was 8.
+--- 8008 50002332
+
+
+ Ellen has 57 fewer legos than she had before.
+--- 8009 2333
+
+
+Answer: 42
+--- 8010 10002333
+
+
+Answer: 8
+--- 8011 20002333
+
+
+Mike can spend 42 dollars on 8 dollar games.
+--- 8012 30002333
+
+
+Mike has $8 left in his account.
+--- 8013 40002333
+
+
+Mike has $8 left over after mowing his lawn over the summer
+--- 8014 50002333
+
+
+Mike has $42 left after he spends 10 dollars on new mower
+--- 8015 2334
+
+
+Answer: 63
+--- 8016 10002334
+
+
+Answer: 63
+--- 8017 20002334
+
+
+Answer: 63
+--- 8018 30002334
+
+
+Answer: 18
+--- 8019 40002334
+
+
+Answer: 83
+--- 8020 50002334
+
+
+Answer: 63
+--- 8021 2335
+
+
+3
+--- 8022 10002335
+
+
+Answer: 3
+--- 8023 20002335
+
+
+Answer: 18
+--- 8024 30002335
+
+
+3
+--- 8025 40002335
+
+
+Answer: 18
+--- 8026 50002335
+
+
+Answer: 26
+--- 8027 2336
+
+
+Answer: 6
+--- 8028 10002336
+
+
+Answer: 10
+--- 8029 20002336
+
+
+Answer: 10
+--- 8030 30002336
+
+
+Answer: 6
+--- 8031 40002336
+
+
+Answer: 10
+--- 8032 50002336
+
+
+Answer: 10
+--- 8033 2337
+
+
+Answer: 3
+--- 8034 10002337
+
+
+Answer: 3
+--- 8035 20002337
+
+
+Answer: 3
+--- 8036 30002337
+
+
+Answer: 3
+--- 8037 40002337
+
+
+Mike has 18 nickels left.
+--- 8038 50002337
+
+
+Answer: 3
+--- 8039 2338
+
+
+Answer: 98
+--- 8040 10002338
+
+
+Answer: 98
+--- 8041 20002338
+
+
+Answer: 98
+--- 8042 30002338
+
+
+Answer: 32
+--- 8043 40002338
+
+
+Answer: 98
+--- 8044 50002338
+
+
+98
+--- 8045 2339
+
+
+Answer: 709
+--- 8046 10002339
+
+
+Answer: 221
+--- 8047 20002339
+
+
+Answer: 221
+--- 8048 30002339
+
+
+Answer: 709
+--- 8049 40002339
+
+
+Answer: 20
+--- 8050 50002339
+
+
+Answer: 3
+--- 8051 2340
+
+
+Answer: $26
+--- 8052 10002340
+
+
+Answer: 3
+--- 8053 20002340
+
+
+Answer: 3
+--- 8054 30002340
+
+
+Answer: 3
+--- 8055 40002340
+
+
+Answer: 3
+--- 8056 50002340
+
+
+Alex has 8 pencils. He breaks 3 pencils while doing his
+--- 8057 60002340
+
+
+John has $26 now.
+--- 8058 70002340
+
+
+Answer: $5
+--- 8059 80002340
+
+
+John has now earned $128.
+--- 8060 90002340
+
+
+John has 5 dollars and spends 2 dollars on a new game at the
+--- 8061 100002340
+
+
+John has $86.
+--- 8062 2341
+
+
+3
+--- 8063 10002341
+
+
+3
+--- 8064 20002341
+
+
+3
+--- 8065 30002341
+
+
+3
+--- 8066 40002341
+
+
+Answer: 3
+--- 8067 50002341
+
+
+3
+--- 8068 2342
+
+
+Tom had 18 coins total.
+--- 8069 10002342
+
+
+Tom has sorted the coins into piles of 3, 5, and 7
+--- 8070 20002342
+
+
+Answer: 20
+--- 8071 30002342
+
+
+Tom has 18 coins in total.
+--- 8072 40002342
+
+
+Tom had 24 coins in total.
+--- 8073 50002342
+
+
+3
+--- 8074 2343
+
+
+Answer: 3
+--- 8075 10002343
+
+
+Answer: 3
+--- 8076 20002343
+
+
+Answer: 18
+--- 8077 30002343
+
+
+Answer: 3
+--- 8078 40002343
+
+
+Answer: 3
+--- 8079 50002343
+
+
+Answer: 3
+--- 8080 2344
+
+
+3
+--- 8081 10002344
+
+
+Answer: 16
+--- 8082 20002344
+
+
+Answer: 16
+--- 8083 30002344
+
+
+Answer: 3
+--- 8084 40002344
+
+
+Answer: 16
+--- 8085 50002344
+
+
+Answer: 12
+--- 8086 2345
+
+
+Answer: $4
+--- 8087 10002345
+
+
+Answer: 8
+--- 8088 20002345
+
+
+Answer: 10
+--- 8089 30002345
+
+
+3
+--- 8090 40002345
+
+
+Answer: 3
+--- 8091 50002345
+
+
+Answer: $24
+--- 8092 2346
+
+
+3
+--- 8093 10002346
+
+
+Answer: 3
+--- 8094 20002346
+
+
+Answer: 3
+--- 8095 30002346
+
+
+3
+--- 8096 40002346
+
+
+Answer: 16
+--- 8097 50002346
+
+
+Answer: 3
+--- 8098 2347
+
+
+Answer: 18
+--- 8099 10002347
+
+
+Answer: 3
+--- 8100 20002347
+
+
+The waiter served <number> customers.
+--- 8101 30002347
+
+
+3
+--- 8102 40002347
+
+
+There were <number> people in the waiter's section after 3 people
+--- 8103 50002347
+
+
+The waiter was responsible for 39 customers at the end.
+--- 8104 2348
+
+
+3
+--- 8105 10002348
+
+
+3
+--- 8106 20002348
+
+
+Jerry put 45 clothes in each of the small loads.
+--- 8107 30002348
+
+
+3
+--- 8108 40002348
+
+
+Jerry put 45 articles of clothing in one load and split the rest into
+--- 8109 50002348
+
+
+There are 36 clothing items in each of the five loads.
+--- 8110 2349
+
+
+Answer: 16
+--- 8111 10002349
+
+
+Answer: 3
+--- 8112 20002349
+
+
+Answer: 3
+--- 8113 30002349
+
+
+Answer: 7
+--- 8114 40002349
+
+
+Answer: 48
+--- 8115 50002349
+
+
+Answer: 7
+--- 8116 2350
+
+
+Answer: 6
+--- 8117 10002350
+
+
+Answer: 6
+--- 8118 20002350
+
+
+Answer: 36
+--- 8119 30002350
+
+
+Answer: 6
+--- 8120 40002350
+
+
+Answer: 6
+--- 8121 50002350
+
+
+Answer: 33
+--- 8122 2351
+
+
+Answer: 16
+--- 8123 10002351
+
+
+There were 22 customers in the waiter's section. After 14 of them
+--- 8124 20002351
+
+
+3
+--- 8125 30002351
+
+
+3
+--- 8126 40002351
+
+
+Answer: 16
+--- 8127 50002351
+
+
+Answer: 16
+--- 8128 2352
+
+
+3
+--- 8129 10002352
+
+
+There would be 12 lives in total if each player had 8 lives.
+--- 8130 20002352
+
+
+3
+--- 8131 30002352
+
+
+There are 16 lives in total when the other 2 players come into play
+--- 8132 40002352
+
+
+3
+--- 8133 50002352
+
+
+3
+--- 8134 2353
+
+
+3
+--- 8135 10002353
+
+
+3
+--- 8136 20002353
+
+
+3
+--- 8137 30002353
+
+
+3
+--- 8138 40002353
+
+
+3
+--- 8139 50002353
+
+
+3
+--- 8140 2354
+
+
+3
+--- 8141 10002354
+
+
+3
+--- 8142 20002354
+
+
+3
+--- 8143 30002354
+
+
+There are 28 groups of 4 members each. That's 128 groups.
+--- 8144 40002354
+
+
+3
+--- 8145 50002354
+
+
+There are 28 groups in total.
+--- 8146 2355
+
+
+3
+--- 8147 10002355
+
+
+3
+--- 8148 20002355
+
+
+3
+--- 8149 30002355
+
+
+3
+--- 8150 40002355
+
+
+3
+--- 8151 50002355
+
+
+3
+--- 8152 2356
+
+
+3
+--- 8153 10002356
+
+
+3
+--- 8154 20002356
+
+
+3
+--- 8155 30002356
+
+
+3
+--- 8156 40002356
+
+
+3
+--- 8157 50002356
+
+
+3
+--- 8158 2357
+
+
+Answer: 10
+--- 8159 10002357
+
+
+Answer: 10
+--- 8160 20002357
+
+
+Answer: 10
+--- 8161 30002357
+
+
+Answer: 10
+--- 8162 40002357
+
+
+Answer: 10
+--- 8163 50002357
+
+
+Answer: 10.0
+--- 8164 2358
+
+
+Answer: 2
+--- 8165 10002358
+
+
+Answer: 42
+--- 8166 20002358
+
+
+Answer: 42
+--- 8167 30002358
+
+
+Answer: 4
+--- 8168 40002358
+
+
+Answer: 38
+--- 8169 50002358
+
+
+Answer: 38
+--- 8170 2359
+
+
+3
+--- 8171 10002359
+
+
+3
+--- 8172 20002359
+
+
+3
+--- 8173 30002359
+
+
+3
+--- 8174 40002359
+
+
+3
+--- 8175 50002359
+
+
+3
+--- 8176 2360
+
+
+Answer: 350
+--- 8177 10002360
+
+
+Answer: 0.00
+--- 8178 20002360
+
+
+Answer: 10
+--- 8179 30002360
+
+
+Answer: 3
+--- 8180 40002360
+
+
+Answer: 8
+--- 8181 50002360
+
+
+The speed of the wind in miles per hour is 8.0
+--- 8182 60002360
+
+
+Answer: 350
+--- 8183 70002360
+
+
+Answer: 350
+--- 8184 80002360
+
+
+The speed of the wind in miles per hour is 350.
+--- 8185 90002360
+
+
+Answer: 350
+--- 8186 100002360
+
+
+The wind in miles per hour is 1.4 times the ground speed
+--- 8187 2361
+
+
+Answer: 24
+--- 8188 10002361
+
+
+Answer: 24
+--- 8189 20002361
+
+
+Answer: 16
+--- 8190 30002361
+
+
+Answer: 16
+--- 8191 40002361
+
+
+Answer: 16
+--- 8192 50002361
+
+
+Answer: 16
+--- 8193 2362
+
+
+The percent decrease in the price of the chair is 16%.
+--- 8194 10002362
+
+
+Answer: 16
+--- 8195 20002362
+
+
+Answer: 16
+--- 8196 30002362
+
+
+Answer: 16
+--- 8197 40002362
+
+
+
+The percent reduction in price is 16%.
+--- 8198 50002362
+
+
+Answer: 16
+--- 8199 2363
+
+
+The waiter had 18 customers total.
+--- 8200 10002363
+
+
+Answer: 9
+--- 8201 20002363
+
+
+The waiter served 9 people, which equals to 36.
+--- 8202 30002363
+
+
+The waiter served 2 women and 6 men at 9 different tables. The
+--- 8203 40002363
+
+
+There were 18 customers at the 9 tables.
+--- 8204 50002363
+
+
+The total number of customers being served by the waiter was 12.
+--- 8205 2364
+
+
+Answer: 6
+--- 8206 10002364
+
+
+Answer: 6
+--- 8207 20002364
+
+
+71
+--- 8208 30002364
+
+
+Answer: 6
+--- 8209 40002364
+
+
+71
+
+There will be 71 t-shirts.
+--- 8210 50002364
+
+
+71
+--- 8211 2365
+
+
+There were 246 tickets printed.
+--- 8212 10002365
+
+
+The total number of tickets printed is 246.
+--- 8213 20002365
+
+
+The total number of tickets that were issued is 246.
+--- 8214 30002365
+
+
+Answer: 16
+--- 8215 40002365
+
+
+Answer: 16
+--- 8216 50002365
+
+
+Answer: 16.67
+--- 8217 2366
+
+
+Answer: 3
+--- 8218 10002366
+
+
+Answer: 7341
+--- 8219 20002366
+
+
+Answer: 7341
+--- 8220 30002366
+
+
+Answer: 6
+--- 8221 40002366
+
+
+Answer: 3
+--- 8222 50002366
+
+
+Answer: 3
+--- 8223 2367
+
+
+ Carlos has 8 bananas left.
+--- 8224 10002367
+
+
+ Carlos would have 8 bananas left.
+--- 8225 20002367
+
+
+There are 39 bananas with Carlos, but now a hippopotamus consumes
+--- 8226 30002367
+
+
+Answer: 3
+--- 8227 40002367
+
+
+There are 24 bananas left with Carlos after a hippopotamus ate three
+--- 8228 50002367
+
+
+Answer: 3
+--- 8229 2368
+
+
+Answer: 24
+--- 8230 10002368
+
+
+Answer: 22
+--- 8231 20002368
+
+
+Answer: 56
+--- 8232 30002368
+
+
+Answer: 56
+--- 8233 40002368
+
+
+Answer: 78
+--- 8234 50002368
+
+
+Answer: 22
+--- 8235 2369
+
+
+Answer: 2100 miles
+--- 8236 10002369
+
+
+Answer: 2
+--- 8237 20002369
+
+
+The planes will be 2100 miles away from each other after 4 hours.
+--- 8238 30002369
+
+
+Answer: 2
+
+--- 8239 40002369
+
+
+2
+
+3
+--- 8240 50002369
+
+
+ plane A will be 2100 miles away from plane B by the time plane
+--- 8241 2370
+
+
+Answer: 36
+--- 8242 10002370
+
+
+Answer: 36
+--- 8243 20002370
+
+
+Answer: 30
+--- 8244 30002370
+
+
+Answer: 10
+--- 8245 40002370
+
+
+Answer: 10
+--- 8246 50002370
+
+
+Answer: 35
+--- 8247 2371
+
+
+Answer: 3
+--- 8248 10002371
+
+
+Answer: 16
+--- 8249 20002371
+
+
+Answer: 16
+--- 8250 30002371
+
+
+Answer: 3
+--- 8251 40002371
+
+
+Answer: 3
+--- 8252 50002371
+
+
+2.5
+--- 8253 2372
+
+
+3
+--- 8254 10002372
+
+
+Answer: 3
+--- 8255 20002372
+
+
+3
+--- 8256 30002372
+
+
+3
+--- 8257 40002372
+
+
+3
+--- 8258 50002372
+
+
+3
+--- 8259 60002372
+
+
+3
+--- 8260 70002372
+
+
+Haley has 35 marbles, and 5 boys in her class love
+--- 8261 80002372
+
+
+Each boy gets 3 marbles.
+--- 8262 90002372
+
+
+Each boy will receive 3 marbles.
+--- 8263 100002372
+
+
+Each boy will receive 3 marbles.
+--- 8264 2373
+
+
+Answer: 8
+--- 8265 10002373
+
+
+Answer: 8
+--- 8266 20002373
+
+
+Answer: 8
+--- 8267 30002373
+
+
+There were 45 students who went to the concert.
+--- 8268 40002373
+
+
+Answer: 8
+--- 8269 50002373
+
+
+Answer: 8
+--- 8270 60002373
+
+
+Answer: 45
+--- 8271 70002373
+
+
+Answer: 8
+--- 8272 80002373
+
+
+Answer: 8
+--- 8273 90002373
+
+
+Answer: 45
+--- 8274 100002373
+
+
+There were 45 students who attended the concert.
+--- 8275 110002373
+
+
+Answer: 8
+--- 8276 120002373
+
+
+Answer: 3
+--- 8277 130002373
+
+
+Answer: 8
+--- 8278 140002373
+
+
+Answer: 8
+--- 8279 150002373
+
+
+Answer: 8
+--- 8280 160002373
+
+
+There were 360 students in each bus.

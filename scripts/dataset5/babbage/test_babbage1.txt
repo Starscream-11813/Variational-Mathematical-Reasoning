@@ -1,0 +1,4050 @@
+--- 2 1
+
+
+Answer: 56
+--- 3 10001
+
+
+Answer: 7
+--- 4 20001
+
+
+Answer: 8
+--- 5 30001
+
+
+3
+--- 6 40001
+
+
+Answer: 56
+--- 7 50001
+
+
+Answer: 56
+--- 8 60001
+
+
+Answer: 8
+--- 9 70001
+
+
+Answer: Bryan has 84 books in total.
+--- 10 80001
+
+
+Answer: 97
+--- 11 90001
+
+
+Answer: 8
+--- 12 100001
+
+
+Answer: 97
+--- 13 110001
+
+
+Answer: 8
+--- 14 120001
+
+
+Answer: 56
+--- 15 130001
+
+
+Answer: 56
+--- 16 140001
+
+
+Answer: 97
+--- 17 150001
+
+
+Answer: 56
+--- 18 160001
+
+
+Answer: 56
+--- 19 170001
+
+
+Answer: 8
+--- 20 180001
+
+
+Answer: 56
+--- 21 190001
+
+
+Answer: 56
+--- 22 2
+
+
+There are 36 chairs in the play area.
+--- 23 10002
+
+
+Answer: 16
+--- 24 20002
+
+
+There are 30 chairs in the fifth grade play.
+--- 25 30002
+
+
+There are a total of 96 chairs in the play. Seventy-
+--- 26 40002
+
+
+Answer: 16
+--- 27 50002
+
+
+There are a total of 16 rows of chairs for the fifth grade play
+--- 28 60002
+
+
+There are 30 benches.
+--- 29 70002
+
+
+There are 30 stools in each row.
+--- 30 80002
+
+
+There are a total of 96 sofas in the play.
+--- 31 90002
+
+
+There are 27 rows of cushions for the fifth grade play, each
+--- 32 100002
+
+
+There are a total of 16 rows of armchairs. There are a
+--- 33 110002
+
+
+There are 30 benches.
+--- 34 120002
+
+
+There are 27 rows of chairs for the fifth grade play, each with
+--- 35 130002
+
+
+There are a total of 16 armchairs in each row. So there
+--- 36 140002
+
+
+There are 27 rows of cushions for the fifth grade play, each
+--- 37 150002
+
+
+Answer: 16
+--- 38 160002
+
+
+There are a total of 96 sofas. Seventy-six
+--- 39 3
+
+
+There are 41 short trees and 44 tall trees currently in the park.
+--- 40 10003
+
+
+There are 83 short bushes and 116 tall bushes in the park. The
+--- 41 20003
+
+
+3
+--- 42 30003
+
+
+There are 41 short plants and 44 tall plants in the park, and
+--- 43 40003
+
+
+3
+--- 44 50003
+
+
+There are 41 short shrubs and 44 tall shrubs in the park
+--- 45 60003
+
+
+3
+--- 46 70003
+
+
+There are 41 short plants and 44 tall plants in the park, and
+--- 47 80003
+
+
+3
+--- 48 90003
+
+
+There are 81 short bushes and 97 tall bushes in the park. The
+--- 49 100003
+
+
+3
+--- 50 110003
+
+
+There are 41 short plants and 44 tall plants in the park, and
+--- 51 120003
+
+
+Answer: 3
+--- 52 130003
+
+
+There are 41 short plants and 44 tall plants in the park, and
+--- 53 140003
+
+
+3
+--- 54 150003
+
+
+There are 41 short shrubs and 44 tall shrubs in the park
+--- 55 160003
+
+
+3
+--- 56 4
+
+
+Answer: 3
+--- 57 10004
+
+
+Conner has $14,000 in his bank account after 8 months
+--- 58 20004
+
+
+Answer: $8,000
+--- 59 30004
+
+
+Alex will have $8,500 in his bank account after 8 months
+--- 60 40004
+
+
+Katie will have $8,500 in her bank account after 8
+--- 61 50004
+
+
+John has $25,000 in his bank account. Every month he
+--- 62 60004
+
+
+Rachel will have $8,500 in her bank account after 8 months
+--- 63 70004
+
+
+Answer: $8,000
+--- 64 80004
+
+
+Answer: $8,000
+--- 65 90004
+
+
+Answer: $25,000
+--- 66 100004
+
+
+Answer: $25,000
+--- 67 110004
+
+
+Answer: $25,000
+--- 68 120004
+
+
+Answer: 3,000
+--- 69 130004
+
+
+Answer: 3,000
+--- 70 140004
+
+
+Answer: $25,000
+--- 71 150004
+
+
+Answer: $25,000
+--- 72 160004
+
+
+Conner will have $8700 in his account after 8 months.
+--- 73 5
+
+
+Answer: 3
+--- 74 10005
+
+
+There are 34 oak trees in the park. Today, park workers will
+--- 75 20005
+
+
+Answer: 34
+--- 76 30005
+
+
+There are a total of 34 maple trees in the park at present.
+--- 77 40005
+
+
+Answer: 34
+--- 78 50005
+
+
+Answer: 34
+--- 79 60005
+
+
+Answer: 34
+--- 80 70005
+
+
+Answer: 34
+--- 81 80005
+
+
+Answer: 34
+--- 82 90005
+
+
+Answer: 36
+--- 83 100005
+
+
+Answer: 3
+--- 84 110005
+
+
+Answer: 34
+--- 85 120005
+
+
+Answer: 34
+--- 86 130005
+
+
+Answer: 34
+--- 87 140005
+
+
+The total number of dogwood trees in the park when the workers are
+--- 88 150005
+
+
+Answer: 34
+--- 89 160005
+
+
+Answer: 3
+--- 90 6
+
+
+Answer: 3
+--- 91 10006
+
+
+3
+--- 92 20006
+
+
+3
+--- 93 30006
+
+
+Answer: 3
+--- 94 40006
+
+
+3
+--- 95 50006
+
+
+3
+--- 96 60006
+
+
+3
+--- 97 70006
+
+
+Answer: 3
+--- 98 80006
+
+
+Answer: 3
+--- 99 90006
+
+
+3
+--- 100 100006
+
+
+Answer: 3
+--- 101 110006
+
+
+3
+--- 102 120006
+
+
+3
+--- 103 130006
+
+
+3
+--- 104 140006
+
+
+3
+--- 105 150006
+
+
+3
+--- 106 160006
+
+
+3
+--- 107 7
+
+
+Answer: $0.70
+--- 108 10007
+
+
+Answer: 20
+--- 109 20007
+
+
+Answer: 20
+--- 110 30007
+
+
+Answer: 100
+--- 111 40007
+
+
+Answer: 20
+--- 112 50007
+
+
+Answer: 20
+--- 113 60007
+
+
+Answer: $0.70
+--- 114 70007
+
+
+Answer: $0.70
+--- 115 80007
+
+
+Answer: $0.70
+--- 116 90007
+
+
+Answer: $0.70
+--- 117 100007
+
+
+Answer: $0.70
+--- 118 110007
+
+
+The starting amount, in dollars, that earns 5.25 dollars in
+--- 119 120007
+
+
+$100
+--- 120 130007
+
+
+The principal amount, in dollars, of a deposit that earns 5.
+--- 121 140007
+
+
+Answer: $0.70
+--- 122 150007
+
+
+Answer: $0.50
+--- 123 160007
+
+
+The initial amount deposited in dollars would be $101.
+--- 124 8
+
+
+3
+--- 125 10008
+
+
+Samantha has 78 cards.
+--- 126 20008
+
+
+Ben has 36 cards.
+--- 127 30008
+
+
+Julia has 79 cards.
+--- 128 40008
+
+
+ Katie has 78 cards.
+--- 129 50008
+
+
+Answer: 16
+--- 130 60008
+
+
+Answer: 3
+--- 131 70008
+
+
+Answer: 63
+--- 132 80008
+
+
+Answer: 7
+--- 133 90008
+
+
+Answer: 7
+--- 134 100008
+
+
+Answer: 8
+--- 135 110008
+
+
+Answer: 7
+--- 136 120008
+
+
+Answer: 8
+--- 137 130008
+
+
+Answer: 8
+--- 138 140008
+
+
+Answer: 3
+--- 139 150008
+
+
+3
+--- 140 160008
+
+
+Answer: 8
+--- 141 9
+
+
+3
+--- 142 10009
+
+
+3
+--- 143 20009
+
+
+3
+--- 144 30009
+
+
+Answer: 3
+--- 145 40009
+
+
+3
+--- 146 50009
+
+
+3
+--- 147 60009
+
+
+Answer: 3
+--- 148 70009
+
+
+Answer: 3
+--- 149 80009
+
+
+3
+--- 150 90009
+
+
+Answer: 15
+--- 151 100009
+
+
+Answer: 3
+--- 152 110009
+
+
+Answer: 3
+--- 153 120009
+
+
+3
+--- 154 130009
+
+
+3
+--- 155 140009
+
+
+3
+--- 156 150009
+
+
+3
+--- 157 160009
+
+
+3
+--- 158 10
+
+
+Answer: 4
+--- 159 100010
+
+
+Answer: 504
+--- 160 200010
+
+
+Answer: 504
+--- 161 300010
+
+
+Answer: 4
+--- 162 400010
+
+
+Answer: 504
+--- 163 500010
+
+
+Answer: 504
+--- 164 600010
+
+
+Answer: 16
+--- 165 700010
+
+
+Answer: 16
+--- 166 800010
+
+
+Answer: 16
+--- 167 900010
+
+
+Answer: 16
+--- 168 1000010
+
+
+Answer: 16
+--- 169 1100010
+
+
+Answer: 504
+--- 170 1200010
+
+
+It takes 4 apples to make 1 pie, and the recipe calls for
+--- 171 1300010
+
+
+Answer: 4
+--- 172 1400010
+
+
+Answer: 504
+--- 173 1500010
+
+
+Answer: 504
+--- 174 1600010
+
+
+3
+--- 175 11
+
+
+Answer: $12
+--- 176 100011
+
+
+Answer: $12
+--- 177 200011
+
+
+Answer: $128.00
+--- 178 300011
+
+
+Answer: $72
+--- 179 400011
+
+
+Answer: $72
+--- 180 500011
+
+
+Answer: $12
+--- 181 600011
+
+
+Answer: $12
+--- 182 700011
+
+
+Answer: $12
+--- 183 800011
+
+
+Answer: $8.48
+--- 184 900011
+
+
+ Enrique's monthly paycheck would be $8.12
+--- 185 1000011
+
+
+Answer: $12
+--- 186 1100011
+
+
+Answer: $12
+--- 187 1200011
+
+
+Answer: $12
+--- 188 1300011
+
+
+Answer: $12
+--- 189 1400011
+
+
+Answer: $128
+--- 190 1500011
+
+
+Answer: $72
+--- 191 1600011
+
+
+Answer: $72
+--- 192 12
+
+
+Answer: 3
+--- 193 100012
+
+
+Answer: 3
+--- 194 200012
+
+
+Answer: 3
+--- 195 300012
+
+
+Answer: 3
+--- 196 400012
+
+
+3
+--- 197 500012
+
+
+3
+--- 198 600012
+
+
+3
+5
+--- 199 700012
+
+
+Answer: 3
+--- 200 800012
+
+
+Answer: 3
+--- 201 900012
+
+
+3
+5
+--- 202 1000012
+
+
+Answer: 8
+--- 203 1100012
+
+
+Answer: 3
+--- 204 1200012
+
+
+Answer: 3
+--- 205 1300012
+
+
+Answer: 3
+--- 206 1400012
+
+
+3
+--- 207 1500012
+
+
+Answer: 3
+--- 208 1600012
+
+
+3
+--- 209 13
+
+
+3
+--- 210 100013
+
+
+Tom needs to add 3 cups of flour to his pie recipe to make
+--- 211 200013
+
+
+3
+--- 212 300013
+
+
+3
+--- 213 400013
+
+
+3
+--- 214 500013
+
+
+3
+--- 215 600013
+
+
+3
+--- 216 700013
+
+
+3
+--- 217 800013
+
+
+3
+--- 218 900013
+
+
+3
+--- 219 1000013
+
+
+3
+--- 220 1100013
+
+
+3
+--- 221 1200013
+
+
+3
+--- 222 1300013
+
+
+3
+--- 223 1400013
+
+
+3
+--- 224 1500013
+
+
+3
+--- 225 1600013
+
+
+3
+--- 226 14
+
+
+Answer: 8
+--- 227 100014
+
+
+Answer: 6
+--- 228 200014
+
+
+Answer: 10
+--- 229 300014
+
+
+Answer: 60
+--- 230 400014
+
+
+Answer: 6
+--- 231 500014
+
+
+Answer: 6
+--- 232 600014
+
+
+3
+--- 233 700014
+
+
+Answer: 8
+--- 234 800014
+
+
+Answer: 10
+--- 235 900014
+
+
+Answer: 10
+--- 236 1000014
+
+
+Answer: 3
+--- 237 1100014
+
+
+Answer: 10
+--- 238 1200014
+
+
+Answer: 10
+--- 239 1300014
+
+
+Answer: 10
+--- 240 1400014
+
+
+Answer: 10
+--- 241 1500014
+
+
+Answer: 10
+--- 242 1600014
+
+
+Answer: 50 kilograms contains 45.6 kilograms of water.
+--- 243 15
+
+
+Answer: 3
+--- 244 100015
+
+
+Sixty-four
+--- 245 200015
+
+
+Answer: 3
+--- 246 300015
+
+
+Answer: 3
+--- 247 400015
+
+
+Answer: Samuel has colored 36 images.
+--- 248 500015
+
+
+Answer: 3
+--- 249 600015
+
+
+3
+--- 250 700015
+
+
+Answer: 3
+--- 251 800015
+
+
+Answer: 3
+--- 252 900015
+
+
+Answer: 3
+--- 253 1000015
+
+
+Answer: 3
+--- 254 1100015
+
+
+Answer: 3
+--- 255 1200015
+
+
+3
+--- 256 1300015
+
+
+Answer: 3
+--- 257 1400015
+
+
+Answer: 3
+--- 258 1500015
+
+
+Answer: 3
+--- 259 1600015
+
+
+Answer: 3
+--- 260 16
+
+
+Answer: 4
+--- 261 100016
+
+
+Answer: 4
+--- 262 200016
+
+
+Answer: 4
+--- 263 300016
+
+
+Answer: 4
+--- 264 400016
+
+
+Answer: 10
+--- 265 500016
+
+
+Answer: 3
+--- 266 600016
+
+
+It will take Tony's tree 4 feet per year to reach 29 feet
+--- 267 700016
+
+
+Answer: 4
+--- 268 800016
+
+
+Answer: 10
+--- 269 900016
+
+
+Answer: 10
+--- 270 1000016
+
+
+Answer: 4
+--- 271 1100016
+
+
+Answer: 3
+--- 272 1200016
+
+
+Answer: 3
+--- 273 1300016
+
+
+Answer: 3
+--- 274 1400016
+
+
+Answer: 8
+--- 275 1500016
+
+
+Answer: 3
+--- 276 1600016
+
+
+Tony's tree was 30 feet tall when he planted it.
+--- 277 17
+
+
+Answer: 13
+--- 278 100017
+
+
+3
+6
+13
+--- 279 200017
+
+
+Answer: 13
+--- 280 300017
+
+
+Answer: 13
+--- 281 400017
+
+
+Answer: 13
+--- 282 500017
+
+
+Answer: 13
+--- 283 600017
+
+
+Answer: 13
+--- 284 700017
+
+
+Answer: 13
+--- 285 800017
+
+
+Answer: 13
+--- 286 900017
+
+
+Answer: 13
+--- 287 1000017
+
+
+The answer is 13.
+--- 288 1100017
+
+
+Answer: 13
+--- 289 1200017
+
+
+Answer: 13
+--- 290 1300017
+
+
+Answer: 13
+--- 291 1400017
+
+
+Answer: 13
+--- 292 1500017
+
+
+Answer: 13
+--- 293 1600017
+
+
+Answer: 13
+--- 294 18
+
+
+ Sean has 18 apples.
+--- 295 100018
+
+
+Answer: 18
+--- 296 200018
+
+
+Answer: 18
+--- 297 300018
+
+
+3
+--- 298 400018
+
+
+Mike has 18 tickets.
+--- 299 500018
+
+
+3
+--- 300 600018
+
+
+ Sean has 18 apples.
+--- 301 700018
+
+
+ Sean has 18 apples.
+--- 302 800018
+
+
+Answer: 18
+--- 303 900018
+
+
+ Sean has 18 apples.
+--- 304 1000018
+
+
+ Sean has 18 apples in total.
+--- 305 1100018
+
+
+ Sean has 18 apples.
+--- 306 1200018
+
+
+ Sean has 18 apples.
+--- 307 1300018
+
+
+ Sean has 18 apples.
+--- 308 1400018
+
+
+ Sean has 18 apples.
+--- 309 1500018
+
+
+ Sean has 18 apples.
+--- 310 1600018
+
+
+Answer: 18
+--- 311 19
+
+
+Answer: 3
+
+4 + 3 =
+6
+--- 312 100019
+
+
+Answer: 3
+
+2
+--- 313 200019
+
+
+Answer: 3
+
+2
+--- 314 300019
+
+
+Answer: 3
+
+2
+--- 315 400019
+
+
+Answer: 3
+
+2
+1
+--- 316 500019
+
+
+Answer: 3
+
+2
+1
+--- 317 600019
+
+
+Answer: 3
+
+4
+--- 318 700019
+
+
+Answer: 3
+--- 319 800019
+
+
+Answer: 2
+--- 320 900019
+
+
+Answer: 3
+--- 321 1000019
+
+
+Answer: 6
+--- 322 1100019
+
+
+Answer: 3
+
+2
+--- 323 1200019
+
+
+Answer: 3
+
+2
+--- 324 1300019
+
+
+Answer: 3
+
+2
+1
+--- 325 1400019
+
+
+Answer: 3
+
+2
+1
+--- 326 1500019
+
+
+Answer: 3
+
+4
+--- 327 1600019
+
+
+Answer: 3
+
+2
+--- 328 20
+
+
+Answer: 12
+--- 329 100020
+
+
+Answer: 12
+--- 330 200020
+
+
+3
+--- 331 300020
+
+
+Answer: 12
+--- 332 400020
+
+
+Answer: 12
+--- 333 500020
+
+
+Answer: 10
+--- 334 600020
+
+
+Answer: 10
+--- 335 700020
+
+
+Answer: 10
+--- 336 800020
+
+
+Answer: 10
+--- 337 900020
+
+
+Answer: 10
+--- 338 1000020
+
+
+Answer: 10
+--- 339 1100020
+
+
+3
+--- 340 1200020
+
+
+Answer: 12
+--- 341 1300020
+
+
+3
+--- 342 1400020
+
+
+Answer: 12
+--- 343 1500020
+
+
+Answer: 12
+--- 344 1600020
+
+
+There is room for 45 more DVDs in the DVD book, which has
+--- 345 21
+
+
+Answer: 8
+--- 346 100021
+
+
+Answer: 8
+--- 347 200021
+
+
+Answer: 8
+--- 348 300021
+
+
+Answer: 8
+--- 349 400021
+
+
+Answer: 8
+--- 350 500021
+
+
+Kevin has 18 toy cars.
+--- 351 600021
+
+
+Answer: 8
+--- 352 700021
+
+
+Answer: 3
+--- 353 800021
+
+
+Answer: 8
+--- 354 900021
+
+
+Answer: 3
+--- 355 1000021
+
+
+Answer: 3
+--- 356 1100021
+
+
+Answer: 8
+--- 357 1200021
+
+
+Answer: 8
+--- 358 1300021
+
+
+Answer: 8
+--- 359 1400021
+
+
+Answer: 8
+--- 360 1500021
+
+
+Answer: 16
+--- 361 1600021
+
+
+Answer: 6
+--- 362 22
+
+
+Answer: 3
+--- 363 100022
+
+
+3
+--- 364 200022
+
+
+Answer: 3
+--- 365 300022
+
+
+Answer: 3
+--- 366 400022
+
+
+3
+--- 367 500022
+
+
+3
+--- 368 600022
+
+
+Answer: 3
+--- 369 700022
+
+
+Answer: 3
+--- 370 800022
+
+
+Answer: 3
+--- 371 900022
+
+
+Answer: 3
+--- 372 1000022
+
+
+3
+--- 373 1100022
+
+
+Answer: 3
+--- 374 1200022
+
+
+Answer: 3
+--- 375 1300022
+
+
+Answer: 3
+--- 376 1400022
+
+
+Answer: 3
+--- 377 1500022
+
+
+Answer: 3
+--- 378 1600022
+
+
+Answer: $11
+--- 379 23
+
+
+0.8
+--- 380 100023
+
+
+0.8
+--- 381 200023
+
+
+0.8
+--- 382 300023
+
+
+0.8
+--- 383 400023
+
+
+The longer turtle was 0.1 of an inch longer.
+--- 384 500023
+
+
+The longer snake was 0.1 of an inch longer.
+--- 385 600023
+
+
+0.8
+--- 386 700023
+
+
+0.8
+--- 387 800023
+
+
+0.8
+--- 388 900023
+
+
+0.8
+--- 389 1000023
+
+
+0.8
+--- 390 1100023
+
+
+0.8
+--- 391 1200023
+
+
+Answer: 0.1
+--- 392 1300023
+
+
+0.8
+--- 393 1400023
+
+
+Answer: 0.1
+--- 394 1500023
+
+
+0.8
+--- 395 1600023
+
+
+Answer: 0.7
+--- 396 24
+
+
+Goran would need to drive 191 miles for the first plan and 191
+--- 397 100024
+
+
+Maria would need to drive 914 miles for the 2 plans to cost
+--- 398 200024
+
+
+Answer: 3
+--- 399 300024
+
+
+Sarah would need to drive 914 miles for the 2 plans to cost
+--- 400 400024
+
+
+Answer: 3
+--- 401 500024
+
+
+The number of miles Kim would need to drive for the 2 plans to
+--- 402 600024
+
+
+3
+--- 403 700024
+
+
+3
+--- 404 800024
+
+
+3
+--- 405 900024
+
+
+3
+--- 406 1000024
+
+
+Goran needs to drive 8 miles for the first plan and 12 miles
+--- 407 1100024
+
+
+Answer: 3
+--- 408 1200024
+
+
+Goran would need to drive the equivalent of 8 miles for the 2
+--- 409 1300024
+
+
+Goran would need to drive 914 miles for the 2 plans to
+--- 410 1400024
+
+
+3
+--- 411 1500024
+
+
+Goran needs to drive 8 miles for the first plan and 12 miles
+--- 412 1600024
+
+
+3
+--- 413 25
+
+
+Answer: 3
+--- 414 100025
+
+
+Answer: 3
+--- 415 200025
+
+
+Answer: 3
+--- 416 300025
+
+
+Answer: 3
+--- 417 400025
+
+
+Answer: 3
+--- 418 500025
+
+
+Answer: 3
+--- 419 600025
+
+
+Answer: 3
+--- 420 700025
+
+
+Answer: 3
+--- 421 800025
+
+
+Answer: 3
+--- 422 900025
+
+
+Answer: 3
+--- 423 1000025
+
+
+Answer: 3
+--- 424 1100025
+
+
+Answer: 3
+--- 425 1200025
+
+
+Answer: 3
+--- 426 1300025
+
+
+Answer: 3
+--- 427 1400025
+
+
+Answer: James has 4 more balloons than Amy.
+--- 428 1500025
+
+
+Answer: 3
+--- 429 1600025
+
+
+Answer: 131
+--- 430 26
+
+
+3
+--- 431 100026
+
+
+Answer: 16
+--- 432 200026
+
+
+Bill has 18 pencils.
+--- 433 300026
+
+
+Charlie has 18 paints.
+--- 434 400026
+
+
+Answer: 16
+--- 435 500026
+
+
+Answer: Evan has 18 highlighters.
+--- 436 600026
+
+
+Answer: 10
+--- 437 700026
+
+
+3
+--- 438 800026
+
+
+3
+--- 439 900026
+
+
+3
+--- 440 1000026
+
+
+Answer: Beth has 18 crayons.
+--- 441 1100026
+
+
+3
+--- 442 1200026
+
+
+3
+--- 443 1300026
+
+
+3
+--- 444 1400026
+
+
+3
+--- 445 1500026
+
+
+3
+--- 446 1600026
+
+
+Answer: 10
+--- 447 27
+
+
+Answer: 20
+--- 448 100027
+
+
+Answer: 36
+--- 449 200027
+
+
+Answer: 45
+--- 450 300027
+
+
+Answer: 45
+--- 451 400027
+
+
+Answer: 45
+--- 452 500027
+
+
+Answer: 36
+--- 453 600027
+
+
+Answer: 20
+--- 454 700027
+
+
+Answer: 16
+--- 455 800027
+
+
+Answer: 20
+--- 456 900027
+
+
+Answer: 20
+--- 457 1000027
+
+
+Answer: 20
+--- 458 1100027
+
+
+Answer: 20
+--- 459 1200027
+
+
+3
+--- 460 1300027
+
+
+Answer: 20
+--- 461 1400027
+
+
+Answer: 20
+--- 462 1500027
+
+
+Answer: 20
+--- 463 1600027
+
+
+Answer: 16
+--- 464 28
+
+
+Answer: 3
+--- 465 100028
+
+
+Answer: 3
+--- 466 200028
+
+
+Answer: 3
+--- 467 300028
+
+
+Answer: 3
+--- 468 400028
+
+
+Answer: 3
+--- 469 500028
+
+
+Answer: 3
+--- 470 600028
+
+
+The cost of renting a car would be $27.98.
+--- 471 700028
+
+
+The cost of renting a car for a week would be $128.
+--- 472 800028
+
+
+The cost for a basic car rental from City Rentals is $18
+--- 473 900028
+
+
+The cost of a basic car rental would be $17.99 per
+--- 474 1000028
+
+
+The cost for a basic car rental from City Rentals is $18
+--- 475 1100028
+
+
+3
+--- 476 1200028
+
+
+Answer: 3
+--- 477 1300028
+
+
+Answer: $17.99
+--- 478 1400028
+
+
+Answer: 3
+--- 479 1500028
+
+
+Answer: $17.99
+--- 480 1600028
+
+
+Answer: 3
+--- 481 29
+
+
+3
+--- 482 100029
+
+
+3
+--- 483 200029
+
+
+3
+--- 484 300029
+
+
+3
+--- 485 400029
+
+
+3
+--- 486 500029
+
+
+3
+--- 487 600029
+
+
+3
+--- 488 700029
+
+
+3
+--- 489 800029
+
+
+Answer: 3
+--- 490 900029
+
+
+There are six tables needed.
+--- 491 1000029
+
+
+3
+--- 492 1100029
+
+
+3
+--- 493 1200029
+
+
+3
+--- 494 1300029
+
+
+3
+--- 495 1400029
+
+
+3
+--- 496 1500029
+
+
+3
+--- 497 1600029
+
+
+Each table can hold 18 people.
+--- 498 30
+
+
+6522
+--- 499 100030
+
+
+The total amount of oil that leaked into the ocean was 6522 lit
+--- 500 200030
+
+
+The oil leak was 6522 liters.
+--- 501 300030
+
+
+6522
+--- 502 400030
+
+
+6522
+--- 503 500030
+
+
+6522 
+5165
+--- 504 600030
+
+
+6522
+--- 505 700030
+
+
+6522
+--- 506 800030
+
+
+6522 + 5165 =
+--- 507 900030
+
+
+6522
+--- 508 1000030
+
+
+6522 
+5165
+--- 509 1100030
+
+
+6522
+--- 510 1200030
+
+
+6522
+--- 511 1300030
+
+
+6522
+--- 512 1400030
+
+
+6522
+--- 513 1500030
+
+
+6522
+--- 514 1600030
+
+
+5165
+--- 515 31
+
+
+3
+--- 516 100031
+
+
+Bob has saved 11 cents per lawn from mowing 25 lawns.
+--- 517 200031
+
+
+Answer: 3
+--- 518 300031
+
+
+Tom has saved 11 quarters per newspaper from delivering 25 newspapers. If Tom
+--- 519 400031
+
+
+Answer: 3
+--- 520 500031
+
+
+3
+--- 521 600031
+
+
+Answer: 3
+--- 522 700031
+
+
+Answer: $11.06
+--- 523 800031
+
+
+2
+--- 524 900031
+
+
+Answer: 3
+--- 525 1000031
+
+
+2
+--- 526 1100031
+
+
+3
+--- 527 1200031
+
+
+Answer: 3
+--- 528 1300031
+
+
+Answer: 3
+--- 529 1400031
+
+
+3
+--- 530 1500031
+
+
+Answer: 3
+--- 531 1600031
+
+
+Answer: 6875
+--- 532 32
+
+
+ Melanie bought 27 books at the yard sale.
+--- 533 100032
+
+
+John bought 27 books at the garage sale.
+--- 534 200032
+
+
+Answer: 3
+--- 535 300032
+
+
+Answer: 8
+--- 536 400032
+
+
+Answer: Katie bought 27 books at the flea market.
+--- 537 500032
+
+
+Alex bought 27 books at the secondhand shop.
+--- 538 600032
+
+
+ Melanie bought 27 books at the yard sale.
+--- 539 700032
+
+
+ Melanie bought 27 books at the yard sale.
+--- 540 800032
+
+
+ Melanie bought 27 books at the yard sale.
+--- 541 900032
+
+
+ Melanie bought 27 books at the yard sale.
+--- 542 1000032
+
+
+Answer: Melanie bought 27 books at the yard sale.
+--- 543 1100032
+
+
+Answer: Melanie bought 27 books at the yard sale.
+--- 544 1200032
+
+
+Answer: Melanie bought 27 books at the yard sale.
+--- 545 1300032
+
+
+ Melanie bought 3 books at the yard sale.
+--- 546 1400032
+
+
+ Melanie bought 27 books at the yard sale.
+--- 547 1500032
+
+
+ Melanie bought 3 books at the yard sale.
+--- 548 1600032
+
+
+Answer: Melanie has 46 books and 31 magazines in her library. She
+--- 549 33
+
+
+0.16666666666666666
+--- 550 100033
+
+
+0.16666666666666666
+--- 551 200033
+
+
+0.16666666666666666
+--- 552 300033
+
+
+0.16666666666666666
+--- 553 400033
+
+
+0.16666666666666666
+--- 554 500033
+
+
+0.16666666666666666
+--- 555 600033
+
+
+0.16666666666666666
+--- 556 700033
+
+
+0.16666666666666666
+--- 557 800033
+
+
+0.16666666666666666
+--- 558 900033
+
+
+0.16666666666666666
+--- 559 1000033
+
+
+0.16666666666666666
+--- 560 1100033
+
+
+0.16666666666666666
+--- 561 1200033
+
+
+0.16666666666666666
+--- 562 1300033
+
+
+0.16666666666666666
+--- 563 1400033
+
+
+0.16666666666666666
+--- 564 1500033
+
+
+0.16666666666666666
+--- 565 1600033
+
+
+0.16666666666666666
+--- 566 34
+
+
+Answer: 3
+--- 567 100034
+
+
+Answer: 3
+--- 568 200034
+
+
+Answer: 3
+--- 569 300034
+
+
+Answer: 3
+--- 570 400034
+
+
+Answer: 3
+--- 571 500034
+
+
+Alex has 3 watermelons.
+--- 572 600034
+
+
+Answer: 3
+--- 573 700034
+
+
+Answer: 3
+--- 574 800034
+
+
+Answer: 3
+--- 575 900034
+
+
+Answer: 3
+--- 576 1000034
+
+
+Answer: 3
+--- 577 1100034
+
+
+Answer: 3
+--- 578 1200034
+
+
+Answer: 3
+--- 579 1300034
+
+
+Answer: 3
+--- 580 1400034
+
+
+Answer: 3
+--- 581 1500034
+
+
+Answer: 3
+--- 582 1600034
+
+
+Answer: 3
+--- 583 35
+
+
+Answer: 1209
+--- 584 100035
+
+
+Answer: 1209
+--- 585 200035
+
+
+Answer: 1209
+--- 586 300035
+
+
+Answer: 1209
+--- 587 400035
+
+
+Answer: 1209
+--- 588 500035
+
+
+Answer: 1209
+--- 589 600035
+
+
+Answer: 1209
+--- 590 700035
+
+
+Answer: 1209
+--- 591 800035
+
+
+Answer: 1209
+--- 592 900035
+
+
+Answer: 1209
+--- 593 1000035
+
+
+3
+--- 594 1100035
+
+
+Answer: 1209
+--- 595 1200035
+
+
+Answer: 3395
+--- 596 1300035
+
+
+Answer: 3395
+--- 597 1400035
+
+
+Answer: 3395
+--- 598 1500035
+
+
+Answer: 3395
+--- 599 1600035
+
+
+Answer: 3395
+--- 600 36
+
+
+3
+--- 601 100036
+
+
+8
+--- 602 200036
+
+
+3
+--- 603 300036
+
+
+3
+--- 604 400036
+
+
+3
+--- 605 500036
+
+
+3
+--- 606 600036
+
+
+Jerry will need to carry the trays 8 times.
+--- 607 700036
+
+
+Jerry needs to make 8 trips to collect all the trays on the
+--- 608 800036
+
+
+Jerry needs to make 3 trips to pick up all the trays on
+--- 609 900036
+
+
+Jerry will need to make 3 trips to pick up the 16 trays
+--- 610 1000036
+
+
+3
+--- 611 1100036
+
+
+Jerry will make 3 trips to the dishwashing area.
+--- 612 1200036
+
+
+Jerry will make 3 trips to the dishwashing area.
+--- 613 1300036
+
+
+Jerry makes 3 trips to the dishwashing area.
+--- 614 1400036
+
+
+Jerry could carry 3 trays at a time.
+--- 615 1500036
+
+
+3
+--- 616 1600036
+
+
+Jerry could carry 3 trays at a time.
+--- 617 37
+
+
+3
+--- 618 100037
+
+
+3
+--- 619 200037
+
+
+3
+--- 620 300037
+
+
+3
+--- 621 400037
+
+
+3
+--- 622 500037
+
+
+3
+--- 623 600037
+
+
+3
+--- 624 700037
+
+
+Answer: 3
+--- 625 800037
+
+
+Mrs. Hilt will walk on her 4 trips to the water fountain
+--- 626 900037
+
+
+3
+--- 627 1000037
+
+
+3
+--- 628 1100037
+
+
+3
+--- 629 1200037
+
+
+3
+--- 630 1300037
+
+
+3
+--- 631 1400037
+
+
+3
+--- 632 1500037
+
+
+3
+--- 633 1600037
+
+
+3
+--- 634 38
+
+
+90171 people were born in a country in 2016, and 16320
+--- 635 100038
+
+
+90171 people were born in a country last year, and 16320
+--- 636 200038
+
+
+Answer: 16320
+--- 637 300038
+
+
+Answer: 16320
+--- 638 400038
+
+
+90171
+--- 639 500038
+
+
+Answer: 16320
+--- 640 600038
+
+
+Answer: 90171
+--- 641 700038
+
+
+There were 90171 new people living in the country last year.
+--- 642 800038
+
+
+There were 16320 immigrants in the country last year.
+--- 643 900038
+
+
+Answer: 16320
+--- 644 1000038
+
+
+Answer: 16320
+--- 645 1100038
+
+
+90171
+--- 646 1200038
+
+
+90171
+--- 647 1300038
+
+
+90171 people were born in a country, and 16320 people imm
+--- 648 1400038
+
+
+90171
+--- 649 1500038
+
+
+90171
+--- 650 1600038
+
+
+Answer: 90171
+--- 651 39
+
+
+ Christine wandered for 20 miles at 4 miles per hour.
+--- 652 100039
+
+
+ Christine wandered for 20 miles at a speed of 4 miles per hour.
+--- 653 200039
+
+
+ Christine wandered for 20 miles at a rate of 4 miles per hour.
+--- 654 300039
+
+
+ Christine wandered for 20 miles at a pace of 4 miles per hour.
+--- 655 400039
+
+
+ Christine wandered for 20 minutes.
+--- 656 500039
+
+
+ Christine wandered for 20 miles at a rate of 4 miles per hour.
+--- 657 600039
+
+
+ Christine wandered for 4 miles.
+--- 658 700039
+
+
+ Christine took 20 minutes to walk 20 miles at a speed of 4 miles
+--- 659 800039
+
+
+ Christine wandered for 4 hours and covered a distance of 20 miles.
+--- 660 900039
+
+
+ Christine wandered for 4 miles at a speed of 20 miles per hour.
+--- 661 1000039
+
+
+ Christine took 20 minutes to wander.
+--- 662 1100039
+
+
+ Christine wandered for 20 miles at 4 miles per hour.
+--- 663 1200039
+
+
+ Christine wandered for 20 minutes.
+--- 664 1300039
+
+
+ Christine wandered 20 miles at 4 miles per hour for 8 hours.
+--- 665 1400039
+
+
+ Christine wandered 20 miles at 4 miles per hour for 4 hours and 20
+--- 666 1500039
+
+
+ Christine wandered 20 miles at 4 miles per hour for a total of 80
+--- 667 1600039
+
+
+ Christine walked for 5 hours.
+--- 668 40
+
+
+3
+--- 669 100040
+
+
+Answer: 3
+--- 670 200040
+
+
+Answer: 3
+--- 671 300040
+
+
+Answer: 16
+--- 672 400040
+
+
+Answer: 16
+--- 673 500040
+
+
+3
+--- 674 600040
+
+
+3
+--- 675 700040
+
+
+Answer: 3
+--- 676 800040
+
+
+Answer: 3
+--- 677 900040
+
+
+3
+--- 678 1000040
+
+
+3
+--- 679 1100040
+
+
+Answer: 16
+--- 680 1200040
+
+
+Answer: 3
+--- 681 1300040
+
+
+Answer: 3
+--- 682 1400040
+
+
+Answer: 3
+--- 683 1500040
+
+
+Answer: 3
+--- 684 1600040
+
+
+3
+--- 685 41
+
+
+It rained 0.81 inches in April.
+--- 686 100041
+
+
+Answer: 3
+--- 687 200041
+
+
+Answer: 0.35
+--- 688 300041
+
+
+Answer: 0.35
+--- 689 400041
+
+
+0.81"
+--- 690 500041
+
+
+Answer: 3
+--- 691 600041
+
+
+In April, the rain measured 1.36 inches.
+--- 692 700041
+
+
+It rained 0.81 inches in April and 0.35 inches
+--- 693 800041
+
+
+The answer to the problem is 0.35 inches.
+--- 694 900041
+
+
+It rained 0.81 inches in April.
+--- 695 1000041
+
+
+It rained 0.81 inches in April and 0.35 inches
+--- 696 1100041
+
+
+Answer: 0.81
+--- 697 1200041
+
+
+It rained 3.14 inches in April.
+--- 698 1300041
+
+
+It rained 0.81 inches in April.
+--- 699 1400041
+
+
+It rained 0.81 inches in April.
+--- 700 1500041
+
+
+It rained 3.14 inches in April.
+--- 701 1600041
+
+
+Answer: 0.81
+--- 702 42
+
+
+$13
+--- 703 100042
+
+
+$13
+--- 704 200042
+
+
+Answer: $13
+--- 705 300042
+
+
+$13
+--- 706 400042
+
+
+$13
+--- 707 500042
+
+
+$13
+--- 708 600042
+
+
+$13
+--- 709 700042
+
+
+$13
+--- 710 800042
+
+
+$13
+--- 711 900042
+
+
+$13.50
+--- 712 1000042
+
+
+$13
+--- 713 1100042
+
+
+$13.00
+--- 714 1200042
+
+
+$13
+--- 715 1300042
+
+
+$13
+--- 716 1400042
+
+
+Answer: $13
+--- 717 1500042
+
+
+$13
+--- 718 1600042
+
+
+3
+--- 719 43
+
+
+3
+--- 720 100043
+
+
+3
+--- 721 200043
+
+
+3
+--- 722 300043
+
+
+3
+--- 723 400043
+
+
+3
+--- 724 500043
+
+
+3
+--- 725 600043
+
+
+Answer: 12
+--- 726 700043
+
+
+Answer: 12
+--- 727 800043
+
+
+Answer: 12
+--- 728 900043
+
+
+Answer: 12
+--- 729 1000043
+
+
+Answer: 12
+--- 730 1100043
+
+
+3
+--- 731 1200043
+
+
+3
+--- 732 1300043
+
+
+3
+--- 733 1400043
+
+
+3
+--- 734 1500043
+
+
+3
+--- 735 1600043
+
+
+3
+--- 736 44
+
+
+3
+--- 737 100044
+
+
+Answer: 860
+--- 738 200044
+
+
+Answer: 860
+--- 739 300044
+
+
+Answer: 860
+--- 740 400044
+
+
+Answer: 860
+--- 741 500044
+
+
+860
+--- 742 600044
+
+
+860
+--- 743 700044
+
+
+860
+--- 744 800044
+
+
+Answer: 860
+--- 745 900044
+
+
+Answer: 860
+--- 746 1000044
+
+
+Answer: 860
+--- 747 1100044
+
+
+860
+--- 748 1200044
+
+
+Answer: 860
+--- 749 1300044
+
+
+3
+860
+--- 750 1400044
+
+
+860
+--- 751 1500044
+
+
+860
+--- 752 1600044
+
+
+Answer: 860
+--- 753 45
+
+
+7.75
+
+3
+--- 754 100045
+
+
+7.75 + 7.25 = 14.25
+--- 755 200045
+
+
+7.75 + 7 = 13.25
+--- 756 300045
+
+
+7.75 + 7 =
+--- 757 400045
+
+
+7.75 + 7.25 = 14.25
+--- 758 500045
+
+
+7.75 + 7.25 = 14.25
+--- 759 600045
+
+
+7.75
+--- 760 700045
+
+
+7.75 + 7 =
+
+13.25
+--- 761 800045
+
+
+7.75
+--- 762 900045
+
+
+There will be an additional 7.75 gallons of water in the fish
+--- 763 1000045
+
+
+There will be an increase of 3.75 gallons in total.
+--- 764 1100045
+
+
+ Becky's fish tank has 11.25 gallons of water and she has
+--- 765 1200045
+
+
+ Becky's fish tank has 11.25 gallons of water and she has
+--- 766 1300045
+
+
+8
+--- 767 1400045
+
+
+There will be an increase of 3.75 gallons in total.
+--- 768 1500045
+
+
+Answer: 10
+--- 769 1600045
+
+
+ Becky added 14.75 gallons of water to her fish tank.
+--- 770 46
+
+
+1. What is 8?
+
+2. What is 3?
+--- 771 100046
+
+
+1. What is 8?
+
+2. What is the square
+--- 772 200046
+
+
+Adam's total score was 45.
+--- 773 300046
+
+
+Adam's score at the end was 45.
+--- 774 400046
+
+
+1. What is 8?
+
+2. What is the square
+--- 775 500046
+
+
+Adam's final total was 45.
+--- 776 600046
+
+
+Adam's final score was 85.
+--- 777 700046
+
+
+1. What is 8?
+
+2. What is the square
+--- 778 800046
+
+
+Adam's score at the end was 45.
+--- 779 900046
+
+
+1) What is 8?
+
+2) What is the square
+--- 780 1000046
+
+
+Adam's overall score was 45.
+--- 781 1100046
+
+
+Answer: 3
+--- 782 1200046
+
+
+Adam's final score was 85.
+--- 783 1300046
+
+
+Answer: 10
+--- 784 1400046
+
+
+Answer: 16
+--- 785 1500046
+
+
+Answer: 15
+--- 786 1600046
+
+
+Answer: 6
+--- 787 47
+
+
+3
+--- 788 100047
+
+
+3
+--- 789 200047
+
+
+3
+--- 790 300047
+
+
+3
+--- 791 400047
+
+
+Answer: 16
+--- 792 500047
+
+
+3
+--- 793 600047
+
+
+Answer: 16
+--- 794 700047
+
+
+Answer: 16
+--- 795 800047
+
+
+3
+--- 796 900047
+
+
+3
+--- 797 1000047
+
+
+3
+
+16
+--- 798 1100047
+
+
+3
+--- 799 1200047
+
+
+3
+--- 800 1300047
+
+
+3
+--- 801 1400047
+
+
+3
+--- 802 1500047
+
+
+3
+--- 803 1600047
+
+
+3
+--- 804 48
+
+
+Answer: 3
+--- 805 100048
+
+
+Answer: 34
+--- 806 200048
+
+
+Answer: 34
+--- 807 300048
+
+
+Answer: 34
+--- 808 400048
+
+
+Answer: 34
+--- 809 500048
+
+
+Answer: 34
+--- 810 600048
+
+
+Answer: 34
+--- 811 700048
+
+
+Answer: 3
+--- 812 800048
+
+
+Answer: 3
+--- 813 900048
+
+
+Answer: 34
+--- 814 1000048
+
+
+Answer: 3
+--- 815 1100048
+
+
+Answer: 36
+--- 816 1200048
+
+
+Answer: Mike has 8 peaches at his roadside fruit dish.
+--- 817 1300048
+
+
+Answer: 3
+--- 818 1400048
+
+
+Answer: 3
+--- 819 1500048
+
+
+Answer: 52
+--- 820 1600048
+
+
+Answer: 3
+--- 821 49
+
+
+Answer: 16
+--- 822 100049
+
+
+Answer: $128.00
+--- 823 200049
+
+
+Answer: 16
+--- 824 300049
+
+
+Answer: $128.00
+--- 825 400049
+
+
+Answer: 16
+--- 826 500049
+
+
+Answer: $128.00
+--- 827 600049
+
+
+Answer: $128.00
+--- 828 700049
+
+
+Answer: $128.00
+--- 829 800049
+
+
+Answer: $128.00
+--- 830 900049
+
+
+Answer: $128.00
+--- 831 1000049
+
+
+Answer: $96
+--- 832 1100049
+
+
+Answer: $128.00
+--- 833 1200049
+
+
+Answer: 16
+--- 834 1300049
+
+
+Answer: $128.00
+--- 835 1400049
+
+
+Answer: $128.00
+--- 836 1500049
+
+
+Answer: $128.00
+--- 837 1600049
+
+
+Answer: 10
+--- 838 50
+
+
+3
+--- 839 100050
+
+
+There are 18 pieces of winter clothing in total.
+--- 840 200050
+
+
+There were 18 pieces of winter clothing in total.
+--- 841 300050
+
+
+There were 18 pieces of winter clothing in total.
+--- 842 400050
+
+
+3
+--- 843 500050
+
+
+There were 18 pieces of winter clothing in total.
+--- 844 600050
+
+
+3
+--- 845 700050
+
+
+3
+--- 846 800050
+
+
+3
+--- 847 900050
+
+
+3
+--- 848 1000050
+
+
+3
+--- 849 1100050
+
+
+3
+--- 850 1200050
+
+
+3
+--- 851 1300050
+
+
+Answer: 6
+--- 852 1400050
+
+
+3
+--- 853 1500050
+
+
+ Paige had 18 pieces of winter clothing.
+--- 854 1600050
+
+
+Answer: 16
+--- 855 51
+
+
+3
+--- 856 100051
+
+
+3
+--- 857 200051
+
+
+3
+--- 858 300051
+
+
+Mark saw 1 dozen cars on the street. Mark saw 11 cars.
+--- 859 400051
+
+
+3
+--- 860 500051
+
+
+Billy saw 1 dozen dogs in a park. There were 12 dogs.
+--- 861 600051
+
+
+3
+--- 862 700051
+
+
+1
+--- 863 800051
+
+
+Answer: 3
+--- 864 900051
+
+
+Answer: 3
+--- 865 1000051
+
+
+3
+--- 866 1100051
+
+
+3
+--- 867 1200051
+
+
+3
+--- 868 1300051
+
+
+3
+--- 869 1400051
+
+
+3
+--- 870 1500051
+
+
+Sally saw 1 dozen birds in a tree and noticed that the temperature
+--- 871 1600051
+
+
+3
+--- 872 52
+
+
+3
+--- 873 100052
+
+
+3
+--- 874 200052
+
+
+3
+--- 875 300052
+
+
+3
+--- 876 400052
+
+
+3
+--- 877 500052
+
+
+3
+--- 878 600052
+
+
+3
+--- 879 700052
+
+
+3
+--- 880 800052
+
+
+3
+--- 881 900052
+
+
+3
+--- 882 1000052
+
+
+3
+--- 883 1100052
+
+
+3
+--- 884 1200052
+
+
+3
+--- 885 1300052
+
+
+3
+--- 886 1400052
+
+
+3
+--- 887 1500052
+
+
+Answer: 12
+--- 888 1600052
+
+
+The waiter had 18 customers at his table.
+--- 889 53
+
+
+3
+--- 890 100053
+
+
+3
+--- 891 200053
+
+
+Answer: 16
+--- 892 300053
+
+
+3
+--- 893 400053
+
+
+3
+--- 894 500053
+
+
+3
+--- 895 600053
+
+
+Answer: 3
+--- 896 700053
+
+
+3
+--- 897 800053
+
+
+Answer: 16
+--- 898 900053
+
+
+Todd had 8 pieces of gum.
+--- 899 1000053
+
+
+Answer: 54
+--- 900 1100053
+
+
+Todd has 54 pieces of gum. He would have to start with 16
+--- 901 1200053
+
+
+3
+--- 902 1300053
+
+
+Todd had to start with 54 pieces of gum.
+--- 903 1400053
+
+
+Todd had to start with 18 pieces of gum.
+--- 904 1500053
+
+
+Todd had to start with 54 pieces of gum.
+--- 905 1600053
+
+
+Todd has 54 pieces of gum.
+--- 906 54
+
+
+Answer: 3
+--- 907 100054
+
+
+3
+--- 908 200054
+
+
+Answer: 3
+--- 909 300054
+
+
+Answer: 3
+--- 910 400054
+
+
+3
+--- 911 500054
+
+
+3
+--- 912 600054
+
+
+3
+--- 913 700054
+
+
+Answer: 5
+--- 914 800054
+
+
+Answer: 3
+--- 915 900054
+
+
+3
+--- 916 1000054
+
+
+3
+--- 917 1100054
+
+
+3
+--- 918 1200054
+
+
+Answer: 6
+--- 919 1300054
+
+
+Answer: 3
+--- 920 1400054
+
+
+Answer: 6
+--- 921 1500054
+
+
+Answer: 6
+--- 922 1600054
+
+
+Mike spent 69 dollars on new mower blades.
+--- 923 55
+
+
+3
+--- 924 100055
+
+
+3
+--- 925 200055
+
+
+3
+--- 926 300055
+
+
+3
+--- 927 400055
+
+
+3
+--- 928 500055
+
+
+3
+--- 929 600055
+
+
+3
+--- 930 700055
+
+
+3
+--- 931 800055
+
+
+3
+--- 932 900055
+
+
+3
+--- 933 1000055
+
+
+3
+--- 934 1100055
+
+
+3
+--- 935 1200055
+
+
+3
+--- 936 1300055
+
+
+3
+--- 937 1400055
+
+
+3
+--- 938 1500055
+
+
+3
+--- 939 1600055
+
+
+Answer: 3
+--- 940 56
+
+
+Answer: 3
+--- 941 100056
+
+
+Answer: 3
+--- 942 200056
+
+
+Answer: 3
+--- 943 300056
+
+
+Answer: 3
+--- 944 400056
+
+
+Answer: 3
+--- 945 500056
+
+
+Answer: 3
+--- 946 600056
+
+
+3
+--- 947 700056
+
+
+Answer: 3
+--- 948 800056
+
+
+Answer: 3
+--- 949 900056
+
+
+Answer: 3
+--- 950 1000056
+
+
+Answer: 11
+--- 951 1100056
+
+
+Answer: 3
+--- 952 1200056
+
+
+Answer: 3
+--- 953 1300056
+
+
+Answer: 3
+--- 954 1400056
+
+
+Answer: 3
+--- 955 1500056
+
+
+3
+--- 956 1600056
+
+
+Paul received $10 for his allowance.
+--- 957 57
+
+
+Answer: 18
+--- 958 100057
+
+
+Tom ends with 45 marbles.
+--- 959 200057
+
+
+Answer: 18
+--- 960 300057
+
+
+Answer: 3
+--- 961 400057
+
+
+Answer: 3
+--- 962 500057
+
+
+3
+--- 963 600057
+
+
+Answer: 18
+--- 964 700057
+
+
+3
+--- 965 800057
+
+
+Answer: 18
+--- 966 900057
+
+
+Answer: 18
+--- 967 1000057
+
+
+Answer: 3
+--- 968 1100057
+
+
+Answer: 3
+--- 969 1200057
+
+
+Answer: 3
+--- 970 1300057
+
+
+Answer: 3
+--- 971 1400057
+
+
+3
+--- 972 1500057
+
+
+Answer: 3
+--- 973 1600057
+
+
+Answer: 3
+--- 974 58
+
+
+Answer: 16
+--- 975 100058
+
+
+Answer: 16
+--- 976 200058
+
+
+Answer: 16
+--- 977 300058
+
+
+Tom made 16.666666666666667 pounds of trail mix.
+--- 978 400058
+
+
+3
+--- 979 500058
+
+
+Answer: 16
+--- 980 600058
+
+
+Answer: 16
+--- 981 700058
+
+
+Answer: 16
+--- 982 800058
+
+
+Answer: 0.16666666666666666
+--- 983 900058
+
+
+Answer: 0.16666666666666666
+--- 984 1000058
+
+
+Answer: 16
+--- 985 1100058
+
+
+3
+--- 986 1200058
+
+
+3
+--- 987 1300058
+
+
+Answer: 16
+--- 988 1400058
+
+
+Answer: 10
+--- 989 1500058
+
+
+Answer: 3
+--- 990 1600058
+
+
+Answer: 0.4166666666666667
+--- 991 59
+
+
+Answer: 3
+--- 992 100059
+
+
+Answer: Jared is 3 pounds heavier than Ethan.
+--- 993 200059
+
+
+Answer: 3
+--- 994 300059
+
+
+Alex is 3 pounds heavier than Lily.
+--- 995 400059
+
+
+Chris is 3 pounds heavier than Rachel.
+--- 996 500059
+
+
+Answer: 3
+--- 997 600059
+
+
+Answer: 3
+--- 998 700059
+
+
+Answer: 3
+--- 999 800059
+
+
+Answer: 3
+--- 1000 900059
+
+
+Answer: 3

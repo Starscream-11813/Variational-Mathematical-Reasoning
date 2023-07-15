@@ -1,0 +1,4027 @@
+--- 6001 50001681
+
+
+Robin has 45 pieces of gum.
+--- 6002 1682
+
+
+3
+--- 6003 10001682
+
+
+3
+--- 6004 20001682
+
+
+3
+--- 6005 30001682
+
+
+3
+--- 6006 40001682
+
+
+3
+--- 6007 50001682
+
+
+3
+--- 6008 1683
+
+
+Mrs. Hilt paid for 6 hot dogs with 50 cents each.
+--- 6009 10001683
+
+
+3
+--- 6010 20001683
+
+
+Mrs. Hilt spent 45 cents on six hot dogs.
+--- 6011 30001683
+
+
+Mrs. Hilt paid $6.50 for her six hot dogs
+--- 6012 40001683
+
+
+Answer: $6
+--- 6013 50001683
+
+
+3
+--- 6014 1684
+
+
+Answer: 15
+--- 6015 10001684
+
+
+3
+--- 6016 20001684
+
+
+Answer: 16
+--- 6017 30001684
+
+
+There would be 11 people waiting for their turn if 10 of them became
+--- 6018 40001684
+
+
+There were 30 people in line for the bumper car ride at the fair
+--- 6019 50001684
+
+
+There are 30 people in the bumper car queue. If 10 of them
+--- 6020 1685
+
+
+Answer: 3
+--- 6021 10001685
+
+
+Answer: 3
+--- 6022 20001685
+
+
+Answer: 3
+--- 6023 30001685
+
+
+Answer: 3
+--- 6024 40001685
+
+
+Answer: 3
+--- 6025 50001685
+
+
+Answer: 3
+--- 6026 1686
+
+
+Answer: 3
+--- 6027 10001686
+
+
+3
+--- 6028 20001686
+
+
+Answer: 8
+--- 6029 30001686
+
+
+Answer: 22
+--- 6030 40001686
+
+
+Answer: 22
+--- 6031 50001686
+
+
+Answer: 3
+--- 6032 1687
+
+
+Answer: 18
+--- 6033 10001687
+
+
+Answer: 3
+--- 6034 20001687
+
+
+Answer: 3
+--- 6035 30001687
+
+
+Answer: 18
+--- 6036 40001687
+
+
+There are 18 cups of cereal in the box. There are 6 2
+--- 6037 50001687
+
+
+8
+--- 6038 1688
+
+
+Answer: 2
+--- 6039 10001688
+
+
+3
+--- 6040 20001688
+
+
+3
+--- 6041 30001688
+
+
+Keith and Mary found seashells on the shore, with Mary finding
+--- 6042 40001688
+
+
+Keith and Mary found 9 seashells on the beach. They found
+--- 6043 50001688
+
+
+Keith found 5 seashells and Mary located 2.
+--- 6044 1689
+
+
+3
+--- 6045 10001689
+
+
+3
+--- 6046 20001689
+
+
+3
+--- 6047 30001689
+
+
+3
+--- 6048 40001689
+
+
+3
+--- 6049 50001689
+
+
+3
+--- 6050 60001689
+
+
+ Nicholas can order a pizza with a total of 18.75 dollars.
+--- 6051 70001689
+
+
+ Nicholas can order a pizza with a total of 18 toppings.
+--- 6052 80001689
+
+
+3
+--- 6053 90001689
+
+
+3
+--- 6054 100001689
+
+
+ Nicholas can order 8 toppings if he tips 15% of the total
+--- 6055 110001689
+
+
+3
+--- 6056 120001689
+
+
+3
+--- 6057 130001689
+
+
+3
+--- 6058 140001689
+
+
+3
+--- 6059 150001689
+
+
+ Nicholas can order a pizza with a total of 18 toppings.
+--- 6060 160001689
+
+
+ Nicholas would have to pay 45.75 dollars in total for his pizza
+--- 6061 1690
+
+
+You will pay $8,100 in interest on a $1,
+--- 6062 10001690
+
+
+8100 ÷ 15 =
+
+200
+--- 6063 20001690
+
+
+Answer: $12810
+--- 6064 30001690
+
+
+Answer: $128.00
+--- 6065 40001690
+
+
+8100 
+
+75
+--- 6066 50001690
+
+
+The total amount you will need to pay on a loan of $8
+--- 6067 1691
+
+
+3
+--- 6068 10001691
+
+
+3
+--- 6069 20001691
+
+
+3
+--- 6070 30001691
+
+
+3
+--- 6071 40001691
+
+
+Answer: 3
+--- 6072 50001691
+
+
+Answer: 3
+--- 6073 1692
+
+
+Answer: 2
+--- 6074 10001692
+
+
+Answer: 3
+--- 6075 20001692
+
+
+Answer: 3
+--- 6076 30001692
+
+
+Answer: 3
+--- 6077 40001692
+
+
+The two plans have equal prices because the monthly fees are the same for
+--- 6078 50001692
+
+
+Answer: 3
+--- 6079 1693
+
+
+Answer: 3
+--- 6080 10001693
+
+
+Answer: 3
+--- 6081 20001693
+
+
+Answer: 12
+--- 6082 30001693
+
+
+Answer: 8
+--- 6083 40001693
+
+
+Answer: 3
+--- 6084 50001693
+
+
+Answer: 12
+--- 6085 1694
+
+
+ Joan went to 8 football games this year.
+--- 6086 10001694
+
+
+ Joan watched 4 football matches in the current year, whereas she watched 9
+--- 6087 20001694
+
+
+ Joan attended 8 games this year and 9 games the previous year.
+--- 6088 30001694
+
+
+ Joan watched 18 games this year and 24 games last year.
+--- 6089 40001694
+
+
+ Joan went to 11 football games this year.
+--- 6090 50001694
+
+
+3
+--- 6091 1695
+
+
+Answer: 6
+--- 6092 10001695
+
+
+Answer: 8.6
+--- 6093 20001695
+
+
+Answer: 16
+--- 6094 30001695
+
+
+The total height of both trees is 20 feet.
+--- 6095 40001695
+
+
+There are 18 blue marbles in total.
+--- 6096 50001695
+
+
+There are 16 elephants in the zoo.
+--- 6097 1696
+
+
+3
+--- 6098 10001696
+
+
+The number of miles per day that must be traveled for the rental price
+--- 6099 20001696
+
+
+3
+--- 6100 30001696
+
+
+Answer: 16
+--- 6101 40001696
+
+
+The minimum number of miles that car should be driven to level the cost
+--- 6102 50001696
+
+
+You need to rent the car for 3 days and drive it for 16
+--- 6103 1697
+
+
+ Joan travelled 25 miles at 5 miles per hour.
+--- 6104 10001697
+
+
+Answer: 3
+--- 6105 20001697
+
+
+ Joan was traveling for approximately 45 minutes.
+--- 6106 30001697
+
+
+It took Joan about 25 minutes to cycle 25 miles at a speed of
+--- 6107 40001697
+
+
+ Joan would travel 25 miles in total if she cycled at a pace
+--- 6108 50001697
+
+
+The duration of her travel time is 25 miles.
+--- 6109 1698
+
+
+Answer: 6
+--- 6110 10001698
+
+
+3
+--- 6111 20001698
+
+
+3
+--- 6112 30001698
+
+
+Answer: 6
+--- 6113 40001698
+
+
+Answer: 6
+--- 6114 50001698
+
+
+ Megan made 36 packages.
+--- 6115 1699
+
+
+Mike has 
+
+87 baseball cards.
+--- 6116 10001699
+
+
+Mike has 18 baseball cards left.
+--- 6117 20001699
+
+
+3
+--- 6118 30001699
+
+
+Answer: 3
+--- 6119 40001699
+
+
+Mike has now 86 cards.
+--- 6120 50001699
+
+
+Answer: 8
+--- 6121 1700
+
+
+3
+--- 6122 10001700
+
+
+3
+--- 6123 20001700
+
+
+3
+--- 6124 30001700
+
+
+3
+--- 6125 40001700
+
+
+Answer: 10
+--- 6126 50001700
+
+
+3
+--- 6127 1701
+
+
+Answer: 6
+--- 6128 10001701
+
+
+Answer: 12
+--- 6129 20001701
+
+
+The answer is 12.
+--- 6130 30001701
+
+
+3
+--- 6131 40001701
+
+
+Answer: 3
+--- 6132 50001701
+
+
+3
+
+6
+--- 6133 1702
+
+
+3
+--- 6134 10001702
+
+
+3
+--- 6135 20001702
+
+
+Answer: 8
+--- 6136 30001702
+
+
+Answer: 16
+--- 6137 40001702
+
+
+Answer: 8
+--- 6138 50001702
+
+
+There is an equal share of cupcakes for 8 children, if there
+--- 6139 1703
+
+
+Answer: 6
+--- 6140 10001703
+
+
+Answer: 6
+--- 6141 20001703
+
+
+Answer: 6
+--- 6142 30001703
+
+
+Answer: 3
+--- 6143 40001703
+
+
+Answer: 6
+--- 6144 50001703
+
+
+Answer: 327
+--- 6145 1704
+
+
+Answer: 16
+--- 6146 10001704
+
+
+Answer: 16
+--- 6147 20001704
+
+
+Answer: 12
+--- 6148 30001704
+
+
+Answer: 16
+--- 6149 40001704
+
+
+Answer: 16
+--- 6150 50001704
+
+
+Answer: 16
+--- 6151 1705
+
+
+Answer: 18
+--- 6152 10001705
+
+
+Answer: 18
+--- 6153 20001705
+
+
+Answer: 78
+--- 6154 30001705
+
+
+Answer: 28
+--- 6155 40001705
+
+
+ Nancy grew 28 watermelons and Jason grew a total of 41 plants
+--- 6156 50001705
+
+
+Answer: 18
+--- 6157 1706
+
+
+The total cost of Jessica's purchases was $ 116.73
+--- 6158 10001706
+
+
+Answer: $11.73
+--- 6159 20001706
+
+
+The total cost of the items is $32.12.
+--- 6160 30001706
+
+
+The cost of the cage is $8.06.
+--- 6161 40001706
+
+
+$11.73
+--- 6162 50001706
+
+
+Jessica expended 9.06 dollars on a cat toy and a cage.
+--- 6163 1707
+
+
+Answer: 15
+--- 6164 10001707
+
+
+Answer: 21
+--- 6165 20001707
+
+
+Answer: 21
+--- 6166 30001707
+
+
+Answer: 16
+--- 6167 40001707
+
+
+Answer: 21
+--- 6168 50001707
+
+
+Answer: 15
+--- 6169 1708
+
+
+3
+--- 6170 10001708
+
+
+Answer: 16
+--- 6171 20001708
+
+
+Answer: 24
+--- 6172 30001708
+
+
+There were 16 cages in this case.
+--- 6173 40001708
+
+
+Answer: 4
+--- 6174 50001708
+
+
+3
+--- 6175 1709
+
+
+Each team member has to run a distance of 150 meters.
+--- 6176 10001709
+
+
+Each member of the Green Bay High track team must complete a relay race
+--- 6177 20001709
+
+
+Answer: 3
+--- 6178 30001709
+
+
+The distance that each runner on the Green Bay High track team should run
+--- 6179 40001709
+
+
+Answer: 3
+--- 6180 50001709
+
+
+Each team member needs to run a distance of 150 meters.
+--- 6181 1710
+
+
+ Maria got 40 green towels and 44 white towels. She would have 45
+--- 6182 10001710
+
+
+Answer: 16
+--- 6183 20001710
+
+
+Answer: 16
+--- 6184 30001710
+
+
+Answer: 36
+--- 6185 40001710
+
+
+Answer: 56
+--- 6186 50001710
+
+
+Answer: 44
+--- 6187 1711
+
+
+Answer: 16
+--- 6188 10001711
+
+
+Answer: 22
+--- 6189 20001711
+
+
+Answer: 78
+--- 6190 30001711
+
+
+Answer: 56
+--- 6191 40001711
+
+
+Answer: 54
+--- 6192 50001711
+
+
+Answer: 22
+--- 6193 1712
+
+
+ Jose has 18 bottle caps.
+--- 6194 10001712
+
+
+ Jose has 18 bottle caps in total.
+--- 6195 20001712
+
+
+Jose has 8 bottle caps.
+--- 6196 30001712
+
+
+ Jose has 11 bottle caps.
+--- 6197 40001712
+
+
+Answer: 8
+--- 6198 50001712
+
+
+Answer: 12
+--- 6199 1713
+
+
+Answer: 32
+--- 6200 10001713
+
+
+Answer: 32
+--- 6201 20001713
+
+
+36
+--- 6202 30001713
+
+
+Answer: 32
+--- 6203 40001713
+
+
+36
+--- 6204 50001713
+
+
+Answer: 3
+--- 6205 1714
+
+
+Answer: 6
+--- 6206 10001714
+
+
+Answer: 3
+--- 6207 20001714
+
+
+Answer: 6
+--- 6208 30001714
+
+
+Answer: 24
+--- 6209 40001714
+
+
+Answer: 20
+--- 6210 50001714
+
+
+Answer: 24
+--- 6211 1715
+
+
+3
+--- 6212 10001715
+
+
+3
+--- 6213 20001715
+
+
+3
+--- 6214 30001715
+
+
+3
+--- 6215 40001715
+
+
+3
+--- 6216 50001715
+
+
+3
+--- 6217 1716
+
+
+Charlie picked 3 bags of fruit in total.
+--- 6218 10001716
+
+
+0.16666666666666666
+--- 6219 20001716
+
+
+Charlie harvested 16 bags of fruit.
+--- 6220 30001716
+
+
+0.16666666666666666
+--- 6221 40001716
+
+
+0.16666666666666666
+--- 6222 50001716
+
+
+Answer: 0.16666666666666666
+--- 6223 1717
+
+
+3
+--- 6224 10001717
+
+
+3
+--- 6225 20001717
+
+
+3
+--- 6226 30001717
+
+
+3
+--- 6227 40001717
+
+
+Answer: 3
+--- 6228 50001717
+
+
+3
+--- 6229 1718
+
+
+Answer: 3
+--- 6230 10001718
+
+
+Answer: 3
+--- 6231 20001718
+
+
+Answer: 3
+--- 6232 30001718
+
+
+Answer: 3
+--- 6233 40001718
+
+
+Answer: 3
+--- 6234 50001718
+
+
+Answer: 3
+--- 6235 1719
+
+
+Answer: 8.7
+--- 6236 10001719
+
+
+Answer: 8.7
+--- 6237 20001719
+
+
+Answer: 8.7
+--- 6238 30001719
+
+
+The sum of two pumpkins that Marta chose, where the first
+--- 6239 40001719
+
+
+The total weight of the pumpkins is 16.7 pounds.
+--- 6240 50001719
+
+
+Answer: 8.7
+--- 6241 1720
+
+
+Aiyanna has 3 more cookies than Alyssa.
+--- 6242 10001720
+
+
+Aiyanna has 2 more cookies than Alyssa.
+--- 6243 20001720
+
+
+Aiyanna has 140 cookies, while Alyssa has 129 cookies
+--- 6244 30001720
+
+
+Aiyanna has more than Alyssa.
+--- 6245 40001720
+
+
+Aiyanna has an excess number of cookies over Alyssa of
+--- 6246 50001720
+
+
+Aiyanna has 140 cookies, while Alyssa has 129 cookies
+--- 6247 1721
+
+
+There are 33 oak trees in the park. The workers will cut down
+--- 6248 10001721
+
+
+Answer: 33
+--- 6249 20001721
+
+
+3
+--- 6250 30001721
+
+
+Answer: 3
+--- 6251 40001721
+
+
+Answer: 18
+--- 6252 50001721
+
+
+Answer: 33
+--- 6253 1722
+
+
+3
+--- 6254 10001722
+
+
+3
+--- 6255 20001722
+
+
+3
+--- 6256 30001722
+
+
+3
+--- 6257 40001722
+
+
+3
+--- 6258 50001722
+
+
+Answer: $0.00
+--- 6259 1723
+
+
+Answer: 10
+--- 6260 10001723
+
+
+3
+--- 6261 20001723
+
+
+Answer: 10
+--- 6262 30001723
+
+
+3
+--- 6263 40001723
+
+
+3
+--- 6264 50001723
+
+
+3
+--- 6265 1724
+
+
+2
+--- 6266 10001724
+
+
+Answer: 3
+--- 6267 20001724
+
+
+3
+--- 6268 30001724
+
+
+3 multiplied by 4/3 equals 9.6
+--- 6269 40001724
+
+
+4.82 is equal to 1.3333.
+--- 6270 50001724
+
+
+4.82 is the result of multiplying a number by 1 and three
+--- 6271 1725
+
+
+There are 18 boys in year 8.
+--- 6272 10001725
+
+
+Answer: 18
+--- 6273 20001725
+
+
+Answer: 18
+--- 6274 30001725
+
+
+Answer: 24
+--- 6275 40001725
+
+
+x = 24
+--- 6276 50001725
+
+
+180
+--- 6277 1726
+
+
+3
+--- 6278 10001726
+
+
+The workers planted 44 maple trees and 22 orange trees.
+--- 6279 20001726
+
+
+Answer: 54
+--- 6280 30001726
+
+
+Answer: 3
+--- 6281 40001726
+
+
+There are 43 maple trees and 22 orange trees in the park. There
+--- 6282 50001726
+
+
+Answer: 3
+--- 6283 1727
+
+
+Answer: 3
+--- 6284 10001727
+
+
+Answer: 3
+--- 6285 20001727
+
+
+Answer: 3
+--- 6286 30001727
+
+
+Answer: 3
+--- 6287 40001727
+
+
+Answer: 3
+--- 6288 50001727
+
+
+Josh has 3 pencils left on hand.
+--- 6289 1728
+
+
+ Joan found 6 seashells and Jessica found 8 seashells.
+--- 6290 10001728
+
+
+ Joan found 8 seashells.
+--- 6291 20001728
+
+
+Answer: 8
+--- 6292 30001728
+
+
+ Joan found 8 shells.
+--- 6293 40001728
+
+
+3
+--- 6294 50001728
+
+
+ Joan found 4 seashells, while Jessica found 8 seashells
+--- 6295 1729
+
+
+Answer: 18
+--- 6296 10001729
+
+
+18 + 41 =
+--- 6297 20001729
+
+
+Answer: 18 + 41
+--- 6298 30001729
+
+
+18
+--- 6299 40001729
+
+
+Answer: 18
+--- 6300 50001729
+
+
+18
+--- 6301 1730
+
+
+Answer: 3
+--- 6302 10001730
+
+
+Answer: 10
+--- 6303 20001730
+
+
+Answer: 10
+--- 6304 30001730
+
+
+Answer: 10
+--- 6305 40001730
+
+
+Answer: 5
+--- 6306 50001730
+
+
+Answer: 10
+--- 6307 1731
+
+
+3
+--- 6308 10001731
+
+
+John has 18 crayons in total.
+--- 6309 20001731
+
+
+There are 15 crayons in total.
+--- 6310 30001731
+
+
+The answer is 12.
+--- 6311 40001731
+
+
+Answer: 16
+--- 6312 50001731
+
+
+8
+--- 6313 1732
+
+
+Harry has 83 apples.
+--- 6314 10001732
+
+
+Harry has 79 apples and he buys 5 more, so he has 83
+--- 6315 20001732
+
+
+Harry now has 83 apples.
+--- 6316 30001732
+
+
+Answer: 3
+--- 6317 40001732
+
+
+Harry has 83 apples.
+--- 6318 50001732
+
+
+Harry has 79 apples and he acquires 5 more, so he has
+--- 6319 1733
+
+
+Answer: 8
+--- 6320 10001733
+
+
+There were 11 students in fourth grade at the end of the year.
+--- 6321 20001733
+
+
+There were 12 students in fourth grade at the end of the year.
+--- 6322 30001733
+
+
+There were 11 students in fourth grade at the beginning of the year.
+--- 6323 40001733
+
+
+There were 10 students in the fourth-grade class.
+--- 6324 50001733
+
+
+Answer: 10
+--- 6325 1734
+
+
+Greg harvested 1.4 acres more than Sharon.
+--- 6326 10001734
+
+
+The difference in the size of Greg and Sharon's harvests is
+--- 6327 20001734
+
+
+Greg picked 4.6 acres of corn, while Sharon picked just 0
+--- 6328 30001734
+
+
+The difference in the amount of corn they harvested is 0.4 acre
+--- 6329 40001734
+
+
+Greg's harvest was 0.4 acre larger than Sharon's.
+--- 6330 50001734
+
+
+The disparity in the total yield between the two fields was 0.4
+--- 6331 1735
+
+
+3
+--- 6332 10001735
+
+
+3
+--- 6333 20001735
+
+
+8
+--- 6334 30001735
+
+
+Answer: 3
+--- 6335 40001735
+
+
+3
+--- 6336 50001735
+
+
+3
+--- 6337 1736
+
+
+Dan has 18 Pokemon cards.
+--- 6338 10001736
+
+
+14
+--- 6339 20001736
+
+
+Answer: 14
+--- 6340 30001736
+
+
+Answer: 78
+--- 6341 40001736
+
+
+Answer: 16
+--- 6342 50001736
+
+
+Answer: 16
+--- 6343 1737
+
+
+There were 2 concerts that Mrs. Hilt attended. Mrs. H
+--- 6344 10001737
+
+
+There were 65899 people at the first concert and 119 more people
+--- 6345 20001737
+
+
+Answer: 119
+--- 6346 30001737
+
+
+There were 65899 people in attendance at the second concert.
+--- 6347 40001737
+
+
+There were 65899 participants in the second concert.
+--- 6348 50001737
+
+
+There were 119 people present at the second concert.
+--- 6349 1738
+
+
+Mike spent $ 116.12 on car parts.
+--- 6350 10001738
+
+
+The cost of car parts was $128.12.
+--- 6351 20001738
+
+
+Mike spent $128.06 on car parts.
+--- 6352 30001738
+
+
+Mike's entire expenditure for car parts was $236.
+--- 6353 40001738
+
+
+$224.87
+--- 6354 50001738
+
+
+Mike's final bill for car parts would be $236.
+--- 6355 1739
+
+
+Jack has 8 cookies. Each friend gets 3 cookies.
+--- 6356 10001739
+
+
+3
+--- 6357 20001739
+
+
+3
+--- 6358 30001739
+
+
+3
+--- 6359 40001739
+
+
+3
+--- 6360 50001739
+
+
+3
+--- 6361 1740
+
+
+Answer: 16
+--- 6362 10001740
+
+
+The original price of a purse was 60 dollars but it was discounted by
+--- 6363 20001740
+
+
+Answer: 3
+--- 6364 30001740
+
+
+If the shirt has a 20% discount, the price would be reduced
+--- 6365 40001740
+
+
+Answer: 16
+--- 6366 50001740
+
+
+Answer: 16
+--- 6367 1741
+
+
+Answer: 3
+--- 6368 10001741
+
+
+Answer: 3
+--- 6369 20001741
+
+
+Answer: 10
+--- 6370 30001741
+
+
+Answer: 3
+--- 6371 40001741
+
+
+Answer: 10
+--- 6372 50001741
+
+
+Answer: 10
+--- 6373 1742
+
+
+Answer: 18
+--- 6374 10001742
+
+
+Answer: 16
+--- 6375 20001742
+
+
+Answer: 3
+--- 6376 30001742
+
+
+Answer: 3
+--- 6377 40001742
+
+
+Answer: 16
+--- 6378 50001742
+
+
+Answer: 3
+--- 6379 1743
+
+
+Answer: 6
+--- 6380 10001743
+
+
+Answer: 6
+--- 6381 20001743
+
+
+8
+--- 6382 30001743
+
+
+Answer: 3
+--- 6383 40001743
+
+
+There will be six walnut trees in total.
+--- 6384 50001743
+
+
+Answer: 16
+--- 6385 1744
+
+
+Answer: 3
+--- 6386 10001744
+
+
+Answer: 3
+--- 6387 20001744
+
+
+Answer: 3
+--- 6388 30001744
+
+
+Answer: 3
+--- 6389 40001744
+
+
+Answer: 8
+--- 6390 50001744
+
+
+Answer: 3
+--- 6391 1745
+
+
+ Joan spent 45.00 on pinball.
+--- 6392 10001745
+
+
+ Joan spent 45.00 on pinball on Wednesday.
+--- 6393 20001745
+
+
+ Joan spent 45.00 on pinball on Wednesday.
+--- 6394 30001745
+
+
+ Joan spent 45.00 on pinball in two days.
+--- 6395 40001745
+
+
+ Joan spent 18 half-dollars on pinball on Wednesday.
+--- 6396 50001745
+
+
+3
+--- 6397 1746
+
+
+Answer: $ 12.50
+--- 6398 10001746
+
+
+$ 12.50
+--- 6399 20001746
+
+
+$ 12.50
+--- 6400 30001746
+
+
+$ 12.50
+--- 6401 40001746
+
+
+Sally earns $ 36.50 per hour cleaning houses.
+--- 6402 50001746
+
+
+The total payout for Sally's 12 hours of work is $ 36.
+--- 6403 1747
+
+
+3
+--- 6404 10001747
+
+
+Answer: 3
+--- 6405 20001747
+
+
+Answer: 3
+--- 6406 30001747
+
+
+3
+--- 6407 40001747
+
+
+Answer: 3
+--- 6408 50001747
+
+
+Answer: 3
+--- 6409 1748
+
+
+3
+--- 6410 10001748
+
+
+Answer: 97
+--- 6411 20001748
+
+
+Answer: 6
+--- 6412 30001748
+
+
+Answer: 96
+--- 6413 40001748
+
+
+Answer: 6
+--- 6414 50001748
+
+
+The total number of bales of hay added to the barn by Jason
+--- 6415 1749
+
+
+There are 288 people in the tent.
+--- 6416 10001749
+
+
+The maximum number of individuals that can be accommodated in the circus tent
+--- 6417 20001749
+
+
+246
+--- 6418 30001749
+
+
+The overall maximum seating capacity of the tent is 806.
+--- 6419 40001749
+
+
+246
+--- 6420 50001749
+
+
+Answer: 24
+--- 6421 1750
+
+
+Answer: 32
+--- 6422 10001750
+
+
+Answer: 3
+--- 6423 20001750
+
+
+Answer: 12
+--- 6424 30001750
+
+
+Answer: 12
+--- 6425 40001750
+
+
+Answer: 32
+--- 6426 50001750
+
+
+Answer: 16
+--- 6427 1751
+
+
+3
+--- 6428 10001751
+
+
+2.12
+
+2.60
+--- 6429 20001751
+
+
+Answer: 20
+--- 6430 30001751
+
+
+2.12 + 20 =
+2.60
+--- 6431 40001751
+
+
+Answer: 2
+--- 6432 50001751
+
+
+3
+--- 6433 1752
+
+
+Answer: 3
+--- 6434 10001752
+
+
+Answer: 54
+--- 6435 20001752
+
+
+Answer: 56
+--- 6436 30001752
+
+
+Answer: 56
+--- 6437 40001752
+
+
+Answer: 42
+--- 6438 50001752
+
+
+There are 63 pencils in the drawer.
+--- 6439 1753
+
+
+3
+--- 6440 10001753
+
+
+3
+--- 6441 20001753
+
+
+3
+--- 6442 30001753
+
+
+3
+--- 6443 40001753
+
+
+3
+--- 6444 50001753
+
+
+The time required by the chef to cook the remaining potatoes is: 
+--- 6445 1754
+
+
+Answer: 312
+--- 6446 10001754
+
+
+Answer: 311
+--- 6447 20001754
+
+
+Answer: 3
+--- 6448 30001754
+
+
+Answer: 311
+--- 6449 40001754
+
+
+The answer is 312.
+--- 6450 50001754
+
+
+Answer: 311
+--- 6451 1755
+
+
+Answer: 3
+--- 6452 10001755
+
+
+Tori's current height is 5.14 feet.
+--- 6453 20001755
+
+
+Answer: 4.4
+--- 6454 30001755
+
+
+Tori is 5'10".
+--- 6455 40001755
+
+
+Answer: 8.0
+--- 6456 50001755
+
+
+4.4
+--- 6457 1756
+
+
+Answer: 6
+--- 6458 10001756
+
+
+3
+--- 6459 20001756
+
+
+Answer: 22
+--- 6460 30001756
+
+
+Debby decided to delete 3 pictures.
+--- 6461 40001756
+
+
+14
+--- 6462 50001756
+
+
+16
+--- 6463 1757
+
+
+Answer: 8
+--- 6464 10001757
+
+
+The number of new pigs that arrived in the barn is 86.
+--- 6465 20001757
+
+
+Answer: 8
+--- 6466 30001757
+
+
+Answer: 8
+--- 6467 40001757
+
+
+There are now 86 pigs residing in a barn that initially had only 64
+--- 6468 50001757
+
+
+Answer: 128
+--- 6469 1758
+
+
+3
+--- 6470 10001758
+
+
+3 eggs in a total of 2 boxes
+--- 6471 20001758
+
+
+3
+--- 6472 30001758
+
+
+The total number of eggs in 2 boxes is 12.
+--- 6473 40001758
+
+
+3
+--- 6474 50001758
+
+
+There are 18 eggs in total.
+--- 6475 1759
+
+
+3
+--- 6476 10001759
+
+
+Eric has 3 toy cars. Ryan has 4 toy cars, and Emma
+--- 6477 20001759
+
+
+Caitlyn has 8 pens. Brian has 4 pens. The other
+--- 6478 30001759
+
+
+Answer: 12
+--- 6479 40001759
+
+
+There are 16 ducks in Pond A and 16 ducks in Pond B.
+--- 6480 50001759
+
+
+Sophie picked 3 apples, Mia picked 5 apples, and Emma
+--- 6481 1760
+
+
+Answer: 3
+--- 6482 10001760
+
+
+Answer: 3
+--- 6483 20001760
+
+
+ Teresa has 64 bananas.
+--- 6484 30001760
+
+
+Answer: 16
+--- 6485 40001760
+
+
+Answer: 3
+--- 6486 50001760
+
+
+ Teresa will have 54 bananas.
+--- 6487 1761
+
+
+Billy has 8 crayons.
+--- 6488 10001761
+
+
+Billy has 62 crayons. If a hippopotamus eats 52
+--- 6489 20001761
+
+
+Billy has 8 crayons left.
+--- 6490 30001761
+
+
+Answer: 6
+--- 6491 40001761
+
+
+Answer: 6
+--- 6492 50001761
+
+
+Answer: 3
+--- 6493 1762
+
+
+Answer: Wendy ran 19.833333333333332 miles and walked
+--- 6494 10001762
+
+
+ Wendy ran 19.833333333333332 miles and walked 9.
+--- 6495 20001762
+
+
+Wendy ran 19.833333333333332 miles and 9
+--- 6496 30001762
+
+
+Answer: 3
+--- 6497 40001762
+
+
+19.833333333333332 miles
+--- 6498 50001762
+
+
+The difference between Wendy's running and walking distance is 3.1414
+--- 6499 1763
+
+
+Answer: 3
+--- 6500 10001763
+
+
+Answer: 3
+--- 6501 20001763
+
+
+Answer: 12
+--- 6502 30001763
+
+
+Answer: 3
+--- 6503 40001763
+
+
+ Keith harvested 6 turnips and Alyssa harvested 9 turnips.
+--- 6504 50001763
+
+
+ Keith and Alyssa grew 9 turnips together.
+--- 6505 1764
+
+
+3
+--- 6506 10001764
+
+
+3
+--- 6507 20001764
+
+
+3
+--- 6508 30001764
+
+
+ Joan has 9 blue balloons.
+--- 6509 40001764
+
+
+3
+--- 6510 50001764
+
+
+The total sum of blue balloons that Joan, Sally, and Jessica own
+--- 6511 1765
+
+
+3 + 4 =
+
+7
+--- 6512 10001765
+
+
+Answer: 12
+--- 6513 20001765
+
+
+Answer: 16
+--- 6514 30001765
+
+
+6
+--- 6515 40001765
+
+
+Answer: 12
+--- 6516 50001765
+
+
+Answer: 12
+--- 6517 1766
+
+
+Answer: 3
+--- 6518 10001766
+
+
+3
+--- 6519 20001766
+
+
+3
+--- 6520 30001766
+
+
+3
+--- 6521 40001766
+
+
+Answer: 28
+--- 6522 50001766
+
+
+3
+--- 6523 1767
+
+
+$10.62
+--- 6524 10001767
+
+
+$10.62
+--- 6525 20001767
+
+
+$10.62
+--- 6526 30001767
+
+
+$10.62
+--- 6527 40001767
+
+
+Sara spent $11.06 on two tickets to a movie theater
+--- 6528 50001767
+
+
+$10.62
+--- 6529 1768
+
+
+3
+--- 6530 10001768
+
+
+3
+--- 6531 20001768
+
+
+Answer: 20
+--- 6532 30001768
+
+
+3 weeks
+--- 6533 40001768
+
+
+Answer: 3
+--- 6534 50001768
+
+
+3 weeks
+--- 6535 1769
+
+
+Answer: 3
+--- 6536 10001769
+
+
+Answer: 8 minutes
+--- 6537 20001769
+
+
+3
+--- 6538 30001769
+
+
+15
+--- 6539 40001769
+
+
+3
+--- 6540 50001769
+
+
+Answer: 15
+--- 6541 1770
+
+
+$ 14.28
+--- 6542 10001770
+
+
+Jason spent $28.14 on clothing.
+--- 6543 20001770
+
+
+Jason spent $14.28 on clothing during his mall visit on Saturday
+--- 6544 30001770
+
+
+14.28
+--- 6545 40001770
+
+
+Jason spent $28.14 on clothes when he went to the mall
+--- 6546 50001770
+
+
+14.28
+--- 6547 1771
+
+
+3
+--- 6548 10001771
+
+
+Answer: 5
+--- 6549 20001771
+
+
+3
+--- 6550 30001771
+
+
+Answer: 5
+--- 6551 40001771
+
+
+Answer: 9
+--- 6552 50001771
+
+
+Answer: 5
+--- 6553 1772
+
+
+Answer: 3
+--- 6554 10001772
+
+
+3
+--- 6555 20001772
+
+
+3
+--- 6556 30001772
+
+
+3
+--- 6557 40001772
+
+
+3
+--- 6558 50001772
+
+
+3
+--- 6559 1773
+
+
+3
+--- 6560 10001773
+
+
+3
+--- 6561 20001773
+
+
+Answer: 16
+--- 6562 30001773
+
+
+Answer: 10
+--- 6563 40001773
+
+
+Answer: 16
+--- 6564 50001773
+
+
+Answer: 16
+--- 6565 1774
+
+
+3
+
+It would take 3 days for all of them to be
+--- 6566 10001774
+
+
+It will take about 10 days for all the puppies to be adopted.
+--- 6567 20001774
+
+
+3
+--- 6568 30001774
+
+
+3
+--- 6569 40001774
+
+
+3
+--- 6570 50001774
+
+
+3
+--- 6571 1775
+
+
+Answer: 16
+--- 6572 10001775
+
+
+Paul can make the money last for 8 weeks if he spends 9 dollars
+--- 6573 20001775
+
+
+Paul would need to spend 45 weeks to make the money last.
+--- 6574 30001775
+
+
+Answer: 3
+--- 6575 40001775
+
+
+Paul can make his earnings of $68 in a week if he spends
+--- 6576 50001775
+
+
+Paul can use the money earned from mowing lawns and weed eating
+--- 6577 1776
+
+
+3
+--- 6578 10001776
+
+
+Answer: 3
+--- 6579 20001776
+
+
+Answer: 3
+--- 6580 30001776
+
+
+3
+--- 6581 40001776
+
+
+3
+--- 6582 50001776
+
+
+3
+--- 6583 1777
+
+
+Answer: 8
+--- 6584 10001777
+
+
+Answer: 3
+--- 6585 20001777
+
+
+Answer: 8
+--- 6586 30001777
+
+
+Answer: 8
+--- 6587 40001777
+
+
+Answer: 8
+--- 6588 50001777
+
+
+Answer: 12
+--- 6589 1778
+
+
+Answer: 16
+--- 6590 10001778
+
+
+Answer: 12
+--- 6591 20001778
+
+
+Answer: 18
+--- 6592 30001778
+
+
+Answer: 24
+--- 6593 40001778
+
+
+Answer: 24
+--- 6594 50001778
+
+
+Answer: 12
+--- 6595 1779
+
+
+Answer: 3
+--- 6596 10001779
+
+
+ Joan grew 8 watermelons and 4 turnips, while Tom grew
+--- 6597 20001779
+
+
+ Joan grew 8 watermelons and 4 turnips, and Tom only
+--- 6598 30001779
+
+
+Answer: 8
+--- 6599 40001779
+
+
+ Joan and Tom grew 3 watermelons.
+--- 6600 50001779
+
+
+Answer: 8
+--- 6601 1780
+
+
+Answer: 36
+--- 6602 10001780
+
+
+Answer: 43
+--- 6603 20001780
+
+
+Answer: 43
+--- 6604 30001780
+
+
+Answer: 36
+--- 6605 40001780
+
+
+Answer: 3
+--- 6606 50001780
+
+
+Answer: 36
+--- 6607 1781
+
+
+Answer: 3
+--- 6608 10001781
+
+
+3
+--- 6609 20001781
+
+
+Answer: 3
+--- 6610 30001781
+
+
+Answer: 3
+--- 6611 40001781
+
+
+Answer: 7
+--- 6612 50001781
+
+
+Answer: 3
+--- 6613 1782
+
+
+Answer: 3
+--- 6614 10001782
+
+
+Answer: 43
+--- 6615 20001782
+
+
+Answer: 3
+--- 6616 30001782
+
+
+Answer: 36
+--- 6617 40001782
+
+
+Answer: 3
+--- 6618 50001782
+
+
+Answer: 16
+--- 6619 1783
+
+
+There are 5106 books in Oak Grove's public library.
+--- 6620 10001783
+
+
+The total number of books in all libraries in Oak Grove is 106.
+--- 6621 20001783
+
+
+Oak Grove has 1986 books in its public library and 5106 books in
+--- 6622 30001783
+
+
+Answer: 86
+--- 6623 40001783
+
+
+The combined number of books in all the libraries is 158.
+--- 6624 50001783
+
+
+The answer to this problem is 8.06.
+--- 6625 1784
+
+
+3
+--- 6626 10001784
+
+
+3
+--- 6627 20001784
+
+
+3
+--- 6628 30001784
+
+
+Answer: 3
+--- 6629 40001784
+
+
+There were 18 extra apples in the cafeteria because only 11 students wanted fruit
+--- 6630 50001784
+
+
+Answer: 3
+--- 6631 1785
+
+
+3
+--- 6632 10001785
+
+
+Answer: 16
+--- 6633 20001785
+
+
+3
+--- 6634 30001785
+
+
+3
+--- 6635 40001785
+
+
+3
+--- 6636 50001785
+
+
+3
+--- 6637 1786
+
+
+3
+--- 6638 10001786
+
+
+3
+--- 6639 20001786
+
+
+8
+--- 6640 30001786
+
+
+3
+--- 6641 40001786
+
+
+8
+--- 6642 50001786
+
+
+3
+--- 6643 1787
+
+
+Answer: 3
+--- 6644 10001787
+
+
+Answer: 16
+--- 6645 20001787
+
+
+Answer: 3
+--- 6646 30001787
+
+
+Answer: 3
+--- 6647 40001787
+
+
+Answer: 8
+--- 6648 50001787
+
+
+Answer: 3
+--- 6649 1788
+
+
+3
+--- 6650 10001788
+
+
+3
+--- 6651 20001788
+
+
+Answer: 8
+--- 6652 30001788
+
+
+Answer: 3
+--- 6653 40001788
+
+
+There are 16 lives left in total.
+--- 6654 50001788
+
+
+3
+--- 6655 1789
+
+
+Answer: 3
+--- 6656 10001789
+
+
+Answer: 3
+--- 6657 20001789
+
+
+3
+--- 6658 30001789
+
+
+3
+--- 6659 40001789
+
+
+3
+--- 6660 50001789
+
+
+Answer: 3
+--- 6661 1790
+
+
+Answer: 8
+--- 6662 10001790
+
+
+Answer: 36
+--- 6663 20001790
+
+
+Answer: 3
+--- 6664 30001790
+
+
+Answer: 3
+--- 6665 40001790
+
+
+Answer: 3
+--- 6666 50001790
+
+
+Answer: 3
+--- 6667 1791
+
+
+Oliver has now $128.
+--- 6668 10001791
+
+
+Oliver has $84 left.
+--- 6669 20001791
+
+
+Oliver has a balance of $84.
+--- 6670 30001791
+
+
+Oliver has 45 dollars left on his birthday.
+--- 6671 40001791
+
+
+Oliver received 45 dollars on his birthday. If he had originally had
+--- 6672 50001791
+
+
+Oliver's balance would be $128.
+--- 6673 1792
+
+
+3
+--- 6674 10001792
+
+
+Mary has 8 blue marbles.
+--- 6675 20001792
+
+
+3
+--- 6676 30001792
+
+
+Dan has a total of 8 blue marbles.
+
+Mary has
+--- 6677 40001792
+
+
+Mary has 8 blue marbles.
+--- 6678 50001792
+
+
+3
+--- 6679 1793
+
+
+Answer: 6
+--- 6680 10001793
+
+
+Arthur has 10 cards and Aaron has 8 cards. Arthur has a total
+--- 6681 20001793
+
+
+Answer: 6
+--- 6682 30001793
+
+
+Answer: 6
+--- 6683 40001793
+
+
+Answer: 10
+--- 6684 50001793
+
+
+Answer: 62
+--- 6685 1794
+
+
+Answer: 3
+--- 6686 10001794
+
+
+Answer: 30
+--- 6687 20001794
+
+
+Answer: 10
+--- 6688 30001794
+
+
+Answer: 30
+--- 6689 40001794
+
+
+Answer: 30
+--- 6690 50001794
+
+
+Answer: 30
+--- 6691 1795
+
+
+There are 18 children on the bus. The children will need 3 seats
+--- 6692 10001795
+
+
+There are a total of 58 seats on the bus. There are 24
+--- 6693 20001795
+
+
+There are 58 children who need to travel to the zoo, and 4
+--- 6694 30001795
+
+
+There should be at least 38 seats on a bus to the zoo.
+--- 6695 40001795
+
+
+There are a maximum of 58 seats on a bus. Therefore, the
+--- 6696 50001795
+
+
+The total quantity of seats needed for a bus to the zoo, if
+--- 6697 1796
+
+
+Answer: 3
+--- 6698 10001796
+
+
+Answer: 36
+--- 6699 20001796
+
+
+Answer: 64
+--- 6700 30001796
+
+
+Answer: 64
+--- 6701 40001796
+
+
+Answer: 64
+--- 6702 50001796
+
+
+Answer: 64
+--- 6703 1797
+
+
+Answer: 3
+--- 6704 10001797
+
+
+Answer: 3
+--- 6705 20001797
+
+
+Answer: 3
+--- 6706 30001797
+
+
+The maximum distance that you can cover while staying within a 75-dollar
+--- 6707 40001797
+
+
+You can travel up to 350 miles in your rental car while staying within
+--- 6708 50001797
+
+
+The maximum distance you can travel in the rented car is 128 miles.
+--- 6709 1798
+
+
+3
+--- 6710 10001798
+
+
+There will be 8 orchid bushes in the park after the workers are
+--- 6711 20001798
+
+
+3
+--- 6712 30001798
+
+
+There are currently 2 orchid bushes.
+--- 6713 40001798
+
+
+There will be 8 orchid bushes in total.
+--- 6714 50001798
+
+
+3
+--- 6715 1799
+
+
+Answer: 3
+--- 6716 10001799
+
+
+The answer is 3.
+--- 6717 20001799
+
+
+Answer: 4
+--- 6718 30001799
+
+
+Answer: 20
+--- 6719 40001799
+
+
+The answer is 3.
+--- 6720 50001799
+
+
+2
+
+3
+--- 6721 1800
+
+
+Answer: 12
+--- 6722 10001800
+
+
+Answer: 12
+--- 6723 20001800
+
+
+Answer: 12
+--- 6724 30001800
+
+
+3
+--- 6725 40001800
+
+
+Answer: 12
+--- 6726 50001800
+
+
+Answer: 3
+--- 6727 1801
+
+
+Answer: $10
+--- 6728 10001801
+
+
+Answer: 25
+--- 6729 20001801
+
+
+Answer: 12
+--- 6730 30001801
+
+
+Answer: 16
+--- 6731 40001801
+
+
+If an individual in need of a tennis racket goes on sale with a
+--- 6732 50001801
+
+
+Answer: 12
+--- 6733 1802
+
+
+Answer: 2
+--- 6734 10001802
+
+
+Answer: 0.125
+--- 6735 20001802
+
+
+Answer: 2
+--- 6736 30001802
+
+
+Answer: 3
+--- 6737 40001802
+
+
+Answer: 2
+--- 6738 50001802
+
+
+Answer: 2
+--- 6739 1803
+
+
+Answer: 6
+--- 6740 10001803
+
+
+Answer: 12
+--- 6741 20001803
+
+
+Answer: 36
+--- 6742 30001803
+
+
+Answer: 12
+--- 6743 40001803
+
+
+Answer: 3
+--- 6744 50001803
+
+
+Answer: 36
+--- 6745 1804
+
+
+3
+--- 6746 10001804
+
+
+Answer: 16
+--- 6747 20001804
+
+
+3
+--- 6748 30001804
+
+
+Answer: 16
+--- 6749 40001804
+
+
+3
+--- 6750 50001804
+
+
+3
+--- 6751 1805
+
+
+3
+--- 6752 10001805
+
+
+3
+--- 6753 20001805
+
+
+3
+--- 6754 30001805
+
+
+3
+--- 6755 40001805
+
+
+3
+--- 6756 50001805
+
+
+3
+--- 6757 1806
+
+
+3
+--- 6758 10001806
+
+
+0.3333333333333333
+--- 6759 20001806
+
+
+Answer: 0.3333333333333333
+--- 6760 30001806
+
+
+0.3333333333333333
+--- 6761 40001806
+
+
+3
+--- 6762 50001806
+
+
+0.3333333333333333 pound of green peppers and 0.3333
+--- 6763 1807
+
+
+There are 24 cars in all.
+--- 6764 10001807
+
+
+The total number of cars manufactured in Europe is 2871.
+--- 6765 20001807
+
+
+The total number of cars produced by a car company in North America is
+--- 6766 30001807
+
+
+The total number of cars produced by the car company is 3884.
+--- 6767 40001807
+
+
+There were 3884 cars made in North America and 2871 cars made
+--- 6768 50001807
+
+
+The total number of cars produced by the car company is 3884.
+--- 6769 1808
+
+
+3
+--- 6770 10001808
+
+
+ Nancy will have spent $27.
+--- 6771 20001808
+
+
+Answer: 7
+--- 6772 30001808
+
+
+3
+--- 6773 40001808
+
+
+3
+--- 6774 50001808
+
+
+Answer: 3
+--- 6775 1809
+
+
+3
+--- 6776 10001809
+
+
+Answer: 64
+--- 6777 20001809
+
+
+Answer: 64
+--- 6778 30001809
+
+
+Answer: 6
+--- 6779 40001809
+
+
+Answer: 3
+--- 6780 50001809
+
+
+Answer: 6
+--- 6781 1810
+
+
+8.2
+--- 6782 10001810
+
+
+2
+--- 6783 20001810
+
+
+Answer: 3.0
+--- 6784 30001810
+
+
+The total distance hiked by him on Saturday was 10.0 miles
+--- 6785 40001810
+
+
+Answer: 3
+--- 6786 50001810
+
+
+The overall distance Terrell hike was 10.2 miles.
+--- 6787 1811
+
+
+3
+--- 6788 10001811
+
+
+3
+--- 6789 20001811
+
+
+Jessica needs to add a total of 16 cups of flour to the mix
+--- 6790 30001811
+
+
+3
+--- 6791 40001811
+
+
+Answer: 8
+--- 6792 50001811
+
+
+3
+--- 6793 1812
+
+
+Answer: 16
+--- 6794 10001812
+
+
+Answer: 3
+--- 6795 20001812
+
+
+Answer: 16
+--- 6796 30001812
+
+
+Answer: 15
+--- 6797 40001812
+
+
+Answer: 3
+--- 6798 50001812
+
+
+3
+--- 6799 1813
+
+
+Keith went to 7 football games this year.
+--- 6800 10001813
+
+
+Answer: 3
+--- 6801 20001813
+
+
+Answer: 7
+--- 6802 30001813
+
+
+Keith attended six games during the football season.
+--- 6803 40001813
+
+
+Keith attended six games.
+--- 6804 50001813
+
+
+Keith attended six football games this year.
+--- 6805 1814
+
+
+3
+--- 6806 10001814
+
+
+ Melanie has 83 dimes in her bank.
+--- 6807 20001814
+
+
+3
+--- 6808 30001814
+
+
+ Melanie got 45 dimes from her dad and 30 dimes from her
+--- 6809 40001814
+
+
+Answer: 3
+--- 6810 50001814
+
+
+3
+--- 6811 1815
+
+
+Kevin bought 2 watermelons. The first watermelon was 9.
+--- 6812 10001815
+
+
+Kevin bought two watermelons, each weighing 9.91 pounds.
+--- 6813 20001815
+
+
+Kevin acquired a total of 18 watermelons.
+--- 6814 30001815
+
+
+Kevin purchased 
+pounds of watermelon in total.
+--- 6815 40001815
+
+
+Kevin took home 8.91 pounds of watermelon.
+--- 6816 50001815
+
+
+Kevin bought 
+2 watermelons
+--- 6817 1816
+
+
+3.28
+--- 6818 10001816
+
+
+3.28 * 30 = 
+3.74
+--- 6819 20001816
+
+
+3.28
+30
+3.03
+--- 6820 30001816
+
+
+There are 30 gallons of gasoline in the station. The owner needs to
+--- 6821 40001816
+
+
+3.28
+--- 6822 50001816
+
+
+3.28
+30
+3.03
+--- 6823 1817
+
+
+There were 44 boys and 53 girls on the playground at recess. There
+--- 6824 10001817
+
+
+Answer: 54
+--- 6825 20001817
+
+
+There were 84 children in total.
+--- 6826 30001817
+
+
+There are 54 children on the playground.
+--- 6827 40001817
+
+
+There were a total of 97 children playing on the playground. There were
+--- 6828 50001817
+
+
+There are 153 children on the playground.
+--- 6829 1818
+
+
+3
+--- 6830 10001818
+
+
+3
+--- 6831 20001818
+
+
+3
+--- 6832 30001818
+
+
+Answer: 3
+--- 6833 40001818
+
+
+Answer: 3
+--- 6834 50001818
+
+
+3
+--- 6835 1819
+
+
+Billy had 18 coins total.
+--- 6836 10001819
+
+
+Billy had 18 coins.
+--- 6837 20001819
+
+
+Billy had 18 coins after putting his spare change into piles.
+--- 6838 30001819
+
+
+Billy had a total of 36 coins, with 16 quarters and 24 d
+--- 6839 40001819
+
+
+Answer: 2
+--- 6840 50001819
+
+
+Billy has 20 coins. He would have 4 coins in each pile if
+--- 6841 1820
+
+
+3
+--- 6842 10001820
+
+
+Answer: Nina ran 0.8333333333333333 miles in total
+--- 6843 20001820
+
+
+Answer: 0.08333333333333333
+--- 6844 30001820
+
+
+Answer: 0.8
+--- 6845 40001820
+
+
+Answer: 16
+--- 6846 50001820
+
+
+Answer: Nina ran 0.8333333333333333 miles during the
+--- 6847 1821
+
+
+3
+--- 6848 10001821
+
+
+x = 9 + 7.28
+--- 6849 20001821
+
+
+The weight of the expensive coffee he needs to mix is x pounds.
+--- 6850 30001821
+
+
+7.28
+
+--- 6851 40001821
+
+
+The desired blend is achieved when the quantity of coffee mixed with the quantity
+--- 6852 50001821
+
+
+Answer: 6.95
+--- 6853 1822
+
+
+Carter has 58 more baseball cards than Marcus.
+--- 6854 10001822
+
+
+Carter has 58 more baseball cards than Marcus. If Marcus has 210 baseball
+--- 6855 20001822
+
+
+Carter has x cards. Marcus has 210.
+--- 6856 30001822
+
+
+Carter has 8 cards.
+--- 6857 40001822
+
+
+Carter has 78 cards.
+--- 6858 50001822
+
+
+Carter has 58 more baseball cards than Marcus.
+--- 6859 1823
+
+
+3
+--- 6860 10001823
+
+
+3
+--- 6861 20001823
+
+
+3
+--- 6862 30001823
+
+
+Answer: 14
+--- 6863 40001823
+
+
+3
+--- 6864 50001823
+
+
+3
+--- 6865 1824
+
+
+3
+--- 6866 10001824
+
+
+The amount of water left in the bucket would be 0.8 +
+--- 6867 20001824
+
+
+3
+--- 6868 30001824
+
+
+0.2
+--- 6869 40001824
+
+
+Answer: 0.8
+--- 6870 50001824
+
+
+3
+--- 6871 1825
+
+
+Tom has 9 yellow balloons and Sara has 8 yellow balloons. They have
+--- 6872 10001825
+
+
+Answer: 3
+--- 6873 20001825
+
+
+The sum of the two is 16.
+--- 6874 30001825
+
+
+3
+--- 6875 40001825
+
+
+Answer: 3
+--- 6876 50001825
+
+
+3
+--- 6877 1826
+
+
+ Joan received 14 quarters, half - dollars, and dimes. The
+--- 6878 10001826
+
+
+ Joan received 14 quarters, half-dollars, and dimes
+--- 6879 20001826
+
+
+ Joan collected 24 quarters, 24 half-dollars, and 24
+--- 6880 30001826
+
+
+Answer: $14
+--- 6881 40001826
+
+
+14
+--- 6882 50001826
+
+
+Answer: $14
+--- 6883 1827
+
+
+3
+--- 6884 10001827
+
+
+3
+--- 6885 20001827
+
+
+Answer: 3
+--- 6886 30001827
+
+
+3
+--- 6887 40001827
+
+
+ Nancy and her mom picked 38 and 47 carrots from the garden, respectively
+--- 6888 50001827
+
+
+3
+--- 6889 1828
+
+
+Fred made 86 dollars washing cars.
+--- 6890 10001828
+
+
+Jason earned 36 dollars from washing cars.
+--- 6891 20001828
+
+
+Fred made 86 dollars from washing cars.
+--- 6892 30001828
+
+
+Answer: 86
+--- 6893 40001828
+
+
+Fred made 86 dollars from washing cars.
+--- 6894 50001828
+
+
+Fred earned 69 dollars from washing cars.
+--- 6895 1829
+
+
+It will take approximately 8 hours for the trains to be 285 miles apart
+--- 6896 10001829
+
+
+Answer: 10 hours
+--- 6897 20001829
+
+
+The trains will be 285 miles apart after how many hours.
+--- 6898 30001829
+
+
+Answer: 285
+--- 6899 40001829
+
+
+The trains will be 285 miles apart after 8 hours.
+--- 6900 50001829
+
+
+The two trains will be 285 miles apart before the first train has traveled
+--- 6901 1830
+
+
+7
+--- 6902 10001830
+
+
+There are 11 boys and 45 girls on the debate team. If the
+--- 6903 20001830
+
+
+Answer: 7
+--- 6904 30001830
+
+
+There were 7 groups of 11 boys and 45 girls on the team.
+--- 6905 40001830
+
+
+7
+--- 6906 50001830
+
+
+There are seven groups of eleven boys and forty-five girls.
+--- 6907 1831
+
+
+ Teresa jogged 25 kilometers at 5 kilometers per hour for an hour and
+--- 6908 10001831
+
+
+Answer: 3
+--- 6909 20001831
+
+
+Answer: 3
+--- 6910 30001831
+
+
+ Teresa completed 25 kilometers in 5 hours and 45 minutes.
+--- 6911 40001831
+
+
+Answer: Teresa covered 25 kilometers while jogging at 5 kilometers per hour
+--- 6912 50001831
+
+
+Answer: 3
+--- 6913 1832
+
+
+3
+--- 6914 10001832
+
+
+3
+--- 6915 20001832
+
+
+3
+--- 6916 30001832
+
+
+3
+--- 6917 40001832
+
+
+3
+--- 6918 50001832
+
+
+3
+--- 6919 1833
+
+
+Answer: 2
+--- 6920 10001833
+
+
+Answer: 128
+--- 6921 20001833
+
+
+Answer: 16
+--- 6922 30001833
+
+
+Answer: 3
+--- 6923 40001833
+
+
+Answer: 16
+--- 6924 50001833
+
+
+Answer: 16
+--- 6925 1834
+
+
+3
+--- 6926 10001834
+
+
+Answer: 3
+--- 6927 20001834
+
+
+3
+--- 6928 30001834
+
+
+0.5
+--- 6929 40001834
+
+
+3
+--- 6930 50001834
+
+
+0.5
+--- 6931 1835
+
+
+Answer: 3
+--- 6932 10001835
+
+
+Answer: 3
+--- 6933 20001835
+
+
+3
+--- 6934 30001835
+
+
+Answer: 3
+--- 6935 40001835
+
+
+Answer: 3
+--- 6936 50001835
+
+
+Answer: 3
+--- 6937 1836
+
+
+3
+--- 6938 10001836
+
+
+3
+--- 6939 20001836
+
+
+Answer: 16
+--- 6940 30001836
+
+
+3
+--- 6941 40001836
+
+
+Answer: 16
+--- 6942 50001836
+
+
+3
+--- 6943 1837
+
+
+3
+--- 6944 10001837
+
+
+3
+--- 6945 20001837
+
+
+3
+--- 6946 30001837
+
+
+3
+--- 6947 40001837
+
+
+3
+--- 6948 50001837
+
+
+Answer: 7
+--- 6949 1838
+
+
+ Stephanie ran for 3 hours at 5 miles per hour and traveled 100 feet
+--- 6950 10001838
+
+
+ Stephanie has covered the distance of 10.4 miles.
+--- 6951 20001838
+
+
+ Stephanie has traveled 5 miles.
+--- 6952 30001838
+
+
+Stephanie covers the distance of 10 miles in 3 hours and 45
+--- 6953 40001838
+
+
+ Stephanie would have run for about 100 yards if she ran for three hours
+--- 6954 50001838
+
+
+The distance Stephanie covers is 5 miles.
+--- 6955 1839
+
+
+Answer: 5
+--- 6956 10001839
+
+
+The value of a number is such that when you multiply it by 5
+--- 6957 20001839
+
+
+81
+--- 6958 30001839
+
+
+Answer: 8
+--- 6959 40001839
+
+
+Answer: 128
+--- 6960 50001839
+
+
+Answer: 5
+--- 6961 1840
+
+
+Answer: 3
+--- 6962 10001840
+
+
+Answer: 30
+--- 6963 20001840
+
+
+Answer: 30
+--- 6964 30001840
+
+
+Answer: 3
+--- 6965 40001840
+
+
+Answer: 30
+--- 6966 50001840
+
+
+Answer: 3
+--- 6967 1841
+
+
+6
+--- 6968 10001841
+
+
+Answer: 6
+--- 6969 20001841
+
+
+Answer: 3
+--- 6970 30001841
+
+
+Answer: 6
+--- 6971 40001841
+
+
+3
+--- 6972 50001841
+
+
+3
+--- 6973 1842
+
+
+3
+--- 6974 10001842
+
+
+3
+--- 6975 20001842
+
+
+3
+--- 6976 30001842
+
+
+3
+--- 6977 40001842
+
+
+3
+--- 6978 50001842
+
+
+3
+--- 6979 1843
+
+
+3
+--- 6980 10001843
+
+
+Answer: 6
+--- 6981 20001843
+
+
+Answer: 12
+--- 6982 30001843
+
+
+3
+--- 6983 40001843
+
+
+Answer: 9
+--- 6984 50001843
+
+
+3
+--- 6985 1844
+
+
+Mark sprinted 24 miles at 6 miles per hour for a total of
+--- 6986 10001844
+
+
+Mark completed his 24 mile sprint in 4 hours and 36 minutes.
+--- 6987 20001844
+
+
+Mark's sprint lasted for 24 minutes and 41 seconds.
+--- 6988 30001844
+
+
+Mark completed the sprint in 4 hours and 36 minutes.
+--- 6989 40001844
+
+
+Mark took 6 hours to complete a sprint of 24 miles.
+--- 6990 50001844
+
+
+Mark took 24 minutes to complete the sprint.
+--- 6991 1845
+
+
+Answer: 3
+--- 6992 10001845
+
+
+The answer is 3.
+--- 6993 20001845
+
+
+Answer: 56
+--- 6994 30001845
+
+
+Answer: 56
+--- 6995 40001845
+
+
+Answer: 3
+--- 6996 50001845
+
+
+Answer: 12
+--- 6997 1846
+
+
+Answer: 2
+--- 6998 10001846
+
+
+ Joan has 8 dimes.
+--- 6999 20001846
+
+
+Answer: 2
+--- 7000 30001846
+
+
+ Joan has 8 dimes in the bank.

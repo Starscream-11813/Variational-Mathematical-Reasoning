@@ -1,0 +1,4033 @@
+--- 1001 6000118
+
+
+Answer: 16
+--- 1002 7000118
+
+
+There are a total of 18 red balloons.
+--- 1003 8000118
+
+
+Answer: 16
+--- 1004 9000118
+
+
+Answer: 16
+--- 1005 10000118
+
+
+Answer: 16
+--- 1006 11000118
+
+
+Fred has 10 red balloons, Sam has 46 red balloons, and Dan
+--- 1007 12000118
+
+
+Fred has 10 red balloons, Sam has 46 red balloons, and Dan
+--- 1008 13000118
+
+
+Fred has 10 red balloons, Sam has 46 red balloons, and Dan
+--- 1009 14000118
+
+
+Fred has 10 red balloons, Sam has 46 red balloons, and Dan
+--- 1010 15000118
+
+
+Fred has 10 balloons and Sam has 46 balloons. They have a total
+--- 1011 16000118
+
+
+Answer: 16
+--- 1012 119
+
+
+Answer: 3
+--- 1013 1000119
+
+
+Alex ends with 78 M&Ms.
+--- 1014 2000119
+
+
+Answer: 72
+--- 1015 3000119
+
+
+Answer: 18
+--- 1016 4000119
+
+
+Answer: 72
+--- 1017 5000119
+
+
+Answer: 3
+--- 1018 6000119
+
+
+Answer: 3
+--- 1019 7000119
+
+
+Answer: 16
+--- 1020 8000119
+
+
+Answer: 16
+--- 1021 9000119
+
+
+Answer: 72
+--- 1022 10000119
+
+
+Answer: 3
+--- 1023 11000119
+
+
+Answer: 16
+--- 1024 12000119
+
+
+Answer: 16
+--- 1025 13000119
+
+
+Answer: 16
+--- 1026 14000119
+
+
+Answer: 16
+--- 1027 15000119
+
+
+Evelyn has 8 Skittles left.
+--- 1028 16000119
+
+
+Answer: 3
+--- 1029 120
+
+
+The piece of wood is now 10.4 centimeters long.
+--- 1030 1000120
+
+
+The canvas is now 9.3 centimeters wide.
+--- 1031 2000120
+
+
+8.9 
+2.3
+--- 1032 3000120
+
+
+Answer: 8.9
+--- 1033 4000120
+
+
+2.3
+--- 1034 5000120
+
+
+Answer: 8.9
+--- 1035 6000120
+
+
+The length of the wood now is 10.3 centimeters.
+--- 1036 7000120
+
+
+8.9
+--- 1037 8000120
+
+
+Answer: 3
+--- 1038 9000120
+
+
+8.9 
+2.3
+--- 1039 10000120
+
+
+2.3
+--- 1040 11000120
+
+
+The piece of wood is now 10.4 centimeters long.
+--- 1041 12000120
+
+
+The piece of wood is now 10.4 centimeters long.
+--- 1042 13000120
+
+
+Answer: 3
+--- 1043 14000120
+
+
+Answer: 4
+--- 1044 15000120
+
+
+The piece of wood is now 10.6 centimeters long.
+--- 1045 16000120
+
+
+The length of the piece of wood that the carpenter bought, if
+--- 1046 121
+
+
+3
+--- 1047 1000121
+
+
+Answer: 3
+--- 1048 2000121
+
+
+3
+--- 1049 3000121
+
+
+Answer: 3
+--- 1050 4000121
+
+
+Answer: 33
+--- 1051 5000121
+
+
+13
+--- 1052 6000121
+
+
+3
+--- 1053 7000121
+
+
+3
+--- 1054 8000121
+
+
+Answer: 3
+--- 1055 9000121
+
+
+3
+--- 1056 10000121
+
+
+3
+--- 1057 11000121
+
+
+3
+--- 1058 12000121
+
+
+7
+--- 1059 13000121
+
+
+3
+--- 1060 14000121
+
+
+Answer: 3
+--- 1061 15000121
+
+
+3
+--- 1062 16000121
+
+
+3
+--- 1063 122
+
+
+Mike has 20 books and Tim has 22 books. They have a total
+--- 1064 1000122
+
+
+2
+--- 1065 2000122
+
+
+Sophie has 22 marbles. John has 20 marbles.
+--- 1066 3000122
+
+
+ Carlos has 24 CDs. Maria has 22 CDs. They have a total
+--- 1067 4000122
+
+
+Answer: 2
+--- 1068 5000122
+
+
+Ava has 36 stickers. Jack has 24 stickers. How many stickers
+--- 1069 6000122
+
+
+Answer: 22
+--- 1070 7000122
+
+
+Answer: 24
+--- 1071 8000122
+
+
+Answer: 24
+--- 1072 9000122
+
+
+Answer: 22
+--- 1073 10000122
+
+
+Answer: 22
+--- 1074 11000122
+
+
+Answer: 16
+--- 1075 12000122
+
+
+Mike has 20 books and Tim has 22 books. They would have a
+--- 1076 13000122
+
+
+Mike has 20 books and Tim has 22 books. They have a total
+--- 1077 14000122
+
+
+Mike has 20 books and Tim has 22 books. They each have $
+--- 1078 15000122
+
+
+Answer: 3
+--- 1079 16000122
+
+
+Mike has 54 books.
+--- 1080 123
+
+
+3
+--- 1081 1000123
+
+
+3
+--- 1082 2000123
+
+
+Joe has 8 marbles.
+--- 1083 3000123
+
+
+3
+--- 1084 4000123
+
+
+Max has 8 CDs in his collection. His dad gave him 9 more
+--- 1085 5000123
+
+
+3
+--- 1086 6000123
+
+
+3
+--- 1087 7000123
+
+
+Answer: 8
+--- 1088 8000123
+
+
+ Melanie has 8 dimes in her bank. If she started with 7
+--- 1089 9000123
+
+
+ Melanie has 8 dimes in her bank. If she originally had 7
+--- 1090 10000123
+
+
+3
+--- 1091 11000123
+
+
+ Melanie has 8 dimes and 10 properties in her bank. Her dad
+--- 1092 12000123
+
+
+3
+--- 1093 13000123
+
+
+3
+--- 1094 14000123
+
+
+ Melanie has 8 dimes.
+--- 1095 15000123
+
+
+3
+--- 1096 16000123
+
+
+ Melanie currently has 29 dimes in her bank after her parents gave her
+--- 1097 124
+
+
+The plane can fly for about 350 miles before it runs out of fuel
+--- 1098 1000124
+
+
+The car can continue to drive for about 350 miles.
+--- 1099 2000124
+
+
+Answer: 6.3333
+--- 1100 3000124
+
+
+The boat can sail for about 8 hours before it runs out of diesel
+--- 1101 4000124
+
+
+The lawn mower can continue to operate for an additional hour and a
+--- 1102 5000124
+
+
+The spaceship can continue to travel for about 9.5 hours.
+--- 1103 6000124
+
+
+The plane can fly for about 350 miles before it runs out of fuel
+--- 1104 7000124
+
+
+The maximum duration the plane can stay in the air is 8 hours and
+--- 1105 8000124
+
+
+The plane can continue flying for about 350 miles before it runs out of
+--- 1106 9000124
+
+
+6.3333
+--- 1107 10000124
+
+
+The maximum flying time for a plane with 6.3333 gallons of fuel
+--- 1108 11000124
+
+
+The plane can fly for about 350 miles before it runs out of fuel
+--- 1109 12000124
+
+
+The plane can fly for about 350 miles before it runs out of fuel
+--- 1110 13000124
+
+
+The plane can fly for about 350 miles before it runs out of fuel
+--- 1111 14000124
+
+
+The plane can fly for about 3 hours and 45 minutes with the remaining
+--- 1112 15000124
+
+
+The plane can fly for about 350 miles before it runs out of fuel
+--- 1113 16000124
+
+
+The fuel consumption rate of the plane in gallons per hour is 6.
+--- 1114 125
+
+
+Eve ran 0.7 of a mile and walked 0.6
+--- 1115 1000125
+
+
+John ran 0.7 of a mile and walked 0.6 of
+--- 1116 2000125
+
+
+The difference between the distance she ran and walked is 0.7 miles
+--- 1117 3000125
+
+
+Alex jogged 0.7 of a mile and walked 0.6
+--- 1118 4000125
+
+
+The difference in distance between sprinting and walking is 0.7.
+--- 1119 5000125
+
+
+Answer: 0.7
+--- 1120 6000125
+
+
+Answer: 3
+--- 1121 7000125
+
+
+The difference between the distances is 0.6 miles.
+--- 1122 8000125
+
+
+Eve ran 0.7 miles and walked 0.6 miles.
+--- 1123 9000125
+
+
+Answer: 3
+--- 1124 10000125
+
+
+The difference in the distances between running and walking is 0.7 miles
+--- 1125 11000125
+
+
+Eve ran 0.7 of a mile and walked 0.6
+--- 1126 12000125
+
+
+Answer: 0.7
+--- 1127 13000125
+
+
+Answer: 3
+--- 1128 14000125
+
+
+Eve ran 0.7 of a mile and walked 0.6
+--- 1129 15000125
+
+
+Eve ran 0.7 of a mile and walked 0.6
+--- 1130 16000125
+
+
+Eve walked 0.7 miles.
+--- 1131 126
+
+
+Answer: 3
+--- 1132 1000126
+
+
+The average speed of the bicycle was 25 mph.
+--- 1133 2000126
+
+
+The boat's average speed was 715 nautical miles per hour.
+--- 1134 3000126
+
+
+The airplane's average speed was 350 kilometers per hour.
+--- 1135 4000126
+
+
+Answer: 93.5 mph
+--- 1136 5000126
+
+
+Answer: 3.14
+--- 1137 6000126
+
+
+The average speed of a car that covered 715 kilometers in 11 hours
+--- 1138 7000126
+
+
+The car's average speed was 9.5 kilometers per hour.
+--- 1139 8000126
+
+
+The car's average speed was 25 kilometers per hour.
+--- 1140 9000126
+
+
+The car's average speed was 25 kilometers per hour.
+--- 1141 10000126
+
+
+The average speed of a car that took 11 hours to cover 715
+--- 1142 11000126
+
+
+The car's average speed was 25 kilometers per hour.
+--- 1143 12000126
+
+
+The car's average speed was 25 kilometers per hour.
+--- 1144 13000126
+
+
+Answer: 3
+--- 1145 14000126
+
+
+The car's average speed was 25 kilometers per hour.
+--- 1146 15000126
+
+
+Answer: 3
+--- 1147 16000126
+
+
+Answer: 715
+--- 1148 127
+
+
+3
+--- 1149 1000127
+
+
+3
+--- 1150 2000127
+
+
+3
+--- 1151 3000127
+
+
+3
+--- 1152 4000127
+
+
+3
+--- 1153 5000127
+
+
+There are 7 maple trees currently in the woods. Foresters will plant
+--- 1154 6000127
+
+
+The answer to the problem is 3.
+--- 1155 7000127
+
+
+There will be an answer of 3 dogwood trees in the park.
+--- 1156 8000127
+
+
+Answer: 8
+--- 1157 9000127
+
+
+3
+--- 1158 10000127
+
+
+Answer: 8
+--- 1159 11000127
+
+
+3
+--- 1160 12000127
+
+
+3
+--- 1161 13000127
+
+
+3
+--- 1162 14000127
+
+
+3
+--- 1163 15000127
+
+
+3
+--- 1164 16000127
+
+
+3
+--- 1165 128
+
+
+3
+--- 1166 1000128
+
+
+0.5
+--- 1167 2000128
+
+
+0.5
+--- 1168 3000128
+
+
+Answer: 0.5
+--- 1169 4000128
+
+
+0.5
+--- 1170 5000128
+
+
+Answer: 0.5
+--- 1171 6000128
+
+
+3
+--- 1172 7000128
+
+
+3
+--- 1173 8000128
+
+
+Answer: 3
+--- 1174 9000128
+
+
+3
+--- 1175 10000128
+
+
+3
+--- 1176 11000128
+
+
+0.5
+--- 1177 12000128
+
+
+3
+--- 1178 13000128
+
+
+0.5
+--- 1179 14000128
+
+
+3
+--- 1180 15000128
+
+
+0.5
+--- 1181 16000128
+
+
+3
+--- 1182 129
+
+
+Answer: 3
+--- 1183 1000129
+
+
+Answer: 6
+--- 1184 2000129
+
+
+3
+--- 1185 3000129
+
+
+6
+--- 1186 4000129
+
+
+3
+--- 1187 5000129
+
+
+There are 18 envelopes in each bundle. How many envelopes are
+--- 1188 6000129
+
+
+There are 18 bottle caps in total.
+--- 1189 7000129
+
+
+There are 18 bottle caps in each box.
+--- 1190 8000129
+
+
+Answer: 18
+--- 1191 9000129
+
+
+Answer: 18
+--- 1192 10000129
+
+
+Answer: 18
+--- 1193 11000129
+
+
+Answer: 3
+--- 1194 12000129
+
+
+Answer: 6
+--- 1195 13000129
+
+
+Answer: 3
+--- 1196 14000129
+
+
+3
+--- 1197 15000129
+
+
+Answer: 12
+--- 1198 16000129
+
+
+There are 24 bottle caps in each box. How many bottle caps are
+--- 1199 130
+
+
+3
+--- 1200 1000130
+
+
+3
+--- 1201 2000130
+
+
+3
+--- 1202 3000130
+
+
+3
+--- 1203 4000130
+
+
+John has 18 pens in total.
+--- 1204 5000130
+
+
+3
+--- 1205 6000130
+
+
+3
+--- 1206 7000130
+
+
+Answer: 3
+--- 1207 8000130
+
+
+Answer: 3
+--- 1208 9000130
+
+
+3
+--- 1209 10000130
+
+
+Answer: 3
+--- 1210 11000130
+
+
+3
+--- 1211 12000130
+
+
+3
+--- 1212 13000130
+
+
+3
+--- 1213 14000130
+
+
+3
+--- 1214 15000130
+
+
+3
+--- 1215 16000130
+
+
+72
+--- 1216 131
+
+
+3
+--- 1217 1000131
+
+
+Answer: 8
+--- 1218 2000131
+
+
+Answer: 8
+--- 1219 3000131
+
+
+Answer: 78
+--- 1220 4000131
+
+
+Answer: 8
+--- 1221 5000131
+
+
+There are 16 books in total.
+--- 1222 132
+
+
+3
+--- 1223 1000132
+
+
+3
+--- 1224 2000132
+
+
+Answer: 3
+--- 1225 3000132
+
+
+3
+--- 1226 4000132
+
+
+3
+--- 1227 5000132
+
+
+3
+--- 1228 6000132
+
+
+Answer: 3
+--- 1229 7000132
+
+
+Answer: 3
+--- 1230 8000132
+
+
+Answer: 3
+--- 1231 9000132
+
+
+3
+--- 1232 10000132
+
+
+Answer: 3
+--- 1233 11000132
+
+
+3
+--- 1234 12000132
+
+
+3
+--- 1235 13000132
+
+
+3
+--- 1236 14000132
+
+
+3
+--- 1237 15000132
+
+
+3
+--- 1238 16000132
+
+
+Answer: 3
+--- 1239 133
+
+
+3
+--- 1240 1000133
+
+
+Answer: 38
+--- 1241 2000133
+
+
+3
+--- 1242 3000133
+
+
+Answer: 38
+--- 1243 4000133
+
+
+Answer: 18
+--- 1244 5000133
+
+
+Answer: 38
+--- 1245 134
+
+
+3
+--- 1246 1000134
+
+
+3
+--- 1247 2000134
+
+
+David ran 8 miles.
+--- 1248 3000134
+
+
+3
+--- 1249 4000134
+
+
+Jason hikes 5 miles. Ethan hikes twice as many miles as Jason.
+--- 1250 5000134
+
+
+Alex swam 9 laps.
+--- 1251 6000134
+
+
+ Melanie caught 2 times as many trout as Sara when they go fishing together
+--- 1252 7000134
+
+
+3
+--- 1253 8000134
+
+
+ Melanie caught 
+5 trout
+--- 1254 9000134
+
+
+ Melanie caught 
+5 trout
+--- 1255 10000134
+
+
+3
+--- 1256 11000134
+
+
+3
+--- 1257 12000134
+
+
+3
+--- 1258 13000134
+
+
+3
+--- 1259 14000134
+
+
+3
+--- 1260 15000134
+
+
+3
+--- 1261 16000134
+
+
+3
+--- 1262 135
+
+
+Answer: 8
+--- 1263 1000135
+
+
+ Dylan has 8 marbles left.
+--- 1264 2000135
+
+
+Cade has 87 marbles. He has 8 left.
+--- 1265 3000135
+
+
+Answer: 8
+--- 1266 4000135
+
+
+8
+--- 1267 5000135
+
+
+3
+--- 1268 136
+
+
+The total weight of the plastic rings was 0.4166666666666667
+--- 1269 1000136
+
+
+0.08333333333333333 ounce
+--- 1270 2000136
+
+
+Answer: 0.08333333333333333
+--- 1271 3000136
+
+
+The total weight of the rings was 0.4166666666666667 ounce
+--- 1272 4000136
+
+
+Answer: 0.08333333333333333
+--- 1273 5000136
+
+
+The total weight of the plastic rings was 0.8333333333333
+--- 1274 137
+
+
+3
+--- 1275 1000137
+
+
+3
+--- 1276 2000137
+
+
+Each person would get 3 wings.
+--- 1277 3000137
+
+
+3
+--- 1278 4000137
+
+
+3
+--- 1279 5000137
+
+
+3
+--- 1280 138
+
+
+Answer: 20
+--- 1281 1000138
+
+
+ Lucy should buy 
+280 fish if she already has 212 fish.
+--- 1282 2000138
+
+
+ Lucy needs to purchase 248 fish to own 280 fish.
+--- 1283 3000138
+
+
+Answer: 3
+--- 1284 4000138
+
+
+ Lucy should purchase 
+
+2
+--- 1285 5000138
+
+
+Answer: 20
+--- 1286 139
+
+
+Answer: 7
+--- 1287 1000139
+
+
+Answer: 18
+--- 1288 2000139
+
+
+Answer: 7
+--- 1289 3000139
+
+
+Answer: 3
+--- 1290 4000139
+
+
+Answer: 18
+--- 1291 5000139
+
+
+Answer: 27
+--- 1292 140
+
+
+8.2
+--- 1293 1000140
+
+
+8.2
+--- 1294 2000140
+
+
+8.2
+--- 1295 3000140
+
+
+The total hiking distance is 10.0 miles.
+--- 1296 4000140
+
+
+The total distance Terrell hiked on day two is 11.4
+--- 1297 5000140
+
+
+Terrell's total hiking distance is 10.0 miles.
+--- 1298 141
+
+
+Answer: 10
+--- 1299 1000141
+
+
+There are 30 games in a season.
+--- 1300 2000141
+
+
+There are 30 games in a season.
+--- 1301 3000141
+
+
+There are 10 games in a season.
+--- 1302 4000141
+
+
+There are 10 games in a season.
+--- 1303 5000141
+
+
+There are 10 games played in a season.
+--- 1304 6000141
+
+
+There are 16 games played in a season.
+--- 1305 7000141
+
+
+There are a total of 10 games in the Cook County regional football league
+--- 1306 8000141
+
+
+There are 10 games in total.
+--- 1307 9000141
+
+
+There are 10 teams in the Cook County regional football league. Each team
+--- 1308 10000141
+
+
+8
+--- 1309 11000141
+
+
+There are 10 games played in a season.
+--- 1310 12000141
+
+
+Answer: 10
+--- 1311 13000141
+
+
+There are 10 games played in a season.
+--- 1312 14000141
+
+
+There are 10 games in a season.
+--- 1313 15000141
+
+
+There are 10 games played in a season.
+--- 1314 16000141
+
+
+There are 10 teams in the Cook County regional football league. Each team
+--- 1315 142
+
+
+Answer: 3
+--- 1316 1000142
+
+
+Larry has 36 cards left.
+--- 1317 2000142
+
+
+Larry has 8 cards if he starts with 91.
+--- 1318 3000142
+
+
+Answer: 3
+--- 1319 4000142
+
+
+Larry has 8 left after eating 17 cards.
+--- 1320 5000142
+
+
+Answer: 3
+--- 1321 143
+
+
+$ 136.01
+--- 1322 1000143
+
+
+$136.01
+--- 1323 2000143
+
+
+$136.01
+--- 1324 3000143
+
+
+$136.01
+--- 1325 4000143
+
+
+$136.01
+--- 1326 5000143
+
+
+$136.01
+--- 1327 6000143
+
+
+Keith spent $136.01 on speakers, $139.38 on
+--- 1328 7000143
+
+
+ Keith spent $236.01 on speakers, $239.38 on
+--- 1329 8000143
+
+
+The total amount spent by Keith was $236.
+--- 1330 9000143
+
+
+Keith spent $236.06 on speakers, $239.38 on
+--- 1331 10000143
+
+
+The total amount spent by Keith was $236.
+--- 1332 11000143
+
+
+$136.01
+--- 1333 12000143
+
+
+$136.01
+--- 1334 13000143
+
+
+Sixty-six
+--- 1335 14000143
+
+
+$136.01
+--- 1336 15000143
+
+
+ Keith spent $387.85 on speakers.
+--- 1337 16000143
+
+
+ Keith spent $387.85 on speakers.
+--- 1338 144
+
+
+Answer: 3
+--- 1339 1000144
+
+
+Answer: 16
+--- 1340 2000144
+
+
+Answer: 3
+--- 1341 3000144
+
+
+Answer: 3
+--- 1342 4000144
+
+
+Answer: 3
+--- 1343 5000144
+
+
+Answer: 3
+--- 1344 145
+
+
+Answer: 4
+--- 1345 1000145
+
+
+The total cost of the tickets is $128.00.
+--- 1346 2000145
+
+
+The total cost of the tickets is $128.
+--- 1347 3000145
+
+
+The total cost of buying four tickets at $9.00 per ticket
+--- 1348 4000145
+
+
+Answer: $128.00
+--- 1349 5000145
+
+
+$14.00
+--- 1350 146
+
+
+The percentage change in the number of voters for the election for president in
+--- 1351 1000146
+
+
+Answer: 76.7
+--- 1352 2000146
+
+
+Answer: 76.7
+--- 1353 3000146
+
+
+Answer: 76.7
+--- 1354 4000146
+
+
+Answer: 76.7
+--- 1355 5000146
+
+
+The percentage change in the number of members is 0.5.
+--- 1356 6000146
+
+
+The percentage change in the number of voters was 3.8%.
+--- 1357 7000146
+
+
+The percentage change in the number of voters was 2.3%.
+--- 1358 8000146
+
+
+The percentage change in the number of voters was -0.8%.
+--- 1359 9000146
+
+
+Answer: 20.5
+--- 1360 10000146
+
+
+Answer: 20.5%
+--- 1361 11000146
+
+
+Answer: 128.5
+--- 1362 12000146
+
+
+Answer: 128.3
+--- 1363 13000146
+
+
+The number of voters in one year was 76.7 million, but
+--- 1364 14000146
+
+
+Answer: 128
+--- 1365 15000146
+
+
+Answer: 78
+--- 1366 16000146
+
+
+There were 101.8 million voters in the second year.
+--- 1367 147
+
+
+Answer: 2778
+--- 1368 1000147
+
+
+2,778
+--- 1369 2000147
+
+
+The value of x is 8.
+--- 1370 3000147
+
+
+79
+--- 1371 4000147
+
+
+Carla had 8 marbles when she started her collection. She increased
+--- 1372 5000147
+
+
+Carla began with 489 marbles.
+--- 1373 148
+
+
+Answer: 3
+--- 1374 1000148
+
+
+Answer: 3
+--- 1375 2000148
+
+
+Answer: 3
+--- 1376 3000148
+
+
+Answer: 3
+--- 1377 4000148
+
+
+Answer: 3
+--- 1378 5000148
+
+
+Answer: 36
+--- 1379 149
+
+
+Answer: 16
+--- 1380 1000149
+
+
+Answer: 16
+--- 1381 2000149
+
+
+Answer: 16
+--- 1382 3000149
+
+
+Answer: 16
+--- 1383 4000149
+
+
+Answer: 16
+--- 1384 5000149
+
+
+Answer: 16
+--- 1385 150
+
+
+The total length of the pole in feet is 12.7
+--- 1386 1000150
+
+
+The tree is 8 feet long.
+--- 1387 2000150
+
+
+The total length of the telephone pole in feet is 116.6.
+--- 1388 3000150
+
+
+The total length of the flagpole in feet is 116.6
+--- 1389 4000150
+
+
+The total length of the flagpole in feet is 116.6
+--- 1390 5000150
+
+
+The total length of the lamp post in feet is 10.33
+--- 1391 6000150
+
+
+The total length of the pole in feet is 120.
+--- 1392 7000150
+
+
+The total length of the pole in feet is 120.
+--- 1393 8000150
+
+
+The total length of the pole in feet is 120.
+--- 1394 9000150
+
+
+The total length of the pole in feet is 120.
+--- 1395 10000150
+
+
+The total length of the pole in feet is 12.7
+--- 1396 11000150
+
+
+The total length of the pole in feet is 128.
+--- 1397 12000150
+
+
+The total length of the pole in feet is 8.33
+--- 1398 13000150
+
+
+The total length of the pole in feet is 8.33
+--- 1399 14000150
+
+
+The total length of the pole in feet is 8.33
+--- 1400 15000150
+
+
+The total length of the pole in feet is 10.
+--- 1401 16000150
+
+
+0.5
+--- 1402 151
+
+
+The shortest player on the basketball team is 6'1''.
+--- 1403 1000151
+
+
+The height of the shortest player, in inches, is 9.5
+--- 1404 2000151
+
+
+The height of the shortest player in inches is 3.5 inches.
+--- 1405 3000151
+
+
+The height of the shortest player in inches is 3.5
+--- 1406 4000151
+
+
+The height of the shortest player on the team is 3.5 inches
+--- 1407 5000151
+
+
+The shortest player in inches is 9.5 inches.
+--- 1408 152
+
+
+Answer: 3
+--- 1409 1000152
+
+
+The planes will cross 780 kilometers apart if the cities are 780 kilometers apart
+--- 1410 2000152
+
+
+The planes will meet in 4 hours and 30 minutes.
+--- 1411 3000152
+
+
+The two airplanes met at about <number> kilometers per hour.
+--- 1412 4000152
+
+
+Answer: 190 kilometers per hour
+--- 1413 5000152
+
+
+The planes met each other after an hour and a half.
+--- 1414 153
+
+
+3
+--- 1415 1000153
+
+
+3
+--- 1416 2000153
+
+
+3
+--- 1417 3000153
+
+
+3
+--- 1418 4000153
+
+
+3
+--- 1419 5000153
+
+
+3
+--- 1420 154
+
+
+3
+--- 1421 1000154
+
+
+Each family member gets 3 cookies.
+--- 1422 2000154
+
+
+Each person got 3 cookies.
+--- 1423 3000154
+
+
+Each person received 3 cookies.
+--- 1424 4000154
+
+
+Brenda's mother would have received 3 cookies.
+--- 1425 5000154
+
+
+Each person got 3 cookies.
+--- 1426 155
+
+
+Answer: 12
+--- 1427 1000155
+
+
+Answer: 45
+--- 1428 2000155
+
+
+Answer: 45
+--- 1429 3000155
+
+
+Answer: 36
+--- 1430 4000155
+
+
+There are 36 candy bars that contain 60 calories each.
+--- 1431 5000155
+
+
+Answer: 45
+--- 1432 156
+
+
+36
+--- 1433 1000156
+
+
+Answer: $36
+--- 1434 2000156
+
+
+Answer: $0.18
+--- 1435 3000156
+
+
+Answer: $2.06
+--- 1436 4000156
+
+
+It would cost $0.36 to purchase 136 bubble gum pieces.
+--- 1437 5000156
+
+
+Answer: $36
+--- 1438 157
+
+
+Answer: 36
+--- 1439 1000157
+
+
+Answer: 36
+--- 1440 2000157
+
+
+Answer: 28
+--- 1441 3000157
+
+
+Answer: 36
+--- 1442 4000157
+
+
+Answer: 3
+--- 1443 5000157
+
+
+The sum of 28 strawberries and 35 strawberries is 128.
+--- 1444 158
+
+
+Answer: 10
+--- 1445 1000158
+
+
+Answer: 10
+--- 1446 2000158
+
+
+Answer: 36
+--- 1447 3000158
+
+
+Answer: 3
+--- 1448 4000158
+
+
+Answer: 10
+--- 1449 5000158
+
+
+Answer: 10
+--- 1450 159
+
+
+3
+--- 1451 1000159
+
+
+The total price for 15 individuals, consisting of 9 kids and some adults
+--- 1452 2000159
+
+
+The total cost for the group's meals would be $14.
+--- 1453 3000159
+
+
+15
+--- 1454 4000159
+
+
+3
+--- 1455 5000159
+
+
+15 people would have a meal for $8.
+--- 1456 160
+
+
+3
+--- 1457 1000160
+
+
+1
+--- 1458 2000160
+
+
+3
+--- 1459 3000160
+
+
+3
+--- 1460 4000160
+
+
+3
+--- 1461 5000160
+
+
+1
+2
+3
+4
+5
+6
+--- 1462 161
+
+
+Answer: 20
+--- 1463 1000161
+
+
+Answer: 20
+--- 1464 2000161
+
+
+ 20 = 5
+--- 1465 3000161
+
+
+Answer: 20
+--- 1466 4000161
+
+
+x = 5 + x
+
+x = 20
+--- 1467 5000161
+
+
+2
+--- 1468 162
+
+
+Sam has 54 nickels and 18 dimes in his bank.
+--- 1469 1000162
+
+
+3
+--- 1470 2000162
+
+
+Answer: 38
+--- 1471 3000162
+
+
+Solve the given Math Word Problem:
+
+Answer: Sam would
+--- 1472 4000162
+
+
+Answer: 83
+--- 1473 5000162
+
+
+Answer: 3
+--- 1474 163
+
+
+Answer: 8 hours
+--- 1475 1000163
+
+
+3
+--- 1476 2000163
+
+
+It will take the painter an additional <number> hours to finish painting
+--- 1477 3000163
+
+
+3
+--- 1478 4000163
+
+
+Answer: 8 hours
+--- 1479 5000163
+
+
+Answer: 12
+--- 1480 164
+
+
+7
+--- 1481 1000164
+
+
+Answer: 3
+--- 1482 2000164
+
+
+7
+--- 1483 3000164
+
+
+3
+--- 1484 4000164
+
+
+7
+--- 1485 5000164
+
+
+7
+--- 1486 165
+
+
+0.08333333333333333
+--- 1487 1000165
+
+
+0.08333333333333333
+--- 1488 2000165
+
+
+Answer: 3
+--- 1489 3000165
+
+
+0.08333333333333333
+--- 1490 4000165
+
+
+There are 3 tarts in total.
+--- 1491 5000165
+
+
+3
+--- 1492 166
+
+
+Answer: 3
+--- 1493 1000166
+
+
+Answer: 6
+--- 1494 2000166
+
+
+Answer: 6
+--- 1495 3000166
+
+
+Answer: 6
+--- 1496 4000166
+
+
+Answer: 6
+--- 1497 5000166
+
+
+Answer: 6
+--- 1498 167
+
+
+Answer: 18
+--- 1499 1000167
+
+
+Answer: 16
+--- 1500 2000167
+
+
+Answer: 3
+--- 1501 3000167
+
+
+Answer: 36
+--- 1502 4000167
+
+
+You would have consumed 18 calories if you had eaten 3 candy bars.
+--- 1503 5000167
+
+
+Answer: 36
+--- 1504 168
+
+
+Answer: 10
+--- 1505 1000168
+
+
+Answer: 18
+--- 1506 2000168
+
+
+Answer: 9
+--- 1507 3000168
+
+
+Answer: 9
+--- 1508 4000168
+
+
+Answer: 9
+--- 1509 5000168
+
+
+3
+--- 1510 169
+
+
+3
+--- 1511 1000169
+
+
+3
+--- 1512 2000169
+
+
+3
+--- 1513 3000169
+
+
+3
+--- 1514 4000169
+
+
+3
+--- 1515 5000169
+
+
+3
+--- 1516 170
+
+
+Answer: 16
+--- 1517 1000170
+
+
+ Maria has now purchased 
+
+8 
+45
+--- 1518 2000170
+
+
+ Maria has 3 bottles of water in her fridge. She has 8 bottles
+--- 1519 3000170
+
+
+Answer: 78
+--- 1520 4000170
+
+
+Answer: 45
+--- 1521 5000170
+
+
+Answer: 45
+--- 1522 171
+
+
+It will take the family 0.75 hour to catch up with the
+--- 1523 1000171
+
+
+The family would take about 8 hours to catch up with the van.
+--- 1524 2000171
+
+
+It will take the family about 0.75 hour to catch up with
+--- 1525 3000171
+
+
+The family would take approximately 8 hours to catch up to the moving van
+--- 1526 4000171
+
+
+The family will catch up with the van along the same route, given
+--- 1527 5000171
+
+
+The family would take about 8 hours to catch up with the van.
+--- 1528 172
+
+
+Answer: 3
+--- 1529 1000172
+
+
+There are 83.3 ounces in every cup.
+--- 1530 2000172
+
+
+The answer is 128.
+--- 1531 3000172
+
+
+The total number of ounces when there are 33 cups, with each cup
+--- 1532 4000172
+
+
+There are 24 cups in a pack of 33 cups.
+--- 1533 5000172
+
+
+There are 33 cups each containing 8 ounces. The total amount of ounces
+--- 1534 173
+
+
+Answer: 3
+--- 1535 1000173
+
+
+ Katie and her sister have 8 pieces of candy. If they eat 8
+--- 1536 2000173
+
+
+Answer: 16
+--- 1537 3000173
+
+
+ Katie has 8 pieces of candy left to share.
+--- 1538 4000173
+
+
+ Katie and her sister each had 8 pieces of candy. Their stash would
+--- 1539 5000173
+
+
+ Katie could have 8 more pieces of candy if she ate 8 more pieces
+--- 1540 174
+
+
+Answer: 0.16
+--- 1541 1000174
+
+
+Answer: 0.16
+--- 1542 2000174
+
+
+Answer: 3
+--- 1543 3000174
+
+
+Answer: 0.16
+--- 1544 4000174
+
+
+Answer: 3
+--- 1545 5000174
+
+
+Answer: 0.16
+--- 1546 175
+
+
+The monthly costs of the plans are equal if the person uses 500 minutes
+--- 1547 1000175
+
+
+Answer: 1
+--- 1548 2000175
+
+
+Answer: 1
+--- 1549 3000175
+
+
+Plan A: $50
+Plan B: $75
+--- 1550 4000175
+
+
+Plan A requires a $50 monthly fee for 500 minutes plus 0.
+--- 1551 5000175
+
+
+Answer: $75
+--- 1552 176
+
+
+Answer: 0.1
+--- 1553 1000176
+
+
+The car traveled 8 miles from Town A to Town B and 0.
+--- 1554 2000176
+
+
+The airplane traveled 0.5 kilometers from City A to City B and
+--- 1555 3000176
+
+
+The boat traveled 0.5 nautical miles from Port A to Port
+--- 1556 4000176
+
+
+Answer: 0.1
+--- 1557 5000176
+
+
+3
+--- 1558 6000176
+
+
+Answer: 0.5
+--- 1559 7000176
+
+
+Answer: 3
+--- 1560 8000176
+
+
+The spaceship has traveled 0.5 light-years from Earth to Planet
+--- 1561 9000176
+
+
+Answer: 0.5
+--- 1562 10000176
+
+
+The total distance traveled by a spaceship is to be calculated. It traveled
+--- 1563 11000176
+
+
+Answer: 0.1
+--- 1564 12000176
+
+
+Answer: 10
+--- 1565 13000176
+
+
+5
+--- 1566 14000176
+
+
+Answer: 0.1
+--- 1567 15000176
+
+
+Answer: 3
+--- 1568 16000176
+
+
+Answer: 0.1
+--- 1569 177
+
+
+Martin has 8 boxes of crayons. Each box holds 7 cr
+--- 1570 1000177
+
+
+Martin has 16 crayons.
+--- 1571 2000177
+
+
+Answer: 8
+--- 1572 3000177
+
+
+Answer: 8
+--- 1573 4000177
+
+
+Martin has 18 crayons.
+--- 1574 5000177
+
+
+8
+--- 1575 178
+
+
+Anne walked for 3 hours at 2 miles per hour. She traveled a
+--- 1576 1000178
+
+
+Answer: 3
+--- 1577 2000178
+
+
+Anne walked 3 hours and 45 minutes.
+--- 1578 3000178
+
+
+Anne has covered the distance of 8.6 miles in 3 hours.
+--- 1579 4000178
+
+
+Anne covered a distance of 3.14 miles when she traveled at a
+--- 1580 5000178
+
+
+Anne covered 2 miles in 3 hours.
+--- 1581 179
+
+
+Answer: 7
+--- 1582 1000179
+
+
+The Richmond Tigers sold 3100 tickets in the first half and 9600
+--- 1583 2000179
+
+
+Answer: 3867
+--- 1584 3000179
+
+
+The number of tickets sold in the second half was 3100.
+--- 1585 4000179
+
+
+Answer: 3
+--- 1586 5000179
+
+
+Answer: 78
+--- 1587 180
+
+
+Billy used 45 tickets to ride the ferris wheel 7 times and the
+--- 1588 1000180
+
+
+Billy used 18 tickets at the town carnival.
+--- 1589 2000180
+
+
+Answer: 20
+--- 1590 3000180
+
+
+Billy took 45 tickets on his 5 rides.
+--- 1591 4000180
+
+
+Billy spent 45.00 on tickets for the carnival rides.
+--- 1592 5000180
+
+
+Billy used 21 tickets on the ferris wheel and bumper cars.
+--- 1593 181
+
+
+Answer: 3
+--- 1594 1000181
+
+
+Answer: 3
+--- 1595 2000181
+
+
+ Joan has 3 seashells left.
+--- 1596 3000181
+
+
+Answer: 63
+--- 1597 4000181
+
+
+Answer: 79
+--- 1598 5000181
+
+
+ Joan has 3 seashells at this point.
+--- 1599 182
+
+
+Answer: 3
+--- 1600 1000182
+
+
+Answer: 3
+--- 1601 2000182
+
+
+Answer: 3
+--- 1602 3000182
+
+
+Answer: 3
+--- 1603 4000182
+
+
+Answer: 3
+--- 1604 5000182
+
+
+Answer: 3
+--- 1605 183
+
+
+Answer: $5
+--- 1606 1000183
+
+
+Answer: $5
+--- 1607 2000183
+
+
+3
+--- 1608 3000183
+
+
+Mike could collect $240.
+--- 1609 4000183
+
+
+Mike could receive $60 in cash if he decided to sell his functional
+--- 1610 5000183
+
+
+Answer: $5
+--- 1611 184
+
+
+Answer: 45
+--- 1612 1000184
+
+
+Answer: 8
+--- 1613 2000184
+
+
+Answer: 8 + 5 = 15
+--- 1614 3000184
+
+
+Answer: 45
+--- 1615 4000184
+
+
+Answer: 16
+--- 1616 5000184
+
+
+Answer: 45
+--- 1617 185
+
+
+3
+
+Jesse gets 3 bananas.
+--- 1618 1000185
+
+
+3 friends share 21 bananas, so each friend will receive 3 bananas.
+--- 1619 2000185
+
+
+Jesse's 3 friends will receive 3 bananas each if Jesse gives them
+--- 1620 3000185
+
+
+Each friend gets 3 bananas.
+--- 1621 4000185
+
+
+3
+--- 1622 5000185
+
+
+3
+--- 1623 186
+
+
+ Craig walked 0.2 of a mile from school to David 's
+--- 1624 1000186
+
+
+ Craig walked 3.6 miles.
+--- 1625 2000186
+
+
+ Craig walked 0.7 miles to reach his own house.
+--- 1626 3000186
+
+
+ Craig walked 0.7 mile to reach his home.
+--- 1627 4000186
+
+
+ Craig walked 0.7 miles from his house to David's house.
+--- 1628 5000186
+
+
+ Craig's distance from David's house is 0.2 miles and 0
+--- 1629 187
+
+
+Answer: 20
+--- 1630 1000187
+
+
+Answer: 4 minutes
+--- 1631 2000187
+
+
+Answer: 4
+--- 1632 3000187
+
+
+3
+--- 1633 4000187
+
+
+Answer: 45
+--- 1634 5000187
+
+
+Answer: 45
+--- 1635 188
+
+
+Mike spent $ 16.06 at the music store.
+--- 1636 1000188
+
+
+John spent $146.
+--- 1637 2000188
+
+
+Answer: $146.
+--- 1638 3000188
+
+
+Tom spent $27.06 at the kitchen supply store.
+--- 1639 4000188
+
+
+3
+--- 1640 5000188
+
+
+Alex spent $146.
+--- 1641 6000188
+
+
+$145.16
+--- 1642 7000188
+
+
+The total amount spent by Mike was $146.
+--- 1643 8000188
+
+
+$145.16
+--- 1644 9000188
+
+
+$145.16
+--- 1645 10000188
+
+
+Mike spent $269.16 at the music store.
+--- 1646 11000188
+
+
+3
+--- 1647 12000188
+
+
+Mike spent $ 16.06 at the music store.
+--- 1648 13000188
+
+
+Mike spent $ 16.06 at the music store.
+--- 1649 14000188
+
+
+3
+--- 1650 15000188
+
+
+Mike spent $ 54.06 at the music store.
+--- 1651 16000188
+
+
+3
+--- 1652 189
+
+
+Answer: 2
+--- 1653 1000189
+
+
+Answer: 6
+--- 1654 2000189
+
+
+Answer: 3
+--- 1655 3000189
+
+
+2
+--- 1656 4000189
+
+
+3
+--- 1657 5000189
+
+
+Dan kept 8 seashells.
+--- 1658 190
+
+
+Answer: 128
+--- 1659 1000190
+
+
+Answer: 9
+--- 1660 2000190
+
+
+Answer: 24
+--- 1661 3000190
+
+
+Answer: 16
+--- 1662 4000190
+
+
+Answer: 9
+--- 1663 5000190
+
+
+Answer: 3
+--- 1664 191
+
+
+ Teresa jogged 25 kilometers at 5 kilometers per hour for an hour and
+--- 1665 1000191
+
+
+Answer: 20
+--- 1666 2000191
+
+
+ Teresa covered a total of 25 kilometers when she jogged for 5 hours
+--- 1667 3000191
+
+
+ Teresa took 5 hours to jog 25 kilometers.
+--- 1668 4000191
+
+
+ Maria would take approximately 25 minutes to cover 25 kilometers at a constant pace
+--- 1669 5000191
+
+
+John took 8 hours and 45 minutes to cover the 25 kilometers.
+--- 1670 192
+
+
+Answer: 12
+--- 1671 1000192
+
+
+Answer: 3
+--- 1672 2000192
+
+
+Answer: 18
+--- 1673 3000192
+
+
+Answer: 3
+--- 1674 4000192
+
+
+Answer: 3
+--- 1675 5000192
+
+
+ Megan needs to collect an additional 5 seashells to have a total
+--- 1676 193
+
+
+The campground was about 10 miles from Sue's home.
+--- 1677 1000193
+
+
+Answer: 10
+--- 1678 2000193
+
+
+Answer: 16
+--- 1679 3000193
+
+
+The distance between Sue's home and the campground where she and her
+--- 1680 4000193
+
+
+The distance between Sue's home and the campground was 10 miles.
+--- 1681 5000193
+
+
+The distance between Sue's home and the campground would be about <
+--- 1682 194
+
+
+3
+--- 1683 1000194
+
+
+3
+--- 1684 2000194
+
+
+Answer: 3
+--- 1685 3000194
+
+
+ Joan has 12 orange balloons.
+--- 1686 4000194
+
+
+Answer: 3
+--- 1687 5000194
+
+
+Answer: 3
+--- 1688 195
+
+
+ Heather walked 0.3333333333333333 mile from the car to the
+--- 1689 1000195
+
+
+0.3333333333333333
+--- 1690 2000195
+
+
+ Heather walked 0.8333333333333333 miles from her car to
+--- 1691 3000195
+
+
+ Heather walked 0.8333333333333333 miles from the car to
+--- 1692 4000195
+
+
+ Heather walked 0.3333333333333333 miles to reach the county fair
+--- 1693 5000195
+
+
+Answer: 0.8
+--- 1694 196
+
+
+Answer: 3
+--- 1695 1000196
+
+
+Answer: 3
+--- 1696 2000196
+
+
+2
+--- 1697 3000196
+
+
+3
+--- 1698 4000196
+
+
+3
+--- 1699 5000196
+
+
+3
+--- 1700 197
+
+
+9 groups
+--- 1701 1000197
+
+
+Answer: 3
+--- 1702 2000197
+
+
+There are 36 groups of students in a debate team.
+--- 1703 3000197
+
+
+9 groups
+--- 1704 4000197
+
+
+There are 45 students in a school debate club. In how many ways
+--- 1705 5000197
+
+
+There is no maximum possible number of groups that can be formed if each
+--- 1706 198
+
+
+Answer: 9
+--- 1707 1000198
+
+
+Answer: 3
+--- 1708 2000198
+
+
+Answer: 16
+--- 1709 3000198
+
+
+Answer: 16
+--- 1710 4000198
+
+
+Answer: 9
+--- 1711 5000198
+
+
+Answer: 3
+--- 1712 199
+
+
+Answer: 18
+--- 1713 1000199
+
+
+Answer: 18
+--- 1714 2000199
+
+
+Answer: 36
+--- 1715 3000199
+
+
+Answer: 16
+--- 1716 4000199
+
+
+Answer: 3
+--- 1717 5000199
+
+
+Answer: 36
+--- 1718 200
+
+
+3
+--- 1719 1000200
+
+
+Answer: 30
+--- 1720 2000200
+
+
+Answer: 3
+--- 1721 3000200
+
+
+Answer: 3
+--- 1722 4000200
+
+
+3
+--- 1723 5000200
+
+
+Answer: 3
+--- 1724 201
+
+
+3
+--- 1725 1000201
+
+
+Answer: 3
+--- 1726 2000201
+
+
+3
+--- 1727 3000201
+
+
+2
+
+3
+--- 1728 4000201
+
+
+ Joan has 18 yellow marbles, while Mary has 36 yellow marbles
+--- 1729 5000201
+
+
+3
+--- 1730 202
+
+
+Answer: 3
+--- 1731 1000202
+
+
+Answer: 0.36
+--- 1732 2000202
+
+
+Answer: 0.36
+--- 1733 3000202
+
+
+Answer: 0.36
+--- 1734 4000202
+
+
+Answer: 0.36
+--- 1735 5000202
+
+
+Answer: 0.36
+--- 1736 203
+
+
+Answer: 3
+--- 1737 1000203
+
+
+Answer: 3
+--- 1738 2000203
+
+
+Answer: 3
+--- 1739 3000203
+
+
+Answer: 3
+--- 1740 4000203
+
+
+Answer: 3
+--- 1741 5000203
+
+
+Answer: 34
+--- 1742 204
+
+
+The scientists lose radio contact after travelling for 
+
+30 miles per
+--- 1743 1000204
+
+
+Answer: 2
+--- 1744 2000204
+
+
+The first team's radios lose connectivity at about <number> miles,
+--- 1745 3000204
+
+
+The 1st team's duration is 2 hours and 43 minutes.
+--- 1746 4000204
+
+
+The scientists would lose contact with each other within a distance range of 125
+--- 1747 5000204
+
+
+The first team loses radio connection within 125 miles.
+--- 1748 205
+
+
+3
+--- 1749 1000205
+
+
+Answer: 8.58
+--- 1750 2000205
+
+
+8.58 x 35.68 = 
+
+87.68
+--- 1751 3000205
+
+
+35.68
+--- 1752 4000205
+
+
+Answer: Rita bought 36.24 pounds of coffee.
+--- 1753 5000205
+
+
+Answer: 35.68
+--- 1754 206
+
+
+3
+--- 1755 1000206
+
+
+Answer: 3
+--- 1756 2000206
+
+
+3
+--- 1757 3000206
+
+
+Answer: 3
+--- 1758 4000206
+
+
+Answer: 3
+--- 1759 5000206
+
+
+3
+--- 1760 207
+
+
+There are 18 pencils and 6 rulers in the drawer. Sally took
+--- 1761 1000207
+
+
+3
+--- 1762 2000207
+
+
+Answer: 8
+--- 1763 3000207
+
+
+3
+--- 1764 4000207
+
+
+3
+--- 1765 5000207
+
+
+Answer: 3
+--- 1766 208
+
+
+ Benny spent 79 dollars on his birthday. He had a total of $
+--- 1767 1000208
+
+
+Answer: $32
+--- 1768 2000208
+
+
+32
+--- 1769 3000208
+
+
+Answer: 3
+--- 1770 4000208
+
+
+Answer: Benny expended 9.36 dollars on baseball gear.
+--- 1771 5000208
+
+
+Answer: 32
+--- 1772 209
+
+
+Fred has 8 baseball cards.
+--- 1773 1000209
+
+
+Answer: 3
+--- 1774 2000209
+
+
+Answer: 3
+--- 1775 3000209
+
+
+3
+--- 1776 4000209
+
+
+3
+--- 1777 5000209
+
+
+Answer: 3
+--- 1778 210
+
+
+Answer: 6444
+--- 1779 1000210
+
+
+Answer: 1346
+--- 1780 2000210
+
+
+Answer: 16
+--- 1781 3000210
+
+
+The total number of ear muffs sold in December is 6444.
+--- 1782 4000210
+
+
+Answer: 1346
+--- 1783 5000210
+
+
+They purchased 8 sets of ear muffs in total and left 6 sets
+--- 1784 211
+
+
+Answer: 3
+--- 1785 1000211
+
+
+3
+--- 1786 2000211
+
+
+Answer: 1250
+--- 1787 3000211
+
+
+Answer: 10
+--- 1788 4000211
+
+
+Answer: 1250
+--- 1789 5000211
+
+
+Answer: 1400
+--- 1790 212
+
+
+Answer: 30
+--- 1791 1000212
+
+
+Answer: 30
+--- 1792 2000212
+
+
+Answer: 30
+--- 1793 3000212
+
+
+Answer: 3
+--- 1794 4000212
+
+
+Answer: 42
+--- 1795 5000212
+
+
+Answer: 30
+--- 1796 213
+
+
+Answer: 8
+--- 1797 1000213
+
+
+Andrew has 12 eggs in total.
+--- 1798 2000213
+
+
+Answer: 12
+--- 1799 3000213
+
+
+Answer: 62
+--- 1800 4000213
+
+
+Answer: 8
+--- 1801 5000213
+
+
+Answer: 128
+--- 1802 214
+
+
+3
+--- 1803 1000214
+
+
+3
+--- 1804 2000214
+
+
+3
+--- 1805 3000214
+
+
+Answer: 8
+--- 1806 4000214
+
+
+3 pages
+--- 1807 5000214
+
+
+3
+--- 1808 215
+
+
+It would take around 8 gallons of gas to get to Grandma's
+--- 1809 1000215
+
+
+The car requires 3 gallons of gasoline to travel 100 miles.
+--- 1810 2000215
+
+
+Answer: 8
+--- 1811 3000215
+
+
+3
+--- 1812 4000215
+
+
+Answer: 10
+--- 1813 5000215
+
+
+You would need to use around 38 gallons of fuel to drive to Grand
+--- 1814 216
+
+
+1500
+--- 1815 1000216
+
+
+3
+--- 1816 2000216
+
+
+The total monthly income that Jordan earns for making sales each month is $
+--- 1817 3000216
+
+
+Jordan must make 1500 dollars a month in sales in order to earn a
+--- 1818 4000216
+
+
+Answer: 3
+--- 1819 5000216
+
+
+The minimum commission rate that Jordan must receive on sales in addition to his
+--- 1820 217
+
+
+The job will take 8 hours.
+--- 1821 1000217
+
+
+The cost of building a patio cover is estimated to be 1,080
+--- 1822 2000217
+
+
+It will take about 2 hours to complete the task.
+--- 1823 3000217
+
+
+Answer: 8 hours
+--- 1824 4000217
+
+
+The duration of time that a carpenter, who charges 28 dollars an
+--- 1825 5000217
+
+
+It will take about 8 hours to complete the project.
+--- 1826 218
+
+
+Answer: 16
+--- 1827 1000218
+
+
+There are 16 pizzas and each pizza is divided into 8 slices.
+--- 1828 2000218
+
+
+Answer: 16
+--- 1829 3000218
+
+
+There will be 16 slices.
+--- 1830 4000218
+
+
+Answer: 16
+--- 1831 5000218
+
+
+3
+--- 1832 219
+
+
+Answer: 20
+--- 1833 1000219
+
+
+There were 34 customers who did not leave a tip.
+--- 1834 2000219
+
+
+There were 29 customers at 'The Greasy Spoon' restaurant during the
+--- 1835 3000219
+
+
+3
+--- 1836 4000219
+
+
+Answer: 34
+--- 1837 5000219
+
+
+The Greasy Spoon had 36 customers initially for a waiter to serve,
+--- 1838 220
+
+
+Answer: 8
+--- 1839 1000220
+
+
+Answer: Lillian has 88+5 candies.
+--- 1840 2000220
+
+
+Answer: 8
+--- 1841 3000220
+
+
+Answer: 97
+--- 1842 4000220
+
+
+Answer: 89
+--- 1843 5000220
+
+
+Answer: 97
+--- 1844 221
+
+
+Answer: 12
+--- 1845 1000221
+
+
+Answer: 12
+--- 1846 2000221
+
+
+Answer: 12
+--- 1847 3000221
+
+
+Answer: 12
+--- 1848 4000221
+
+
+Answer: 12
+--- 1849 5000221
+
+
+Answer: 12
+--- 1850 222
+
+
+Answer: 3
+--- 1851 1000222
+
+
+The cost of renting a car from two different rental companies will be equal
+--- 1852 2000222
+
+
+The cost of renting a car for the entire day is $21.
+--- 1853 3000222
+
+
+The cost of renting an intermediate - size car will be the same at
+--- 1854 4000222
+
+
+3
+--- 1855 5000222
+
+
+Answer: 21.95
+--- 1856 223
+
+
+Saturday: 0.4
+Sunday: 0.2
+--- 1857 1000223
+
+
+Answer: 0.4
+--- 1858 2000223
+
+
+Answer: 3
+--- 1859 3000223
+
+
+Saturday: 0.2 inches
+Sunday: 0.4 inches
+--- 1860 4000223
+
+
+Answer: 0.4
+--- 1861 5000223
+
+
+The combined rainfall for both days was 0.6 inches.
+--- 1862 224
+
+
+Mike spent $ 16.06 at the music store.
+--- 1863 1000224
+
+
+$145.16
+--- 1864 2000224
+
+
+The total amount spent by Mike for joining his school's band, considering
+--- 1865 3000224
+
+
+Mike spent $145.16 on the trumpet and $5.84
+--- 1866 4000224
+
+
+Mike spent $269.16 at the music store.
+--- 1867 5000224
+
+
+Mike had to pay $145.16 for a trumpet and a song
+--- 1868 225
+
+
+Answer: 10
+--- 1869 1000225
+
+
+178
+--- 1870 2000225
+
+
+Answer: $14.06
+--- 1871 3000225
+
+
+Answer: 10
+--- 1872 4000225
+
+
+Answer: 10
+--- 1873 5000225
+
+
+Answer: 17
+--- 1874 226
+
+
+7.75
+
+3
+--- 1875 1000226
+
+
+Answer: 10
+--- 1876 2000226
+
+
+ Becky has 7.75 gallons of water in her aquarium. If she
+--- 1877 3000226
+
+
+7.75
+--- 1878 4000226
+
+
+Answer: 8
+--- 1879 5000226
+
+
+ Becky has increased the water level in her fish tank by 7.75
+--- 1880 227
+
+
+Anthony has 18 pencils. Kathryn gives Anthony 84 pencils. How
+--- 1881 1000227
+
+
+Anthony has 8 pencils.
+--- 1882 2000227
+
+
+Answer: 56
+--- 1883 3000227
+
+
+Answer: 56
+--- 1884 4000227
+
+
+Anthony has 18 pencils.
+--- 1885 5000227
+
+
+Answer: 78
+--- 1886 228
+
+
+Answer: 36
+--- 1887 1000228
+
+
+Answer: 37
+--- 1888 2000228
+
+
+Answer: 37
+--- 1889 3000228
+
+
+Answer: 16
+--- 1890 4000228
+
+
+There are 37 roses in the florist's possession. After she
+--- 1891 5000228
+
+
+Answer: 37
+--- 1892 229
+
+
+Answer: 3
+--- 1893 1000229
+
+
+There are 36 shrubs and 31 trees in the park.
+--- 1894 2000229
+
+
+There will be 18 short bushes and 24 tall trees when the workers finish
+--- 1895 3000229
+
+
+Answer: 20
+--- 1896 4000229
+
+
+There will be a total of 83 short bushes when the workers are finished
+--- 1897 5000229
+
+
+Answer: 36
+--- 1898 230
+
+
+3
+--- 1899 1000230
+
+
+Answer: 10
+--- 1900 2000230
+
+
+Answer: 10
+--- 1901 3000230
+
+
+Answer: 10
+--- 1902 4000230
+
+
+Answer: 10
+--- 1903 5000230
+
+
+3
+--- 1904 6000230
+
+
+Answer: 10
+--- 1905 7000230
+
+
+The painter will complete the job in 8 hours and the helper will complete
+--- 1906 8000230
+
+
+The painter completes the job in 4 hours and the helper completes the job
+--- 1907 9000230
+
+
+The painter and her helper will complete the job in 8 hours and 10
+--- 1908 10000230
+
+
+3
+--- 1909 11000230
+
+
+3
+--- 1910 12000230
+
+
+3
+--- 1911 13000230
+
+
+3
+--- 1912 14000230
+
+
+3
+--- 1913 15000230
+
+
+3
+--- 1914 16000230
+
+
+The helper can do the job independently in 6 hours.
+--- 1915 231
+
+
+Answer: 3
+--- 1916 1000231
+
+
+Answer: 3
+--- 1917 2000231
+
+
+Answer: 3
+--- 1918 3000231
+
+
+Answer: 3
+--- 1919 4000231
+
+
+Answer: 3
+--- 1920 5000231
+
+
+Answer: 3
+--- 1921 6000231
+
+
+Answer: 3
+--- 1922 7000231
+
+
+Answer: 3
+--- 1923 8000231
+
+
+Answer: 3
+--- 1924 9000231
+
+
+Answer: 3
+--- 1925 10000231
+
+
+Answer: 3
+--- 1926 11000231
+
+
+Answer: 3
+--- 1927 12000231
+
+
+Answer: 73
+--- 1928 13000231
+
+
+Answer: 73
+--- 1929 14000231
+
+
+Answer: 73
+--- 1930 15000231
+
+
+Answer: 3
+--- 1931 16000231
+
+
+Answer: 73
+--- 1932 232
+
+
+Answer: 5
+--- 1933 1000232
+
+
+The Sumata family drove 9,000 miles in 5 days.
+--- 1934 2000232
+
+
+Answer: 8
+--- 1935 3000232
+
+
+Answer: 10
+--- 1936 4000232
+
+
+The Sumata family covered a distance of 350 miles each day. What
+--- 1937 5000232
+
+
+The Sumata family drove 250 miles per day. Their total distance traveled
+--- 1938 233
+
+
+Answer: 16
+--- 1939 1000233
+
+
+3
+--- 1940 2000233
+
+
+Answer: 16
+--- 1941 3000233
+
+
+Answer: 36
+--- 1942 4000233
+
+
+Answer: 2
+--- 1943 5000233
+
+
+Answer: 16
+--- 1944 234
+
+
+3
+--- 1945 1000234
+
+
+3
+6
+--- 1946 2000234
+
+
+3
+--- 1947 3000234
+
+
+Each person gets 3 Skittles with the added bonus of an egg
+--- 1948 4000234
+
+
+Each friend will receive 3 Skittles.
+--- 1949 5000234
+
+
+Each friend gets 3 Skittles.
+--- 1950 235
+
+
+$ 13.99
+--- 1951 1000235
+
+
+$13.99
+--- 1952 2000235
+
+
+Sandy spent $128.14 at the mall.
+--- 1953 3000235
+
+
+$13.99
+--- 1954 4000235
+
+
+The total expenditure was $128.14.
+--- 1955 5000235
+
+
+Sandy spent $128.14 in total on her shopping trip at
+--- 1956 236
+
+
+Answer: 16
+--- 1957 1000236
+
+
+Answer: 12
+--- 1958 2000236
+
+
+Answer: 12
+--- 1959 3000236
+
+
+Answer: 3
+--- 1960 4000236
+
+
+Answer: 16
+--- 1961 5000236
+
+
+Answer: 3
+--- 1962 237
+
+
+3
+--- 1963 1000237
+
+
+Answer: 8
+--- 1964 2000237
+
+
+Answer: 8
+--- 1965 3000237
+
+
+Answer: 8
+--- 1966 4000237
+
+
+3
+--- 1967 5000237
+
+
+ Maria should buy 3 cartons of berries for her berry cobb
+--- 1968 238
+
+
+Answer: 8
+--- 1969 1000238
+
+
+3
+--- 1970 2000238
+
+
+Answer: 8
+--- 1971 3000238
+
+
+Answer: 8
+--- 1972 4000238
+
+
+ Betty put 8 pink flower stones in each of the 8 bracelets she
+--- 1973 5000238
+
+
+Answer: 8
+--- 1974 239
+
+
+Answer: 16000
+--- 1975 1000239
+
+
+Answer: 16000
+--- 1976 2000239
+
+
+Answer: 16000
+--- 1977 3000239
+
+
+Answer: 16,000
+--- 1978 4000239
+
+
+The cost of a sport utility vehicle this year is 16000 dollars,
+--- 1979 5000239
+
+
+Answer: 16000
+--- 1980 6000239
+
+
+The value of the vehicle last year was 16000 dollars.
+--- 1981 7000239
+
+
+Answer: 16000
+--- 1982 8000239
+
+
+Answer: 16000
+--- 1983 9000239
+
+
+Answer: 16000
+--- 1984 10000239
+
+
+The value of the vehicle last year was 16000 dollars.
+--- 1985 11000239
+
+
+Answer: 16000
+--- 1986 12000239
+
+
+Answer: 16000
+--- 1987 13000239
+
+
+Answer: 16000
+--- 1988 14000239
+
+
+Answer: 16000
+--- 1989 15000239
+
+
+Answer: 16000
+--- 1990 16000239
+
+
+Answer: 8
+--- 1991 240
+
+
+Answer: 3
+--- 1992 1000240
+
+
+Rachel has 8 dozen oranges. Giselle has 5 times more oranges
+--- 1993 2000240
+
+
+Paul has 10 pencils.
+--- 1994 3000240
+
+
+3
+--- 1995 4000240
+
+
+3
+--- 1996 5000240
+
+
+Answer: 8
+--- 1997 6000240
+
+
+Answer: 3
+--- 1998 7000240
+
+
+Answer: 16
+--- 1999 8000240
+
+
+Answer: 8
+--- 2000 9000240
+
+
+Answer: 16

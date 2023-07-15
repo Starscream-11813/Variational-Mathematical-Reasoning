@@ -1,0 +1,34 @@
+--- 2 1
+
+
+Bryan has <number> books in total.
+--- 3 10001
+
+
+Bryan has <number> books on each of his 9 bookshel
+--- 4 20001
+
+
+Bryan has <number> books in total.
+--- 5 30001
+
+
+Bryan has <number> novels per 9 bookcases</number>
+--- 6 40001
+
+
+Bryan has '56 comics in total'
+--- 7 50001
+
+
+Bryan has <number> books in total.
+--- 8 60001
+
+
+Bryan has <number> books in total.
+--- 9 70001
+
+
+Bryan has <number> books in total.
+--- 10 80001
+ is '9 books'.
