@@ -1,0 +1,26 @@
+because im an idiot who does not know how to name files
+
+file1.csv           First version of base dataset, now outdated
+file1-2.csv         Second version of base dataset, now outdated
+file1-3.csv         Third version of base dataset, working version
+
+file2.csv           First version of base dataset with ids corrected (test2.py)
+
+file2-3.csv         Third version of base dataset with ids corrected
+
+file3-3.csv         dataset with id's corrected and new rows added, built from 3rd version
+
+rs.csv              test dump file
+
+test1.py            unique templates and num of operators, first draft
+test2.py            id correction, first draft
+test3.py            equation and statement tokenizer, first draft
+
+file1.json          SVAMP dataset
+
+test1-json.py       test1.py, but for SVAMP
+
+mawpscopy.csv       copy of the original MAWPS dataset
+
+cld.py              generate cld of dataset
+test4.py            num of quantities per problem and equation, first draft

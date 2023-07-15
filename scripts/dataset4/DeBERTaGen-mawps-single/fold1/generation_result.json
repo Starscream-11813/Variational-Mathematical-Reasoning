@@ -1,0 +1,4521 @@
+[
+    {
+        "id": 3167,
+        "prediction": "0.9 - 0.5",
+        "target": "0.9 - 0.5",
+        "number list": [
+            "0.5",
+            "0.9"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3122,
+        "prediction": "( 9.0 * 10.0 ) - ( 7.0 * 5.0 )",
+        "target": "( 9.0 * 10.0 ) - ( 7.0 * 5.0 )",
+        "number list": [
+            "9.0",
+            "7.0",
+            "10.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 233,
+        "prediction": "0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667",
+        "target": "0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667",
+        "number list": [
+            "0.08333333333333333",
+            "0.3333333333333333",
+            "0.4166666666666667"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2662,
+        "prediction": "( 8.0 * ( 12.0 - 4.0 ) )",
+        "target": "( 8.0 * ( 12.0 - 4.0 ) )",
+        "number list": [
+            "12.0",
+            "4.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3344,
+        "prediction": "[UNK] / 0.8",
+        "target": "16000.0 / 0.8",
+        "number list": [
+            "16000.0",
+            "0.8"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3722,
+        "prediction": "( 356.0 - 112.0 )",
+        "target": "( 356.0 - 112.0 )",
+        "number list": [
+            "356.0",
+            "112.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3841,
+        "prediction": "3409.0 - 145.0",
+        "target": "( 3409.0 - 145.0 )",
+        "number list": [
+            "3409.0",
+            "145.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 90,
+        "prediction": "676.0 - 224.0",
+        "target": "676.0 - 224.0",
+        "number list": [
+            "676.0",
+            "224.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2461,
+        "prediction": "( 4.0 * ( 3.0 + 5.0 ) )",
+        "target": "( 4.0 * ( 3.0 + 5.0 ) )",
+        "number list": [
+            "4.0",
+            "3.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2256,
+        "prediction": "( ( 4.0 + 29.0 ) - 24.0 )",
+        "target": "( ( 4.0 + 29.0 ) - 24.0 )",
+        "number list": [
+            "4.0",
+            "29.0",
+            "24.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2506,
+        "prediction": "( 9.0 * ( 2.0 + 6.0 ) )",
+        "target": "( 9.0 * ( 2.0 + 6.0 ) )",
+        "number list": [
+            "9.0",
+            "2.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3498,
+        "prediction": "( 9.0 / 3.0 )",
+        "target": "( 9.0 / 3.0 )",
+        "number list": [
+            "9.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 357,
+        "prediction": "15.0 + 33.0",
+        "target": "15.0 + 33.0",
+        "number list": [
+            "27.0",
+            "15.0",
+            "33.0",
+            "49.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3686,
+        "prediction": "( 22.0 + 15.0 )",
+        "target": "( 22.0 + 15.0 )",
+        "number list": [
+            "22.0",
+            "15.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2870,
+        "prediction": "6.0 + 3.0",
+        "target": "6.0 + 3.0",
+        "number list": [
+            "6.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3419,
+        "prediction": "( 96.0 - 45.0 )",
+        "target": "( 96.0 - 45.0 )",
+        "number list": [
+            "96.0",
+            "45.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2476,
+        "prediction": "( 7.0 * ( 2.0 + 8.0 ) )",
+        "target": "( 7.0 * ( 2.0 + 8.0 ) )",
+        "number list": [
+            "2.0",
+            "8.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2884,
+        "prediction": "33.0 + 44.0",
+        "target": "33.0 + 44.0",
+        "number list": [
+            "33.0",
+            "44.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 256,
+        "prediction": "0.41 - 0.33",
+        "target": "0.41 - 0.33",
+        "number list": [
+            "0.41",
+            "0.33"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3093,
+        "prediction": "61921.0 + 49500.0",
+        "target": "61921.0 + 49500.0",
+        "number list": [
+            "61921.0",
+            "49500.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2644,
+        "prediction": "( ( 5.0 + 58.0 ) / 7.0 )",
+        "target": "( ( 5.0 + 58.0 ) / 7.0 )",
+        "number list": [
+            "5.0",
+            "58.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3503,
+        "prediction": "( 81.0 / 9.0 )",
+        "target": "( 81.0 / 9.0 )",
+        "number list": [
+            "9.0",
+            "81.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3402,
+        "prediction": "( 91.0 + 88.0 )",
+        "target": "( 91.0 + 88.0 )",
+        "number list": [
+            "91.0",
+            "88.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 1873,
+        "prediction": "( 30.0 * 29.0 )",
+        "target": "( 30.0 + 29.0 ) - 14.0",
+        "number list": [
+            "14.0",
+            "30.0",
+            "29.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3315,
+        "prediction": "( ( 1134.0 + 1475.0 ) / 3.0",
+        "target": "3.0 * ( 1134.0 + 1475.0 )",
+        "number list": [
+            "1134.0",
+            "1475.0",
+            "3.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2578,
+        "prediction": "( ( 66.0 + 15.0 ) / 9.0 )",
+        "target": "( ( 66.0 + 15.0 ) / 9.0 )",
+        "number list": [
+            "66.0",
+            "15.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3581,
+        "prediction": "( 17.0 - 97.0 )",
+        "target": "( 97.0 - 97.0 )",
+        "number list": [
+            "17.0",
+            "97.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3547,
+        "prediction": "( 54.0 / 6.0 )",
+        "target": "( 54.0 / 6.0 )",
+        "number list": [
+            "6.0",
+            "54.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2345,
+        "prediction": "( ( 30.0 + 28.0 ) - 9.0 )",
+        "target": "( ( 30.0 + 28.0 ) - 9.0 )",
+        "number list": [
+            "30.0",
+            "9.0",
+            "28.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 309,
+        "prediction": "35.0 - 17.0",
+        "target": "35.0 - 17.0",
+        "number list": [
+            "35.0",
+            "25.0",
+            "17.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3215,
+        "prediction": "0.1 + 0.4",
+        "target": "0.1 + 0.4",
+        "number list": [
+            "0.1",
+            "0.4"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3645,
+        "prediction": "( 5.0 - 7.0 )",
+        "target": "( 7.0 - 5.0 )",
+        "number list": [
+            "7.0",
+            "5.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2695,
+        "prediction": "( 8.0 * ( 14.0 - 8.0 ) )",
+        "target": "( 8.0 * ( 14.0 - 8.0 ) )",
+        "number list": [
+            "14.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3618,
+        "prediction": "( 24.0 / 12.0 )",
+        "target": "( 24.0 / 12.0 )",
+        "number list": [
+            "24.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2406,
+        "prediction": "( ( 17.0 + 23.0 ) - 2.0 )",
+        "target": "( ( 17.0 + 23.0 ) - 2.0 )",
+        "number list": [
+            "17.0",
+            "2.0",
+            "23.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 20,
+        "prediction": "7.0 + 8.0 + 4.0",
+        "target": "7.0 + 8.0 + 4.0",
+        "number list": [
+            "7.0",
+            "8.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3744,
+        "prediction": "( 86.0 - 64.0 )",
+        "target": "( 86.0 - 64.0 )",
+        "number list": [
+            "64.0",
+            "86.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2930,
+        "prediction": "54.0 + 22.0",
+        "target": "54.0 + 22.0",
+        "number list": [
+            "54.0",
+            "22.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3535,
+        "prediction": "( 24.0 / 12.0 )",
+        "target": "( 24.0 / 12.0 )",
+        "number list": [
+            "24.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3583,
+        "prediction": "( 96.0 - 9.0 )",
+        "target": "( 96.0 - 9.0 )",
+        "number list": [
+            "96.0",
+            "4.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3107,
+        "prediction": "( 15.0 + 13.0 ) - 8.0 + 21.0",
+        "target": "( ( 15.0 + 13.0 ) + 8.0 ) - 21.0",
+        "number list": [
+            "15.0",
+            "13.0",
+            "8.0",
+            "21.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 368,
+        "prediction": "11.0 + 12.0 + 13.0",
+        "target": "11.0 + 13.0 + 15.0",
+        "number list": [
+            "11.0",
+            "12.0",
+            "13.0",
+            "15.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3592,
+        "prediction": "( 40.0 / 8.0 )",
+        "target": "( 40.0 / 8.0 )",
+        "number list": [
+            "40.0",
+            "10.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2758,
+        "prediction": "( ( 37.0 - 21.0 ) / 2.0 )",
+        "target": "( ( 37.0 - 21.0 ) / 2.0 )",
+        "number list": [
+            "37.0",
+            "21.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2463,
+        "prediction": "( 8.0 * ( 6.0 + 2.0 ) )",
+        "target": "( 8.0 * ( 6.0 + 2.0 ) )",
+        "number list": [
+            "8.0",
+            "6.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2413,
+        "prediction": "( ( 50.0 + 24.0 ) - 40.0 )",
+        "target": "( ( 50.0 + 24.0 ) - 40.0 )",
+        "number list": [
+            "50.0",
+            "40.0",
+            "24.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3544,
+        "prediction": "( 20.0 / 5.0 )",
+        "target": "( 20.0 / 5.0 )",
+        "number list": [
+            "5.0",
+            "20.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3810,
+        "prediction": "( 3.0 * 10.0 )",
+        "target": "( 10.0 / 3.0 )",
+        "number list": [
+            "3.0",
+            "10.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2529,
+        "prediction": "( 9.0 * ( 3.0 + 4.0 ) )",
+        "target": "( 9.0 * ( 3.0 + 4.0 ) )",
+        "number list": [
+            "3.0",
+            "4.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2403,
+        "prediction": "( ( 38.0 + 32.0 ) - 16.0 )",
+        "target": "( ( 38.0 + 32.0 ) - 16.0 )",
+        "number list": [
+            "38.0",
+            "16.0",
+            "32.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3600,
+        "prediction": "( 45.0 / 5.0 )",
+        "target": "( 45.0 / 5.0 )",
+        "number list": [
+            "45.0",
+            "3.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2301,
+        "prediction": "( ( 9.0 + 27.0 ) - 20.0 )",
+        "target": "( ( 9.0 + 27.0 ) - 20.0 )",
+        "number list": [
+            "9.0",
+            "27.0",
+            "20.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2260,
+        "prediction": "( ( 4.0 + 21.0 ) - 23.0 )",
+        "target": "( ( 4.0 + 21.0 ) - 23.0 )",
+        "number list": [
+            "4.0",
+            "21.0",
+            "23.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2251,
+        "prediction": "( ( 16.0 + 28.0 ) - 25.0 )",
+        "target": "( ( 16.0 + 28.0 ) - 25.0 )",
+        "number list": [
+            "16.0",
+            "28.0",
+            "25.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3882,
+        "prediction": "( 20.0 * 14.0 )",
+        "target": "( 20.0 * 14.0 )",
+        "number list": [
+            "20.0",
+            "14.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3675,
+        "prediction": "( 425.0 + 275.0 )",
+        "target": "( 425.0 + 275.0 )",
+        "number list": [
+            "425.0",
+            "275.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 223,
+        "prediction": "0.16666666666666666 + 0.4166666666666667 + 0.08333333333333333",
+        "target": "0.16666666666666666 + 0.4166666666666667 + 0.08333333333333333",
+        "number list": [
+            "0.16666666666666666",
+            "0.4166666666666667",
+            "0.08333333333333333"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2714,
+        "prediction": "( 5.0 * ( 14.0 - 7.0 ) )",
+        "target": "( 5.0 * ( 14.0 - 7.0 ) )",
+        "number list": [
+            "14.0",
+            "7.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2274,
+        "prediction": "( ( 39.0 + 4.0 ) - 26.0 )",
+        "target": "( ( 39.0 + 4.0 ) - 26.0 )",
+        "number list": [
+            "39.0",
+            "4.0",
+            "26.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2467,
+        "prediction": "( 6.0 * ( 2.0 + 2.0 ) )",
+        "target": "( 6.0 * ( 2.0 + 2.0 ) )",
+        "number list": [
+            "2.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3708,
+        "prediction": "( 14.0 + 21.0 )",
+        "target": "( 14.0 + 21.0 )",
+        "number list": [
+            "14.0",
+            "21.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2430,
+        "prediction": "( ( 50.0 + 21.0 ) - 15.0 )",
+        "target": "( ( 50.0 + 21.0 ) - 15.0 )",
+        "number list": [
+            "50.0",
+            "15.0",
+            "21.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 25,
+        "prediction": "43.0 + 24.0",
+        "target": "43.0 + 24.0",
+        "number list": [
+            "43.0",
+            "16.0",
+            "24.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3012,
+        "prediction": "7.0 * 12.0",
+        "target": "7.0 * 12.0",
+        "number list": [
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 201,
+        "prediction": "0.5 - 0.16666666666666666",
+        "target": "0.5 - 0.16666666666666666",
+        "number list": [
+            "0.5",
+            "0.16666666666666666"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 135,
+        "prediction": "1346.0 + 6444.0",
+        "target": "1346.0 + 6444.0",
+        "number list": [
+            "1346.0",
+            "6444.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2418,
+        "prediction": "( ( 5.0 + 28.0 ) - 2.0 )",
+        "target": "( ( 5.0 + 28.0 ) - 2.0 )",
+        "number list": [
+            "5.0",
+            "2.0",
+            "28.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2286,
+        "prediction": "( ( 26.0 + 36.0 ) - 48.0 )",
+        "target": "( ( 26.0 + 36.0 ) - 48.0 )",
+        "number list": [
+            "26.0",
+            "36.0",
+            "48.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2389,
+        "prediction": "( ( 29.0 + 29.0 ) - 25.0 )",
+        "target": "( ( 29.0 + 29.0 ) - 25.0 )",
+        "number list": [
+            "25.0",
+            "29.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3217,
+        "prediction": "0.81 - 0.35",
+        "target": "0.81 - 0.35",
+        "number list": [
+            "0.81",
+            "0.35"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3802,
+        "prediction": "( 12.0 - 8.0 )",
+        "target": "( 12.0 * 8.0 )",
+        "number list": [
+            "12.0",
+            "8.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3285,
+        "prediction": "( 85.0 + 48.0 )",
+        "target": "85.0 + 48.0",
+        "number list": [
+            "85.0",
+            "48.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3105,
+        "prediction": "( ( 8.0 + 6.0 ) / 18.0 )",
+        "target": "( 6.0 * 6.0 ) + ( 8.0 * 18.0 )",
+        "number list": [
+            "8.0",
+            "6.0",
+            "18.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 188,
+        "prediction": "0.2 + 0.4",
+        "target": "0.2 + 0.4",
+        "number list": [
+            "1.0",
+            "0.2",
+            "0.4"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3220,
+        "prediction": "0.9 - 0.7",
+        "target": "0.9 - 0.7",
+        "number list": [
+            "0.9",
+            "0.7"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2385,
+        "prediction": "( ( 6.0 + 12.0 ) - 5.0 )",
+        "target": "( ( 6.0 + 12.0 ) - 5.0 )",
+        "number list": [
+            "6.0",
+            "5.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 93,
+        "prediction": "115.0 + 100.0",
+        "target": "115.0 + 100.0",
+        "number list": [
+            "115.0",
+            "100.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 362,
+        "prediction": "14.0 + 41.0",
+        "target": "14.0 + 41.0",
+        "number list": [
+            "14.0",
+            "41.0",
+            "38.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3806,
+        "prediction": "20.0 * 5.0",
+        "target": "( 20.0 * 5.0 )",
+        "number list": [
+            "20.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2917,
+        "prediction": "8.0 - 2.0",
+        "target": "8.0 - 2.0",
+        "number list": [
+            "8.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3858,
+        "prediction": "36.0 + 85.0",
+        "target": "( 36.0 + 85.0 )",
+        "number list": [
+            "36.0",
+            "85.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 142,
+        "prediction": "48097.0 + 684.0",
+        "target": "48097.0 + 684.0",
+        "number list": [
+            "48097.0",
+            "684.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2588,
+        "prediction": "( ( 6.0 + 18.0 ) / 6.0 )",
+        "target": "( ( 6.0 + 18.0 ) / 6.0 )",
+        "number list": [
+            "18.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2483,
+        "prediction": "( 7.0 * ( 5.0 + 4.0 ) )",
+        "target": "( 7.0 * ( 5.0 + 4.0 ) )",
+        "number list": [
+            "5.0",
+            "4.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2733,
+        "prediction": "( 6.0 * ( 13.0 - 8.0 ) )",
+        "target": "( 6.0 * ( 13.0 - 8.0 ) )",
+        "number list": [
+            "13.0",
+            "8.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2411,
+        "prediction": "( ( 33.0 + 13.0 ) - 19.0 )",
+        "target": "( ( 33.0 + 13.0 ) - 19.0 )",
+        "number list": [
+            "33.0",
+            "19.0",
+            "13.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3812,
+        "prediction": "( 9.0 * 15.0 )",
+        "target": "( 9.0 * 15.0 )",
+        "number list": [
+            "9.0",
+            "15.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 72,
+        "prediction": "8.0 - 2.0",
+        "target": "8.0 - 2.0",
+        "number list": [
+            "8.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2562,
+        "prediction": "( ( 39.0 + 33.0 ) / 8.0 )",
+        "target": "( ( 39.0 + 33.0 ) / 8.0 )",
+        "number list": [
+            "8.0",
+            "39.0",
+            "33.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2325,
+        "prediction": "( ( 6.0 + 15.0 ) - 5.0 )",
+        "target": "( ( 6.0 + 15.0 ) - 5.0 )",
+        "number list": [
+            "6.0",
+            "15.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 66,
+        "prediction": "5.0 + 4.0",
+        "target": "5.0 + 4.0",
+        "number list": [
+            "5.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3194,
+        "prediction": "3.8333333333333335 - 0.16666666666666666",
+        "target": "3.8333333333333335 - 0.16666666666666666",
+        "number list": [
+            "3.8333333333333335",
+            "0.16666666666666666"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3673,
+        "prediction": "292.0 + 324.0",
+        "target": "( 292.0 + 324.0 )",
+        "number list": [
+            "292.0",
+            "324.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2594,
+        "prediction": "( ( 3.0 + 37.0 ) / 8.0 )",
+        "target": "( ( 3.0 + 37.0 ) / 8.0 )",
+        "number list": [
+            "3.0",
+            "37.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 105,
+        "prediction": "5.0 - 2.0",
+        "target": "5.0 - 2.0",
+        "number list": [
+            "5.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3637,
+        "prediction": "( 25.0 / 5.0 )",
+        "target": "( 25.0 / 5.0 )",
+        "number list": [
+            "25.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2748,
+        "prediction": "( ( 79.0 - 23.0 ) / 7.0 )",
+        "target": "( ( 79.0 - 23.0 ) / 7.0 )",
+        "number list": [
+            "79.0",
+            "23.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2765,
+        "prediction": "( ( 36.0 - 9.0 ) / 3.0 )",
+        "target": "( ( 36.0 - 9.0 ) / 3.0 )",
+        "number list": [
+            "36.0",
+            "9.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3582,
+        "prediction": "( 88.0 - 6.0 )",
+        "target": "( 88.0 - 6.0 )",
+        "number list": [
+            "88.0",
+            "18.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3142,
+        "prediction": "0.6666666666666666 - 0.5",
+        "target": "0.6666666666666666 - 0.5",
+        "number list": [
+            "0.6666666666666666",
+            "0.5"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2862,
+        "prediction": "4.0 + 9.0",
+        "target": "4.0 + 9.0",
+        "number list": [
+            "4.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3018,
+        "prediction": "9.0 * 12.0",
+        "target": "9.0 * 12.0",
+        "number list": [
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3486,
+        "prediction": "( 8.0 * 7.0 )",
+        "target": "( 8.0 * 7.0 )",
+        "number list": [
+            "8.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3623,
+        "prediction": "( 24.0 / 6.0 )",
+        "target": "( 24.0 / 6.0 )",
+        "number list": [
+            "24.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3711,
+        "prediction": "( 25.0 - 18.0 )",
+        "target": "( 25.0 - 18.0 )",
+        "number list": [
+            "18.0",
+            "25.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2540,
+        "prediction": "( 3.0 * ( 6.0 + 6.0 ) )",
+        "target": "( 6.0 * ( 6.0 + 3.0 ) )",
+        "number list": [
+            "3.0",
+            "6.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3355,
+        "prediction": "( 4.0 + 4.0 )",
+        "target": "( 4.0 + 4.0 )",
+        "number list": [
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 304,
+        "prediction": "( 8.0 - 4.0 )",
+        "target": "8.0 - 4.0",
+        "number list": [
+            "8.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2547,
+        "prediction": "( ( 21.0 + 15.0 ) / 6.0 )",
+        "target": "( ( 21.0 + 15.0 ) / 6.0 )",
+        "number list": [
+            "21.0",
+            "15.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3037,
+        "prediction": "7.0 - 3.0",
+        "target": "7.0 - 3.0",
+        "number list": [
+            "7.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3298,
+        "prediction": "( 1222.0 - 513.0 )",
+        "target": "1222.0 - 513.0",
+        "number list": [
+            "1222.0",
+            "513.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3281,
+        "prediction": "( 1400.0 - 290.0 )",
+        "target": "1400.0 - 290.0",
+        "number list": [
+            "1400.0",
+            "290.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 209,
+        "prediction": "0.5 - 0.9",
+        "target": "0.9 - 0.5",
+        "number list": [
+            "1.0",
+            "0.5",
+            "0.9"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2479,
+        "prediction": "( 8.0 * ( 2.0 + 2.0 ) )",
+        "target": "( 8.0 * ( 2.0 + 2.0 ) )",
+        "number list": [
+            "2.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3169,
+        "prediction": "0.2 + 0.1",
+        "target": "0.2 + 0.1",
+        "number list": [
+            "0.2",
+            "0.1"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3745,
+        "prediction": "( 90.0 - 67.0 )",
+        "target": "( 90.0 - 67.0 )",
+        "number list": [
+            "67.0",
+            "90.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3791,
+        "prediction": "303.0 * 28.0",
+        "target": "( 303.0 * 28.0 )",
+        "number list": [
+            "303.0",
+            "28.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2886,
+        "prediction": "41.0 + 30.0",
+        "target": "41.0 + 30.0",
+        "number list": [
+            "41.0",
+            "30.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3668,
+        "prediction": "( 15.0 + 7.0 )",
+        "target": "( 15.0 + 7.0 )",
+        "number list": [
+            "15.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3851,
+        "prediction": "3.75 / 3.0",
+        "target": "( 3.75 / 3.0 )",
+        "number list": [
+            "3.75",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3892,
+        "prediction": "( 219.0 / 3.0 )",
+        "target": "( 219.0 / 3.0 )",
+        "number list": [
+            "219.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2581,
+        "prediction": "( ( 5.0 + 7.0 ) / 6.0 )",
+        "target": "( ( 5.0 + 7.0 ) / 6.0 )",
+        "number list": [
+            "5.0",
+            "7.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3813,
+        "prediction": "( 63.0 / 3.0 )",
+        "target": "( 63.0 / 3.0 )",
+        "number list": [
+            "63.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2265,
+        "prediction": "( ( 7.0 + 5.0 ) - 8.0 )",
+        "target": "( ( 7.0 + 5.0 ) - 8.0 )",
+        "number list": [
+            "7.0",
+            "5.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 147,
+        "prediction": "90171.0 + 16320.0",
+        "target": "90171.0 + 16320.0",
+        "number list": [
+            "90171.0",
+            "16320.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3699,
+        "prediction": "( 18.0 - 24.0 )",
+        "target": "( 24.0 - 18.0 )",
+        "number list": [
+            "18.0",
+            "24.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2922,
+        "prediction": "( 39.0 - 14.0 )",
+        "target": "39.0 - 14.0",
+        "number list": [
+            "39.0",
+            "14.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3385,
+        "prediction": "( 8.0 + 85.0 )",
+        "target": "( 8.0 + 85.0 )",
+        "number list": [
+            "8.0",
+            "85.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2799,
+        "prediction": "( ( 12.0 - 4.0 ) / NUM_2 )",
+        "target": "( ( 12.0 - 4.0 ) / 4.0 )",
+        "number list": [
+            "12.0",
+            "4.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2625,
+        "prediction": "( ( 19.0 + 8.0 ) / 9.0 )",
+        "target": "( ( 19.0 + 8.0 ) / 9.0 )",
+        "number list": [
+            "9.0",
+            "19.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2699,
+        "prediction": "( 8.0 * ( 15.0 - 7.0 ) )",
+        "target": "( 8.0 * ( 15.0 - 7.0 ) )",
+        "number list": [
+            "8.0",
+            "15.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2715,
+        "prediction": "( 6.0 * ( 13.0 - 5.0 ) )",
+        "target": "( 6.0 * ( 13.0 - 5.0 ) )",
+        "number list": [
+            "13.0",
+            "5.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2326,
+        "prediction": "( ( 39.0 + 49.0 ) - 81.0 )",
+        "target": "( ( 39.0 + 49.0 ) - 81.0 )",
+        "number list": [
+            "39.0",
+            "49.0",
+            "81.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 338,
+        "prediction": "8.0 + 9.0",
+        "target": "8.0 + 9.0",
+        "number list": [
+            "8.0",
+            "4.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3507,
+        "prediction": "( 21.0 / 3.0 )",
+        "target": "( 21.0 / 3.0 )",
+        "number list": [
+            "21.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3889,
+        "prediction": "( 2080.0 - 17.0 )",
+        "target": "( 2080.0 - 17.0 )",
+        "number list": [
+            "2080.0",
+            "17.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 230,
+        "prediction": "0.25 + 0.4166666666666667 + 0.25",
+        "target": "0.25 + 0.4166666666666667 + 0.25",
+        "number list": [
+            "0.4166666666666667",
+            "0.25"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3133,
+        "prediction": "0.16666666666666666 + 0.5",
+        "target": "0.16666666666666666 + 0.5",
+        "number list": [
+            "0.16666666666666666",
+            "0.5"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2720,
+        "prediction": "( 9.0 * ( 7.0 - 4.0 ) )",
+        "target": "( 9.0 * ( 7.0 - 4.0 ) )",
+        "number list": [
+            "7.0",
+            "4.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2328,
+        "prediction": "( ( 18.0 + 11.0 ) - 24.0 )",
+        "target": "( ( 18.0 + 11.0 ) - 24.0 )",
+        "number list": [
+            "18.0",
+            "11.0",
+            "24.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3701,
+        "prediction": "( 31.0 - 14.0 )",
+        "target": "( 31.0 - 14.0 )",
+        "number list": [
+            "31.0",
+            "14.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2305,
+        "prediction": "( ( 4.0 + 11.0 ) - NUM_2 )",
+        "target": "( ( 4.0 + 11.0 ) - 11.0 )",
+        "number list": [
+            "4.0",
+            "11.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2648,
+        "prediction": "( 5.0 * ( 11.0 - 5.0 ) )",
+        "target": "( 5.0 * ( 11.0 - 5.0 ) )",
+        "number list": [
+            "11.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3652,
+        "prediction": "( 2.0 - 1.0 )",
+        "target": "( 2.0 - 1.0 )",
+        "number list": [
+            "2.0",
+            "1.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3272,
+        "prediction": "48.0 / 8.0",
+        "target": "48.0 / 8.0",
+        "number list": [
+            "48.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2828,
+        "prediction": "( ( 56.0 - 35.0 ) / 3.0 )",
+        "target": "( ( 56.0 - 35.0 ) / 3.0 )",
+        "number list": [
+            "56.0",
+            "35.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2459,
+        "prediction": "( 8.0 * ( 6.0 + 3.0 ) )",
+        "target": "( 8.0 * ( 6.0 + 3.0 ) )",
+        "number list": [
+            "6.0",
+            "3.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2431,
+        "prediction": "( ( 6.0 + 20.0 ) - 3.0 )",
+        "target": "( ( 6.0 + 20.0 ) - 3.0 )",
+        "number list": [
+            "6.0",
+            "3.0",
+            "20.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2663,
+        "prediction": "( 7.0 * ( 16.0 - 8.0 ) )",
+        "target": "( 7.0 * ( 16.0 - 8.0 ) )",
+        "number list": [
+            "16.0",
+            "8.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3824,
+        "prediction": "648.0 / 4.0",
+        "target": "( 648.0 / 4.0 )",
+        "number list": [
+            "648.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3513,
+        "prediction": "( 4.0 / 4.0 )",
+        "target": "( 4.0 / 4.0 )",
+        "number list": [
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2924,
+        "prediction": "22.0 + 20.0",
+        "target": "22.0 + 20.0",
+        "number list": [
+            "22.0",
+            "20.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2288,
+        "prediction": "( ( 16.0 + 33.0 ) - 48.0 )",
+        "target": "( ( 16.0 + 33.0 ) - 48.0 )",
+        "number list": [
+            "16.0",
+            "33.0",
+            "48.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2820,
+        "prediction": "( ( 27.0 - 6.0 ) / 7.0 )",
+        "target": "( ( 27.0 - 6.0 ) / 7.0 )",
+        "number list": [
+            "27.0",
+            "6.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2442,
+        "prediction": "( ( 10.0 + 37.0 ) - 6.0 )",
+        "target": "( ( 10.0 + 37.0 ) - 6.0 )",
+        "number list": [
+            "10.0",
+            "6.0",
+            "37.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 108,
+        "prediction": "9.0 - 2.0",
+        "target": "9.0 - 2.0",
+        "number list": [
+            "9.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 143,
+        "prediction": "69.0 - 26935.0",
+        "target": "69.0 + 26935.0",
+        "number list": [
+            "69.0",
+            "26935.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 344,
+        "prediction": "4.0 + 9.0",
+        "target": "4.0 + 9.0",
+        "number list": [
+            "4.0",
+            "7.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 84,
+        "prediction": "98.0 - 93.0",
+        "target": "98.0 - 93.0",
+        "number list": [
+            "98.0",
+            "93.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3460,
+        "prediction": "( 7.0 + 74.0 )",
+        "target": "( 7.0 + 74.0 )",
+        "number list": [
+            "7.0",
+            "74.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2830,
+        "prediction": "( ( 14.0 - 2.0 ) / 3.0 )",
+        "target": "( ( 14.0 - 2.0 ) / 3.0 )",
+        "number list": [
+            "14.0",
+            "2.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3183,
+        "prediction": "0.16666666666666666 + 0.16666666666666666 + 0.5",
+        "target": "0.16666666666666666 + 0.16666666666666666 + 0.5",
+        "number list": [
+            "0.16666666666666666",
+            "0.5"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2603,
+        "prediction": "( ( 12.0 + 44.0 ) / 8.0 )",
+        "target": "( ( 12.0 + 44.0 ) / 8.0 )",
+        "number list": [
+            "12.0",
+            "44.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 208,
+        "prediction": "0.3 + 0.4",
+        "target": "0.3 + 0.4",
+        "number list": [
+            "0.3",
+            "0.4"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 21,
+        "prediction": "5.0 + 6.0",
+        "target": "5.0 + 6.0 + 3.0",
+        "number list": [
+            "5.0",
+            "6.0",
+            "3.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2942,
+        "prediction": "709.0 - 221.0",
+        "target": "709.0 - 221.0",
+        "number list": [
+            "709.0",
+            "221.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3317,
+        "prediction": "( 15.0 * 5.0 )",
+        "target": "15.0 * 5.0",
+        "number list": [
+            "15.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3627,
+        "prediction": "( 20.0 / 4.0 )",
+        "target": "( 20.0 / 4.0 )",
+        "number list": [
+            "20.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3104,
+        "prediction": "( ( ( 20.0 + 26.0 ) + 20.0 ) - 6.0 )",
+        "target": "( ( 20.0 + 26.0 ) + 20.0 ) - ( 6.0 + 58.0 )",
+        "number list": [
+            "26.0",
+            "20.0",
+            "6.0",
+            "58.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3201,
+        "prediction": "11.166666666666666 - 0.8333333333333334",
+        "target": "11.166666666666666 - 0.8333333333333334",
+        "number list": [
+            "11.166666666666666",
+            "0.8333333333333334"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2291,
+        "prediction": "( ( 9.0 + 27.0 ) - 20.0 )",
+        "target": "( ( 9.0 + 27.0 ) - 20.0 )",
+        "number list": [
+            "9.0",
+            "27.0",
+            "20.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2322,
+        "prediction": "( ( 10.0 + 25.0 ) - 5.0 )",
+        "target": "( ( 10.0 + 25.0 ) - 5.0 )",
+        "number list": [
+            "10.0",
+            "25.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3728,
+        "prediction": "( 54.0 - 16.0 )",
+        "target": "( 54.0 - 16.0 )",
+        "number list": [
+            "16.0",
+            "54.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2689,
+        "prediction": "( 6.0 * ( 13.0 - 7.0 ) )",
+        "target": "( 6.0 * ( 13.0 - 7.0 ) )",
+        "number list": [
+            "13.0",
+            "7.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3540,
+        "prediction": "( 36.0 / 12.0 )",
+        "target": "( 36.0 / 12.0 )",
+        "number list": [
+            "36.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2926,
+        "prediction": "51.0 + 23.0",
+        "target": "51.0 + 23.0",
+        "number list": [
+            "51.0",
+            "23.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3191,
+        "prediction": "0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667",
+        "target": "0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667",
+        "number list": [
+            "0.08333333333333333",
+            "0.3333333333333333",
+            "0.4166666666666667"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2320,
+        "prediction": "( ( 38.0 + 47.0 ) - 71.0 )",
+        "target": "( ( 38.0 + 47.0 ) - 71.0 )",
+        "number list": [
+            "38.0",
+            "47.0",
+            "71.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2672,
+        "prediction": "( 9.0 * ( 14.0 - 8.0 ) )",
+        "target": "( 9.0 * ( 14.0 - 8.0 ) )",
+        "number list": [
+            "9.0",
+            "14.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2317,
+        "prediction": "( ( 37.0 + 45.0 ) - 51.0 )",
+        "target": "( ( 37.0 + 45.0 ) - 51.0 )",
+        "number list": [
+            "37.0",
+            "45.0",
+            "51.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2387,
+        "prediction": "( ( 14.0 + 49.0 ) - 13.0 )",
+        "target": "( ( 14.0 + 49.0 ) - 13.0 )",
+        "number list": [
+            "14.0",
+            "13.0",
+            "49.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 184,
+        "prediction": "0.6666666666666666 - 0.5",
+        "target": "0.6666666666666666 - 0.5",
+        "number list": [
+            "0.6666666666666666",
+            "0.5"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 337,
+        "prediction": "3.0 + 4.0",
+        "target": "3.0 + 4.0",
+        "number list": [
+            "3.0",
+            "5.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 103,
+        "prediction": "9.0 + 3.0",
+        "target": "9.0 + 3.0",
+        "number list": [
+            "9.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3880,
+        "prediction": "2.0 / 23.0",
+        "target": "( 2.0 * 23.0 )",
+        "number list": [
+            "2.0",
+            "23.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 119,
+        "prediction": "( 33.0 - 26.0 )",
+        "target": "33.0 - 26.0",
+        "number list": [
+            "33.0",
+            "26.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2493,
+        "prediction": "( 3.0 * ( 6.0 + 4.0 ) )",
+        "target": "( 3.0 * ( 6.0 + 4.0 ) )",
+        "number list": [
+            "6.0",
+            "4.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 341,
+        "prediction": "8.0 + 7.0",
+        "target": "8.0 + 7.0",
+        "number list": [
+            "8.0",
+            "7.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3223,
+        "prediction": "5.91 + 8.11",
+        "target": "5.91 + 8.11",
+        "number list": [
+            "5.91",
+            "8.11"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3885,
+        "prediction": "( 25.0 * 247.0 )",
+        "target": "( 25.0 * 247.0 )",
+        "number list": [
+            "25.0",
+            "247.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 305,
+        "prediction": "6.0 - 4.0",
+        "target": "6.0 - 4.0",
+        "number list": [
+            "6.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3463,
+        "prediction": "( 2.0 + 41.0 )",
+        "target": "( 2.0 + 41.0 )",
+        "number list": [
+            "2.0",
+            "41.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 123,
+        "prediction": "145.16 + 5.84",
+        "target": "145.16 + 5.84",
+        "number list": [
+            "145.16",
+            "5.84"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2408,
+        "prediction": "( ( 12.0 + 21.0 ) - 2.0 )",
+        "target": "( ( 12.0 + 21.0 ) - 2.0 )",
+        "number list": [
+            "12.0",
+            "2.0",
+            "21.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 51,
+        "prediction": "19.0 + 39.0 + 25.0",
+        "target": "19.0 + 39.0 + 25.0",
+        "number list": [
+            "19.0",
+            "39.0",
+            "25.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2894,
+        "prediction": "46.0 + 47.0 + 12.0",
+        "target": "46.0 + 47.0 + 12.0",
+        "number list": [
+            "46.0",
+            "47.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3137,
+        "prediction": "0.875 - 0.75",
+        "target": "0.875 - 0.75",
+        "number list": [
+            "0.875",
+            "0.75"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3225,
+        "prediction": "9.8 - 5.2",
+        "target": "9.8 - 5.2",
+        "number list": [
+            "9.8",
+            "5.2"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3358,
+        "prediction": "( 4.0 + 7.0 )",
+        "target": "( 4.0 + 7.0 )",
+        "number list": [
+            "4.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3475,
+        "prediction": "( 9.0 * 4.0 )",
+        "target": "( 9.0 * 4.0 )",
+        "number list": [
+            "9.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2466,
+        "prediction": "( 9.0 * ( 3.0 + 5.0 ) )",
+        "target": "( 9.0 * ( 3.0 + 5.0 ) )",
+        "number list": [
+            "9.0",
+            "3.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2245,
+        "prediction": "( ( 32.0 + 42.0 ) - 35.0 )",
+        "target": "( ( 32.0 + 42.0 ) - 35.0 )",
+        "number list": [
+            "32.0",
+            "42.0",
+            "35.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 855,
+        "prediction": "200.0 * 39.0",
+        "target": "200.0 * 39.0",
+        "number list": [
+            "200.0",
+            "39.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2666,
+        "prediction": "( 3.0 * ( 15.0 - 6.0 ) )",
+        "target": "( 3.0 * ( 15.0 - 6.0 ) )",
+        "number list": [
+            "15.0",
+            "6.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2847,
+        "prediction": "3.0 * 45.0",
+        "target": "45.0 * 3.0",
+        "number list": [
+            "45.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 346,
+        "prediction": "7.0 + 3.0 + 6.0",
+        "target": "7.0 + 3.0 + 6.0",
+        "number list": [
+            "7.0",
+            "3.0",
+            "6.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2361,
+        "prediction": "( ( 26.0 + 20.0 ) - 20.0 )",
+        "target": "( ( 26.0 + 20.0 ) - 20.0 )",
+        "number list": [
+            "26.0",
+            "20.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3720,
+        "prediction": "( 14.0 + 22.0 )",
+        "target": "( 14.0 + 22.0 )",
+        "number list": [
+            "14.0",
+            "22.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 146,
+        "prediction": "12170.0 + 54912.0",
+        "target": "12170.0 + 54912.0",
+        "number list": [
+            "12170.0",
+            "54912.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3904,
+        "prediction": "212.3 + 372.0",
+        "target": "( 372.0 - 212.3 )",
+        "number list": [
+            "212.3",
+            "372.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 238,
+        "prediction": "10.0 + 5.1",
+        "target": "10.0 + 5.1",
+        "number list": [
+            "10.0",
+            "5.1"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3146,
+        "prediction": "0.2 + 0.4",
+        "target": "0.2 + 0.4",
+        "number list": [
+            "0.2",
+            "0.4"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3816,
+        "prediction": "58.0 / 2.0",
+        "target": "( 58.0 / 2.0 )",
+        "number list": [
+            "58.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 387,
+        "prediction": "8.0 - 8.0",
+        "target": "8.0 - 4.0",
+        "number list": [
+            "8.0",
+            "4.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 48,
+        "prediction": "10.0 + 24.0 + 33.0",
+        "target": "10.0 + 24.0 + 33.0",
+        "number list": [
+            "10.0",
+            "24.0",
+            "33.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3729,
+        "prediction": "( 142.0 - 31.0 )",
+        "target": "( 142.0 - 31.0 )",
+        "number list": [
+            "142.0",
+            "31.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3614,
+        "prediction": "( 12.0 / 6.0 )",
+        "target": "( 12.0 / 6.0 )",
+        "number list": [
+            "12.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3233,
+        "prediction": "( 14.0 * 6.0 )",
+        "target": "14.0 * 6.0",
+        "number list": [
+            "14.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2347,
+        "prediction": "( ( 34.0 + 7.0 ) - 17.0 )",
+        "target": "( ( 34.0 + 7.0 ) - 17.0 )",
+        "number list": [
+            "34.0",
+            "17.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2876,
+        "prediction": "5.0 + 6.0",
+        "target": "5.0 + 6.0 + 3.0",
+        "number list": [
+            "5.0",
+            "6.0",
+            "3.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3136,
+        "prediction": "0.375 + 0.25",
+        "target": "0.375 + 0.25",
+        "number list": [
+            "0.375",
+            "0.25"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2950,
+        "prediction": "110.0 * 22.0",
+        "target": "110.0 / 22.0",
+        "number list": [
+            "110.0",
+            "22.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 30,
+        "prediction": "20.0 + 21.0",
+        "target": "20.0 + 21.0",
+        "number list": [
+            "20.0",
+            "21.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3913,
+        "prediction": "( 28.3 - 5.0 )",
+        "target": "( 28.3 * 5.0 )",
+        "number list": [
+            "28.3",
+            "5.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2623,
+        "prediction": "( ( 2.0 + 13.0 ) / 3.0 )",
+        "target": "( ( 2.0 + 13.0 ) / 3.0 )",
+        "number list": [
+            "2.0",
+            "13.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2364,
+        "prediction": "( ( 12.0 + 15.0 ) - 10.0 )",
+        "target": "( ( 12.0 + 15.0 ) - 10.0 )",
+        "number list": [
+            "12.0",
+            "10.0",
+            "15.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2421,
+        "prediction": "( ( 42.0 + 39.0 ) - 22.0 )",
+        "target": "( ( 42.0 + 39.0 ) - 22.0 )",
+        "number list": [
+            "42.0",
+            "22.0",
+            "39.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2444,
+        "prediction": "( ( 28.0 + 8.0 ) - 25.0 )",
+        "target": "( ( 28.0 + 8.0 ) - 25.0 )",
+        "number list": [
+            "28.0",
+            "25.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3198,
+        "prediction": "1.125 + 2.125",
+        "target": "1.125 + 2.125",
+        "number list": [
+            "1.125",
+            "2.125"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 85,
+        "prediction": "79.0 - 63.0",
+        "target": "79.0 - 63.0",
+        "number list": [
+            "79.0",
+            "63.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3778,
+        "prediction": "( 58.0 + 37.0 )",
+        "target": "( 58.0 + 37.0 )",
+        "number list": [
+            "58.0",
+            "37.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 986,
+        "prediction": "80.0 * . 1.0 * 40.0",
+        "target": "( 80.0 * 0.01 ) * 40.0",
+        "number list": [
+            "80.0",
+            "40.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 155,
+        "prediction": "9792.0 - 3513.0",
+        "target": "9792.0 - 3513.0",
+        "number list": [
+            "9792.0",
+            "3513.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2757,
+        "prediction": "( ( 41.0 - 29.0 ) / 4.0 )",
+        "target": "( ( 41.0 - 29.0 ) / 4.0 )",
+        "number list": [
+            "41.0",
+            "29.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2665,
+        "prediction": "( 5.0 * ( 8.0 - 5.0 ) )",
+        "target": "( 5.0 * ( 8.0 - 5.0 ) )",
+        "number list": [
+            "8.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 45,
+        "prediction": "14.0 + 29.0",
+        "target": "14.0 + 29.0",
+        "number list": [
+            "14.0",
+            "29.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3510,
+        "prediction": "( 72.0 / 9.0 )",
+        "target": "( 72.0 / 9.0 )",
+        "number list": [
+            "72.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3566,
+        "prediction": "( 5.0 + 62.0 )",
+        "target": "( 5.0 + 62.0 )",
+        "number list": [
+            "6.0",
+            "5.0",
+            "62.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 16,
+        "prediction": "2.0 + 9.0",
+        "target": "2.0 + 9.0",
+        "number list": [
+            "2.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3704,
+        "prediction": "( 30.0 - 8.0 )",
+        "target": "( 30.0 - 8.0 )",
+        "number list": [
+            "30.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 323,
+        "prediction": "149.16 + 9.98 + 4.14",
+        "target": "149.16 + 9.98 + 4.14",
+        "number list": [
+            "149.16",
+            "9.98",
+            "4.14",
+            "8.65"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2436,
+        "prediction": "( ( 40.0 + 21.0 ) - 25.0 )",
+        "target": "( ( 40.0 + 21.0 ) - 25.0 )",
+        "number list": [
+            "40.0",
+            "25.0",
+            "21.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2432,
+        "prediction": "( ( 11.0 + 10.0 ) - 5.0 )",
+        "target": "( ( 11.0 + 10.0 ) - 5.0 )",
+        "number list": [
+            "11.0",
+            "5.0",
+            "10.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3130,
+        "prediction": "( 15.0 * 12.0 )",
+        "target": "15.0 * 12.0",
+        "number list": [
+            "15.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3595,
+        "prediction": "( 72.0 / 9.0 )",
+        "target": "( 72.0 / 9.0 )",
+        "number list": [
+            "72.0",
+            "17.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3372,
+        "prediction": "( 4.0 + 8.0 )",
+        "target": "( 4.0 + 8.0 )",
+        "number list": [
+            "4.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2984,
+        "prediction": "8.0 * 3.0",
+        "target": "8.0 * 3.0",
+        "number list": [
+            "8.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3609,
+        "prediction": "( 5.0 * 3.0 )",
+        "target": "( 5.0 * 3.0 )",
+        "number list": [
+            "5.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2308,
+        "prediction": "( ( 8.0 + 43.0 ) - 42.0 )",
+        "target": "( ( 8.0 + 43.0 ) - 42.0 )",
+        "number list": [
+            "8.0",
+            "43.0",
+            "42.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2496,
+        "prediction": "( 3.0 * ( 2.0 + 2.0 ) )",
+        "target": "( 3.0 * ( 2.0 + 2.0 ) )",
+        "number list": [
+            "2.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3002,
+        "prediction": "5.0 * 7.0",
+        "target": "5.0 * 7.0",
+        "number list": [
+            "5.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2879,
+        "prediction": "4.0 + 5.0 + 9.0",
+        "target": "4.0 + 5.0 + 9.0",
+        "number list": [
+            "4.0",
+            "5.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3586,
+        "prediction": "( 87.0 - 8.0 )",
+        "target": "( 87.0 - 9.0 )",
+        "number list": [
+            "87.0",
+            "9.0",
+            "8.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 179,
+        "prediction": "0.875 - 0.75",
+        "target": "0.875 - 0.75",
+        "number list": [
+            "0.875",
+            "0.75"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3752,
+        "prediction": "99.0 * 2.0",
+        "target": "( 99.0 * 2.0 )",
+        "number list": [
+            "99.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3388,
+        "prediction": "( 15.0 + 3.0 )",
+        "target": "( 15.0 + 3.0 )",
+        "number list": [
+            "15.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2337,
+        "prediction": "( ( 24.0 + 39.0 ) - 4.0 )",
+        "target": "( ( 24.0 + 39.0 ) - 4.0 )",
+        "number list": [
+            "24.0",
+            "39.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3047,
+        "prediction": "( 33.0 - 26.0 )",
+        "target": "33.0 - 26.0",
+        "number list": [
+            "33.0",
+            "26.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3492,
+        "prediction": "( 2.0 * 10.0 )",
+        "target": "( 2.0 * 10.0 )",
+        "number list": [
+            "2.0",
+            "10.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3193,
+        "prediction": "2.8333333333333335 + 2.8333333333333335",
+        "target": "2.8333333333333335 + 2.8333333333333335",
+        "number list": [
+            "2.8333333333333335"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3604,
+        "prediction": "( 3.0 * 2.0 )",
+        "target": "( 3.0 * 2.0 )",
+        "number list": [
+            "3.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 302,
+        "prediction": "7.0 - 4.0",
+        "target": "7.0 - 4.0",
+        "number list": [
+            "7.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3763,
+        "prediction": "( 4.0 * 5.0 )",
+        "target": "( 4.0 * 5.0 )",
+        "number list": [
+            "4.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3533,
+        "prediction": "( 12.0 / 12.0 )",
+        "target": "( 12.0 / 12.0 )",
+        "number list": [
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 151,
+        "prediction": "712261.0 + 259378.0",
+        "target": "712261.0 + 259378.0",
+        "number list": [
+            "712261.0",
+            "259378.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2811,
+        "prediction": "( ( 45.0 - 35.0 ) / 5.0 )",
+        "target": "( ( 45.0 - 35.0 ) / 5.0 )",
+        "number list": [
+            "45.0",
+            "5.0",
+            "35.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2434,
+        "prediction": "( ( 11.0 + 42.0 ) - 6.0 )",
+        "target": "( ( 11.0 + 42.0 ) - 6.0 )",
+        "number list": [
+            "11.0",
+            "6.0",
+            "42.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3900,
+        "prediction": "( 219.0 + 229.0 )",
+        "target": "( 219.0 + 229.0 )",
+        "number list": [
+            "219.0",
+            "229.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2475,
+        "prediction": "( 8.0 * ( 3.0 + 5.0 ) )",
+        "target": "( 8.0 * ( 3.0 + 5.0 ) )",
+        "number list": [
+            "8.0",
+            "3.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3694,
+        "prediction": "( 18.0 + 49.0 )",
+        "target": "( 49.0 - 18.0 )",
+        "number list": [
+            "18.0",
+            "49.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3546,
+        "prediction": "( 54.0 / 6.0 )",
+        "target": "( 54.0 / 6.0 )",
+        "number list": [
+            "6.0",
+            "54.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2497,
+        "prediction": "( 4.0 * ( 2.0 + 5.0 ) )",
+        "target": "( 4.0 * ( 2.0 + 5.0 ) )",
+        "number list": [
+            "2.0",
+            "5.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3906,
+        "prediction": "( 0.375 + 0.5 )",
+        "target": "( 0.375 + 0.5 )",
+        "number list": [
+            "0.375",
+            "0.5"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 218,
+        "prediction": "0.16666666666666666 + 0.16666666666666666 + 0.08333333333333333",
+        "target": "0.16666666666666666 + 0.16666666666666666 + 0.08333333333333333",
+        "number list": [
+            "0.16666666666666666",
+            "0.08333333333333333"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2269,
+        "prediction": "( ( 41.0 + 29.0 ) - 15.0 )",
+        "target": "( ( 41.0 + 29.0 ) - 15.0 )",
+        "number list": [
+            "41.0",
+            "29.0",
+            "15.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2464,
+        "prediction": "( 9.0 * ( 7.0 + 3.0 ) )",
+        "target": "( 9.0 * ( 7.0 + 3.0 ) )",
+        "number list": [
+            "7.0",
+            "3.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 314,
+        "prediction": "12.32 + 3.0 + 11.54",
+        "target": "12.32 + 11.54",
+        "number list": [
+            "12.32",
+            "3.0",
+            "11.54"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3041,
+        "prediction": "43.0 - 27.0",
+        "target": "43.0 - 27.0",
+        "number list": [
+            "43.0",
+            "27.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3393,
+        "prediction": "( 8.0 + 62.0 )",
+        "target": "( 8.0 + 62.0 )",
+        "number list": [
+            "8.0",
+            "62.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3610,
+        "prediction": "( 6.0 / 3.0 )",
+        "target": "( 6.0 / 3.0 )",
+        "number list": [
+            "6.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2897,
+        "prediction": "37.0 + 28.0 + 39.0",
+        "target": "37.0 + 28.0 + 39.0",
+        "number list": [
+            "37.0",
+            "28.0",
+            "39.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3501,
+        "prediction": "( 35.0 / 7.0 )",
+        "target": "( 35.0 / 7.0 )",
+        "number list": [
+            "35.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2590,
+        "prediction": "( ( 6.0 + 19.0 ) / 5.0 )",
+        "target": "( ( 6.0 + 19.0 ) / 5.0 )",
+        "number list": [
+            "5.0",
+            "6.0",
+            "19.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3897,
+        "prediction": "14.0 * 6.0",
+        "target": "( 14.0 * 6.0 )",
+        "number list": [
+            "14.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3506,
+        "prediction": "( 12.0 / 4.0 )",
+        "target": "( 12.0 / 4.0 )",
+        "number list": [
+            "4.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 43,
+        "prediction": "40.0 + 41.0",
+        "target": "40.0 + 41.0",
+        "number list": [
+            "40.0",
+            "41.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3391,
+        "prediction": "( 51.0 + 6.0 )",
+        "target": "( 51.0 + 6.0 )",
+        "number list": [
+            "51.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3375,
+        "prediction": "( 8.0 + 89.0 )",
+        "target": "( 8.0 + 89.0 )",
+        "number list": [
+            "8.0",
+            "89.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2488,
+        "prediction": "( 4.0 * ( 6.0 + 2.0 ) )",
+        "target": "( 4.0 * ( 6.0 + 2.0 ) )",
+        "number list": [
+            "4.0",
+            "6.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2257,
+        "prediction": "( ( 24.0 + 12.0 ) - 14.0 )",
+        "target": "( ( 24.0 + 12.0 ) - 14.0 )",
+        "number list": [
+            "24.0",
+            "12.0",
+            "14.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 194,
+        "prediction": "1.0 - 0.8",
+        "target": "0.8 - 0.1",
+        "number list": [
+            "2.0",
+            "1.0",
+            "0.8",
+            "0.1"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2294,
+        "prediction": "( ( 41.0 + 28.0 ) - 15.0 )",
+        "target": "( ( 41.0 + 28.0 ) - 15.0 )",
+        "number list": [
+            "41.0",
+            "28.0",
+            "15.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3832,
+        "prediction": "( 344.0 - 136.0 )",
+        "target": "( 344.0 - 136.0 )",
+        "number list": [
+            "344.0",
+            "136.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3043,
+        "prediction": "30.0 - 16.0",
+        "target": "30.0 - 16.0",
+        "number list": [
+            "30.0",
+            "16.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3147,
+        "prediction": "0.4 + 0.2",
+        "target": "0.4 - 0.2",
+        "number list": [
+            "0.4",
+            "0.2"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3775,
+        "prediction": "( 53.0 - 37.0 )",
+        "target": "( 53.0 - 37.0 )",
+        "number list": [
+            "37.0",
+            "53.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2284,
+        "prediction": "( ( 41.0 + 14.0 ) - 31.0 )",
+        "target": "( ( 41.0 + 14.0 ) - 31.0 )",
+        "number list": [
+            "41.0",
+            "14.0",
+            "31.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2892,
+        "prediction": "39.0 + 41.0 + 20.0",
+        "target": "39.0 + 41.0 + 20.0",
+        "number list": [
+            "39.0",
+            "41.0",
+            "20.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 339,
+        "prediction": "2.0 + 9.0",
+        "target": "2.0 + 9.0",
+        "number list": [
+            "2.0",
+            "5.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 364,
+        "prediction": "15.0 + 39.0",
+        "target": "15.0 + 39.0",
+        "number list": [
+            "15.0",
+            "41.0",
+            "39.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2415,
+        "prediction": "( ( 23.0 + 47.0 ) - 10.0 )",
+        "target": "( ( 23.0 + 47.0 ) - 10.0 )",
+        "number list": [
+            "23.0",
+            "10.0",
+            "47.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2478,
+        "prediction": "( 6.0 * ( 2.0 + 7.0 ) )",
+        "target": "( 6.0 * ( 2.0 + 7.0 ) )",
+        "number list": [
+            "6.0",
+            "2.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3615,
+        "prediction": "( 5.0 * 2.0 )",
+        "target": "( 5.0 * 2.0 )",
+        "number list": [
+            "5.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 190,
+        "prediction": "0.625 - 0.25",
+        "target": "0.625 - 0.25",
+        "number list": [
+            "0.625",
+            "0.25"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 163,
+        "prediction": "6689.0 - 660.0",
+        "target": "6689.0 - 660.0",
+        "number list": [
+            "6689.0",
+            "660.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2707,
+        "prediction": "( 5.0 * ( 15.0 - 8.0 ) )",
+        "target": "( 5.0 * ( 15.0 - 8.0 ) )",
+        "number list": [
+            "5.0",
+            "15.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3229,
+        "prediction": "4.1 - 2.4",
+        "target": "4.1 - 2.4",
+        "number list": [
+            "4.1",
+            "2.4"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 354,
+        "prediction": "5.0 + 6.0 + 7.0",
+        "target": "5.0 + 6.0 + 7.0",
+        "number list": [
+            "6.0",
+            "7.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2704,
+        "prediction": "( 4.0 * ( 16.0 - 8.0 ) )",
+        "target": "( 4.0 * ( 16.0 - 8.0 ) )",
+        "number list": [
+            "4.0",
+            "16.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 211,
+        "prediction": "0.2 + 0.1",
+        "target": "0.2 + 0.1",
+        "number list": [
+            "0.2",
+            "0.1"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2500,
+        "prediction": "( 8.0 * ( 2.0 + 5.0 ) )",
+        "target": "( 8.0 * ( 2.0 + 5.0 ) )",
+        "number list": [
+            "2.0",
+            "5.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3237,
+        "prediction": "( 37.0 * 17.0 )",
+        "target": "37.0 * 17.0",
+        "number list": [
+            "37.0",
+            "17.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2596,
+        "prediction": "( ( 3.0 + 6.0 ) / 3.0 )",
+        "target": "( ( 3.0 + 6.0 ) / 3.0 )",
+        "number list": [
+            "6.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2796,
+        "prediction": "( ( 35.0 - 7.0 ) / 4.0 )",
+        "target": "( ( 35.0 - 7.0 ) / 4.0 )",
+        "number list": [
+            "35.0",
+            "7.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2451,
+        "prediction": "( 7.0 * ( 2.0 + 7.0 ) )",
+        "target": "( 7.0 * ( 7.0 + 2.0 ) )",
+        "number list": [
+            "2.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 288,
+        "prediction": "139.0 + 131.0",
+        "target": "139.0 + 131.0",
+        "number list": [
+            "139.0",
+            "118.0",
+            "131.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2933,
+        "prediction": "79.0 - 63.0",
+        "target": "79.0 - 63.0",
+        "number list": [
+            "79.0",
+            "63.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3787,
+        "prediction": "312.0 + 146.0",
+        "target": "( 312.0 * 146.0 )",
+        "number list": [
+            "312.0",
+            "146.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3702,
+        "prediction": "( 43.0 - 11.0 )",
+        "target": "( 43.0 - 11.0 )",
+        "number list": [
+            "11.0",
+            "43.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3390,
+        "prediction": "( 9.0 + 18.0 )",
+        "target": "( 9.0 + 18.0 )",
+        "number list": [
+            "9.0",
+            "18.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2780,
+        "prediction": "( ( 40.0 - 20.0 ) / 4.0 )",
+        "target": "( ( 40.0 - 20.0 ) / 4.0 )",
+        "number list": [
+            "40.0",
+            "20.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3196,
+        "prediction": "10.0 + 5.1",
+        "target": "10.0 + 5.1",
+        "number list": [
+            "10.0",
+            "5.1"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2280,
+        "prediction": "( ( 39.0 + 38.0 ) - 64.0 )",
+        "target": "( ( 39.0 + 38.0 ) - 64.0 )",
+        "number list": [
+            "39.0",
+            "38.0",
+            "64.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2716,
+        "prediction": "( 9.0 * ( 11.0 - 6.0 ) )",
+        "target": "( 9.0 * ( 11.0 - 6.0 ) )",
+        "number list": [
+            "11.0",
+            "6.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3022,
+        "prediction": "4.0 * 9.0",
+        "target": "4.0 * ( 9.0 * 12.0 )",
+        "number list": [
+            "9.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 64,
+        "prediction": "6.0 + 7.0",
+        "target": "6.0 + 7.0",
+        "number list": [
+            "6.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3361,
+        "prediction": "( 9.0 + 4.0 )",
+        "target": "( 9.0 + 4.0 )",
+        "number list": [
+            "9.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2953,
+        "prediction": "2000.0 / [UNK]",
+        "target": "2000.0 / [UNK]",
+        "number list": [
+            "2000.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3240,
+        "prediction": "( 1785.0 * ( 8.0 - 1785.0 ) )",
+        "target": "8.0 * 1785.0",
+        "number list": [
+            "8.0",
+            "1785.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2677,
+        "prediction": "( 3.0 * ( 12.0 - 5.0 ) )",
+        "target": "( 3.0 * ( 12.0 - 5.0 ) )",
+        "number list": [
+            "12.0",
+            "5.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3330,
+        "prediction": "( 1.3 - NUM_1 )",
+        "target": "1.3 / [UNK]",
+        "number list": [
+            "1.3"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 106,
+        "prediction": "5.0 - 3.0",
+        "target": "5.0 - 3.0",
+        "number list": [
+            "5.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2989,
+        "prediction": "6.0 * 12.0",
+        "target": "6.0 * 12.0",
+        "number list": [
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2916,
+        "prediction": "6.0 + 9.0",
+        "target": "6.0 + 9.0",
+        "number list": [
+            "6.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3782,
+        "prediction": "37.0 * 19.0",
+        "target": "( 37.0 * 19.0 )",
+        "number list": [
+            "37.0",
+            "19.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3644,
+        "prediction": "( 4.0 / 3.0 )",
+        "target": "( 4.0 - 3.0 )",
+        "number list": [
+            "4.0",
+            "3.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 2740,
+        "prediction": "( 2.0 * ( 9.0 - 2.0 ) )",
+        "target": "( 2.0 * ( 9.0 - 2.0 ) )",
+        "number list": [
+            "9.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2825,
+        "prediction": "( ( 24.0 - 10.0 ) / 7.0 )",
+        "target": "( ( 24.0 - 10.0 ) / 7.0 )",
+        "number list": [
+            "24.0",
+            "10.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2492,
+        "prediction": "( 3.0 * ( 2.0 + 4.0 ) )",
+        "target": "( 3.0 * ( 2.0 + 4.0 ) )",
+        "number list": [
+            "2.0",
+            "4.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 11,
+        "prediction": "( 7.0 + 5.0 )",
+        "target": "7.0 + 5.0",
+        "number list": [
+            "7.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 110,
+        "prediction": "9.0 - 3.0",
+        "target": "9.0 - 3.0",
+        "number list": [
+            "9.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 111,
+        "prediction": "7.0 - 3.0",
+        "target": "7.0 - 3.0",
+        "number list": [
+            "7.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3488,
+        "prediction": "( 6.0 * 4.0 )",
+        "target": "( 6.0 * 4.0 )",
+        "number list": [
+            "6.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3760,
+        "prediction": "( 223.0 - 388.0 )",
+        "target": "( 388.0 - 223.0 )",
+        "number list": [
+            "223.0",
+            "388.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 3106,
+        "prediction": "( 91.0 + 24.0 ) + 6.0 + 11.0",
+        "target": "91.0 - ( ( 24.0 + 6.0 ) + 11.0 )",
+        "number list": [
+            "91.0",
+            "24.0",
+            "6.0",
+            "11.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 134,
+        "prediction": "5973.0 + 8723.0",
+        "target": "5973.0 + 8723.0",
+        "number list": [
+            "5973.0",
+            "8723.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3709,
+        "prediction": "( 42.0 - 29.0 )",
+        "target": "( 42.0 - 29.0 )",
+        "number list": [
+            "29.0",
+            "42.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3651,
+        "prediction": "( 3.0 + 2.0 )",
+        "target": "( 3.0 + 2.0 )",
+        "number list": [
+            "3.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2915,
+        "prediction": "7.0 + 9.0",
+        "target": "7.0 + 9.0",
+        "number list": [
+            "7.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3381,
+        "prediction": "( 5.0 + 86.0 )",
+        "target": "( 5.0 + 86.0 )",
+        "number list": [
+            "5.0",
+            "86.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3725,
+        "prediction": "31.0 + 22.0",
+        "target": "( 31.0 + 22.0 )",
+        "number list": [
+            "31.0",
+            "22.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3423,
+        "prediction": "( 67.0 - 9.0 )",
+        "target": "( 67.0 - 9.0 )",
+        "number list": [
+            "67.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3262,
+        "prediction": "49.0 / 7.0",
+        "target": "49.0 / 7.0",
+        "number list": [
+            "49.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 162,
+        "prediction": "9437.0 - 6922.0",
+        "target": "9437.0 - 6922.0",
+        "number list": [
+            "9437.0",
+            "6922.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 54,
+        "prediction": "11.0 + 17.0 + 16.0",
+        "target": "11.0 + 17.0 + 16.0",
+        "number list": [
+            "11.0",
+            "17.0",
+            "16.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2513,
+        "prediction": "( 6.0 * ( 3.0 + 6.0 ) )",
+        "target": "( 6.0 * ( 3.0 + 3.0 ) )",
+        "number list": [
+            "3.0",
+            "6.0"
+        ],
+        "value acc": false,
+        "equ acc": false
+    },
+    {
+        "id": 350,
+        "prediction": "7.0 + 9.0 + 2.0",
+        "target": "7.0 + 9.0 + 2.0",
+        "number list": [
+            "8.0",
+            "7.0",
+            "9.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3301,
+        "prediction": "( 27.0 * 18.0 )",
+        "target": "27.0 * 18.0",
+        "number list": [
+            "27.0",
+            "18.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3536,
+        "prediction": "( 36.0 / 12.0 )",
+        "target": "( 36.0 / 12.0 )",
+        "number list": [
+            "36.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3634,
+        "prediction": "( 5.0 / 4.0 )",
+        "target": "( 5.0 / 4.0 )",
+        "number list": [
+            "5.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 221,
+        "prediction": "0.3333333333333333 + 0.3333333333333333 + 0.08333333333333333",
+        "target": "0.3333333333333333 + 0.3333333333333333 + 0.08333333333333333",
+        "number list": [
+            "0.3333333333333333",
+            "0.08333333333333333"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2804,
+        "prediction": "( ( 101.0 - 47.0 ) / 6.0 )",
+        "target": "( ( 101.0 - 47.0 ) / 6.0 )",
+        "number list": [
+            "101.0",
+            "47.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2650,
+        "prediction": "( 6.0 * ( 5.0 - 2.0 ) )",
+        "target": "( 6.0 * ( 5.0 - 2.0 ) )",
+        "number list": [
+            "5.0",
+            "2.0",
+            "6.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3103,
+        "prediction": "( 17.0 + ( 48.0 + 25.0 ) ) - 49.0",
+        "target": "( ( 17.0 + 48.0 ) + 25.0 ) - 49.0",
+        "number list": [
+            "17.0",
+            "48.0",
+            "25.0",
+            "49.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 165,
+        "prediction": "7422.0 - 723.0",
+        "target": "7422.0 - 723.0",
+        "number list": [
+            "7422.0",
+            "723.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3228,
+        "prediction": "4.0 + 8.7",
+        "target": "4.0 + 8.7",
+        "number list": [
+            "4.0",
+            "8.7"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 283,
+        "prediction": "86.0 - 25.0",
+        "target": "86.0 - 25.0",
+        "number list": [
+            "86.0",
+            "20.0",
+            "25.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 115,
+        "prediction": "30.0 - 16.0",
+        "target": "30.0 - 16.0",
+        "number list": [
+            "30.0",
+            "16.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3178,
+        "prediction": "0.125 + 0.125 + 0.5",
+        "target": "0.125 + 0.125 + 0.5",
+        "number list": [
+            "0.125",
+            "0.5"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3857,
+        "prediction": "157.0 + 86.0",
+        "target": "( 157.0 + 86.0 )",
+        "number list": [
+            "157.0",
+            "86.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2839,
+        "prediction": "( ( 85.0 - 40.0 ) / 5.0 )",
+        "target": "( ( 85.0 - 40.0 ) / 5.0 )",
+        "number list": [
+            "85.0",
+            "40.0",
+            "5.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3905,
+        "prediction": "( 2436.0 / 3.0 )",
+        "target": "( 2436.0 / 3.0 )",
+        "number list": [
+            "2436.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 318,
+        "prediction": "9.46 + 9.56",
+        "target": "9.46 + 9.56",
+        "number list": [
+            "9.46",
+            "9.56",
+            "14.5"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3028,
+        "prediction": "6.0 * 3.0",
+        "target": "6.0 * 3.0",
+        "number list": [
+            "6.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 210,
+        "prediction": "0.125 + 0.5",
+        "target": "0.125 + 0.5",
+        "number list": [
+            "0.125",
+            "0.5"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3294,
+        "prediction": "( 121.0 - 22.0 )",
+        "target": "121.0 - 22.0",
+        "number list": [
+            "121.0",
+            "22.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 2641,
+        "prediction": "( ( 30.0 + 51.0 ) / 9.0 )",
+        "target": "( ( 30.0 + 51.0 ) / 9.0 )",
+        "number list": [
+            "30.0",
+            "51.0",
+            "9.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 1836,
+        "prediction": "450.0 - 315.0",
+        "target": "450.0 - 315.0",
+        "number list": [
+            "450.0",
+            "315.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2638,
+        "prediction": "( ( 4.0 + 52.0 ) / 7.0 )",
+        "target": "( ( 4.0 + 52.0 ) / 7.0 )",
+        "number list": [
+            "4.0",
+            "52.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 185,
+        "prediction": "0.6 + 0.2",
+        "target": "0.6 + 0.2",
+        "number list": [
+            "0.6",
+            "0.2"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 22,
+        "prediction": "4.0 + 9.0 + 3.0",
+        "target": "4.0 + 9.0 + 3.0",
+        "number list": [
+            "4.0",
+            "9.0",
+            "3.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3410,
+        "prediction": "( 57.0 - 22.0 )",
+        "target": "( 57.0 - 22.0 )",
+        "number list": [
+            "22.0",
+            "57.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3293,
+        "prediction": "93.0 - 15.0",
+        "target": "93.0 - 15.0",
+        "number list": [
+            "93.0",
+            "15.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3890,
+        "prediction": "115.0 * 12.0",
+        "target": "( 115.0 * 12.0 )",
+        "number list": [
+            "115.0",
+            "12.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 3773,
+        "prediction": "( 78.0 - 64.0 )",
+        "target": "( 78.0 - 64.0 )",
+        "number list": [
+            "64.0",
+            "78.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2370,
+        "prediction": "( ( 40.0 + 26.0 ) - 14.0 )",
+        "target": "( ( 40.0 + 26.0 ) - 14.0 )",
+        "number list": [
+            "40.0",
+            "14.0",
+            "26.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3064,
+        "prediction": "14.28 + 4.74",
+        "target": "14.28 + 4.74",
+        "number list": [
+            "14.28",
+            "4.74"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2358,
+        "prediction": "( ( 34.0 + 13.0 ) - 20.0 )",
+        "target": "( ( 34.0 + 13.0 ) - 20.0 )",
+        "number list": [
+            "34.0",
+            "20.0",
+            "13.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2456,
+        "prediction": "( 9.0 * ( 2.0 + 2.0 ) )",
+        "target": "( 9.0 * ( 2.0 + 2.0 ) )",
+        "number list": [
+            "9.0",
+            "2.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3517,
+        "prediction": "( 28.0 / 7.0 )",
+        "target": "( 28.0 / 7.0 )",
+        "number list": [
+            "28.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3814,
+        "prediction": "( 80.0 / 4.0 )",
+        "target": "( 80.0 / 4.0 )",
+        "number list": [
+            "80.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3751,
+        "prediction": "( 6.0 * 8.0 )",
+        "target": "( 6.0 * 8.0 )",
+        "number list": [
+            "6.0",
+            "8.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 206,
+        "prediction": "0.625 - 0.25",
+        "target": "0.625 - 0.25",
+        "number list": [
+            "0.625",
+            "0.25"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 3863,
+        "prediction": "10.0 * 7.0",
+        "target": "( 10.0 * 7.0 )",
+        "number list": [
+            "10.0",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": false
+    },
+    {
+        "id": 236,
+        "prediction": "3.8333333333333335 - 0.16666666666666666",
+        "target": "3.8333333333333335 - 0.16666666666666666",
+        "number list": [
+            "3.8333333333333335",
+            "0.16666666666666666"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 252,
+        "prediction": "7.75 + 7.0",
+        "target": "7.75 + 7.0",
+        "number list": [
+            "7.75",
+            "7.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    },
+    {
+        "id": 2993,
+        "prediction": "6.0 + 4.0",
+        "target": "6.0 + 4.0",
+        "number list": [
+            "6.0",
+            "4.0"
+        ],
+        "value acc": true,
+        "equ acc": true
+    }
+]

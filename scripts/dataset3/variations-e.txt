@@ -1,0 +1,13 @@
+--- 346
+346
+
+
+1. After cutting some roses from her garden, Mary added them to the 6 roses already in the vase. If there are now 16 roses in the vase, how many roses did she cut?
+
+2. Mary reduced the number of roses in her garden by cutting some of them, and then proceeded to add them to the 6 roses in a vase. If the vase now has 16 roses, how many roses did she cut?
+
+3. In a vase, there were only 6 roses at first, but after Mary went to her garden and cut some roses, there are now 16 in the vase. How many roses did she cut from her garden?
+
+4. Mary plucked some of the roses from her garden and added them to the 6 that were already in a vase. If there are 16 roses in the vase now, how many roses did she cut from her garden?
+
+5. If Mary cut an undisclosed number of roses from her garden and then placed them in a vase with 6 roses already in it, and now there are 16 roses in the vase, what was the quantity of roses that she cut?

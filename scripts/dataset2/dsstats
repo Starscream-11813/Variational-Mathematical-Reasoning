@@ -1,0 +1,45 @@
+SVAMP
+
+Number of unique templates: 27
+Number of problems with k operators:
+        k = 0 : 1
+        k = 1 : 762
+        k = 2 : 237
+Average number of operators: 1.236
+Number of problems: 1000
+
+
+MAWPS
+
+Number of unique templates: 159
+Number of problems with k operators:
+        k = 1 : 1310
+        k = 2 : 865
+        k = 3 : 107
+        k = 4 : 41
+        k = 5 : 34
+        k = 6 : 5
+        k = 7 : 6
+        k = 8 : 2
+        k = 9 : 2
+        k = 10 : 1
+Average number of operators: 1.6059839865149599
+Number of problems: 2373
+
+MAWPS++
+
+Number of unique templates: 212
+Number of problems with k operators:
+        k = 1 : 2283
+        k = 2 : 1652
+        k = 3 : 428
+        k = 4 : 185
+        k = 5 : 210
+        k = 6 : 53
+        k = 7 : 70
+        k = 8 : 2
+        k = 9 : 19
+        k = 10 : 1
+Average number of operators: 1.9714460534366713
+Number of problems: 4903
+
