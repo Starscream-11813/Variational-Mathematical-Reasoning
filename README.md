@@ -1,8 +1,8 @@
 # Math Word Problem Solving by Generating Linguistic Variants of Problem Statements
 This repository contains the code, data, and models of the paper titled **"Math Word Problem Solving by Generating Linguistic Variants of Problem Statements"** published in the ***Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)***.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2305.06595-b31b1b.svg)](https://arxiv.org/abs/2306.13899)
-[![anthology](https://img.shields.io/badge/ACL%20Anthology-2023.findings--acl.80-EE161F.svg)](https://aclanthology.org/2023.acl-srw.49/)
+[![arXiv](https://img.shields.io/badge/arXiv-2306.13899-b31b1b.svg)](https://arxiv.org/abs/2306.13899)
+[![anthology](https://img.shields.io/badge/ACL%20Anthology-2023.acl--srw.49-EE161F.svg)](https://aclanthology.org/2023.acl-srw.49/)
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4L_7vaoAAAAJ&citation_for_view=4L_7vaoAAAAJ:d1gkVwhDpl0C)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white&color=gray&labelColor=00CCBB)](https://www.researchgate.net/publication/372918265_Math_Word_Problem_Solving_by_Generating_Linguistic_Variants_of_Problem_Statements)
 
