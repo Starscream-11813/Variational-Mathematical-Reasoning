@@ -47,7 +47,7 @@ To reproduce the results, please refer to the documentation of [MWPToolkit](http
 
 ## Citation
 If you find this work useful, please cite our paper:
-```
+```bib
 @inproceedings{raiyan-etal-2023-math,
     title = "Math Word Problem Solving by Generating Linguistic Variants of Problem Statements",
     author = "Raiyan, Syed Rifat  and
