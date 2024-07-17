@@ -7,6 +7,7 @@ The work is outlined in a more detailed and expository manner in our Bachelor of
 [![anthology](https://img.shields.io/badge/ACL%20Anthology-2023.acl--srw.49-EE161F.svg)](https://aclanthology.org/2023.acl-srw.49/)
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4L_7vaoAAAAJ&citation_for_view=4L_7vaoAAAAJ:d1gkVwhDpl0C)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white&color=gray&labelColor=00CCBB)](https://www.researchgate.net/publication/372918265_Math_Word_Problem_Solving_by_Generating_Linguistic_Variants_of_Problem_Statements)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-yellow?style=flat&logo=HuggingFace&logoColor=black&color=gray&labelColor=yellow)](https://huggingface.co/datasets/Starscream-11813/ParaMAWPS)
 
 [![PDF](https://img.shields.io/badge/Paper%20PDF-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=gray&labelColor=ec1c24)](https://aclanthology.org/2023.acl-srw.49.pdf)
 [![Slides](https://img.shields.io/badge/Slides%20PDF-EF3939?style=flat&logo=Microsoft+PowerPoint&logoColor=white&color=gray&labelColor=B7472A)](https://drive.google.com/file/d/1R-lB53BeaM-7XE0EoBZ5qfy-BSc61gup/view?usp=sharing)
